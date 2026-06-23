@@ -1,0 +1,125 @@
+name: Build and deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      build_question_bank_from_drive:
+        description: Sync Drive PDFs and rebuild question bank before deploy
+        type: boolean
+        default: true
+      sync_drive:
+        description: Run scripts/sync_drive.py
+        type: boolean
+        default: false
+      extract_questions:
+        description: Run scripts/extract_questions.py
+        type: boolean
+        default: false
+      extract_answers:
+        description: Run scripts/extract_answers.py
+        type: boolean
+        default: false
+      merge_question_answer:
+        description: Run scripts/merge_question_answer.py
+        type: boolean
+        default: false
+      validate_question_bank:
+        description: Run scripts/validate_question_bank.py
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install parser dependencies
+        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && (inputs.build_question_bank_from_drive || inputs.sync_drive || inputs.extract_questions || inputs.extract_answers || inputs.merge_question_answer || inputs.validate_question_bank)) }}
+        run: pip install -r requirements.txt
+
+      - name: Build question bank from Google Drive
+        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.build_question_bank_from_drive) }}
+        run: |
+          python scripts/sync_drive.py
+          python scripts/extract_questions.py
+          python scripts/extract_answers.py
+          python scripts/merge_question_answer.py
+          python scripts/validate_question_bank.py
+
+      - name: Sync Google Drive PDFs
+        if: ${{ github.event_name == 'workflow_dispatch' && !inputs.build_question_bank_from_drive && inputs.sync_drive }}
+        run: python scripts/sync_drive.py
+
+      - name: Extract questions
+        if: ${{ github.event_name == 'workflow_dispatch' && !inputs.build_question_bank_from_drive && inputs.extract_questions }}
+        run: python scripts/extract_questions.py
+
+      - name: Extract answers
+        if: ${{ github.event_name == 'workflow_dispatch' && !inputs.build_question_bank_from_drive && inputs.extract_answers }}
+        run: python scripts/extract_answers.py
+
+      - name: Merge questions and answers
+        if: ${{ github.event_name == 'workflow_dispatch' && !inputs.build_question_bank_from_drive && inputs.merge_question_answer }}
+        run: python scripts/merge_question_answer.py
+
+      - name: Validate question bank
+        if: ${{ github.event_name == 'workflow_dispatch' && !inputs.build_question_bank_from_drive && inputs.validate_question_bank }}
+        run: python scripts/validate_question_bank.py
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install frontend dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build
+        env:
+          VITE_AI_EXPLAIN_API_URL: ${{ vars.VITE_AI_EXPLAIN_API_URL || 'mock' }}
+          VITE_QUESTION_DATA_BASE_URL: ${{ vars.VITE_QUESTION_DATA_BASE_URL }}
+          VITE_QUESTION_ASSET_BASE_URL: ${{ vars.VITE_QUESTION_ASSET_BASE_URL }}
+        run: pnpm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
