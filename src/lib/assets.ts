@@ -19,6 +19,10 @@ export function getQuestionDataUrl(slug: string) {
   return `${import.meta.env.BASE_URL}data/questions/${slug}.json`;
 }
 
+export function getQuestionManifestUrl() {
+  return `${import.meta.env.BASE_URL}data/question_manifest.json`;
+}
+
 export function getQuestionAssetUrl(path: string) {
   const externalBaseUrl = (import.meta.env.VITE_QUESTION_ASSET_BASE_URL as string | undefined)?.trim();
   if (externalBaseUrl) {

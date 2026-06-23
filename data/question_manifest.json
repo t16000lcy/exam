@@ -1,0 +1,16 @@
+{
+  "phase": "phase1",
+  "phase_label": "Phase 1",
+  "description": "115 年第一次「醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）」",
+  "range_text": "115 年第一次「醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）」",
+  "total_questions": 80,
+  "subject_counts": {
+    "clinical-physiology-pathology": 0,
+    "hematology-blood-bank": 0,
+    "molecular-microscopy-parasitology": 80,
+    "microbiology-clinical-microbiology": 0,
+    "biochemistry-clinical-biochemistry": 0,
+    "serology-immunology-virology": 0
+  },
+  "generated_at": "2026-06-23T17:45:36.790645+00:00"
+}

@@ -104,3 +104,13 @@ export interface AttemptRecord {
   is_correct: boolean;
   timestamp: string;
 }
+
+export interface QuestionManifest {
+  phase: string;
+  phase_label: string;
+  description: string;
+  range_text: string;
+  total_questions: number;
+  subject_counts: Partial<Record<SubjectSlug, number>>;
+  generated_at?: string;
+}

@@ -1,9 +1,10 @@
 import { BarChart3, BookOpenCheck, ClipboardList, RotateCcw } from 'lucide-react';
-import type { QuizResult, SubjectSlug } from '../types';
+import type { QuestionManifest, QuizResult, SubjectSlug } from '../types';
 import { subjects } from '../lib/subjects';
 
 interface HomeProps {
   lastResult: QuizResult | null;
+  manifest: QuestionManifest | null;
   wrongBookCount: number;
   overallAccuracy: number | null;
   onStart: (slug: SubjectSlug) => void;
@@ -12,7 +13,12 @@ interface HomeProps {
   onOpenWeakAnalysis: () => void;
 }
 
-export function Home({ lastResult, wrongBookCount, overallAccuracy, onStart, onOpenLast, onOpenWrongBook, onOpenWeakAnalysis }: HomeProps) {
+export function Home({ lastResult, manifest, wrongBookCount, overallAccuracy, onStart, onOpenLast, onOpenWrongBook, onOpenWeakAnalysis }: HomeProps) {
+  const availableSubjects = subjects.filter((subject) => !manifest || (manifest.subject_counts[subject.slug] || 0) > 0);
+  const rangeText = manifest
+    ? `目前階段：${manifest.phase_label}，${manifest.range_text}，共${manifest.total_questions}題`
+    : '題目範圍：110年第一次國考~115年第一次國考，共5280題';
+
   return (
     <main className="min-h-screen bg-paper">
       <section className="mx-auto flex w-full max-w-7xl flex-col gap-6 px-4 py-5 sm:px-6 sm:py-8 lg:px-8 lg:py-10">
@@ -30,7 +36,7 @@ export function Home({ lastResult, wrongBookCount, overallAccuracy, onStart, onO
                 選擇科目後會隨機抽出 20 題練習，送出後可查看分數、正確答案、答錯答案與最近一次測驗紀錄。
               </p>
               <p className="mt-2 text-sm font-medium leading-7 text-sea sm:text-base">
-                題目範圍：110年第一次國考~115年第一次國考，共5280題
+                {rangeText}
               </p>
             </div>
           </div>
@@ -90,7 +96,7 @@ export function Home({ lastResult, wrongBookCount, overallAccuracy, onStart, onO
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {subjects.map((subject) => (
+          {availableSubjects.map((subject) => (
             <button
               key={subject.slug}
               type="button"
@@ -101,6 +107,7 @@ export function Home({ lastResult, wrongBookCount, overallAccuracy, onStart, onO
               <span className="mt-3 block text-xl font-semibold leading-8 text-ink sm:text-2xl">{subject.name}</span>
               <span className="mt-5 inline-flex w-fit rounded bg-white px-3 py-2 text-sm font-medium text-stone-700 shadow-sm">
                 開始 20 題練習
+                {manifest ? `（本階段 ${manifest.subject_counts[subject.slug] || 0} 題）` : ''}
               </span>
             </button>
           ))}

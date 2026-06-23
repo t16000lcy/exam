@@ -4,10 +4,11 @@ import { Quiz } from './components/Quiz';
 import { Result } from './components/Result';
 import { WeakAnalysis } from './components/WeakAnalysis';
 import { WrongBook } from './components/WrongBook';
+import { getQuestionManifestUrl } from './lib/assets';
 import { loadAttempts, loadWrongBook, recordQuizProgress } from './lib/progress';
 import { getSubject } from './lib/subjects';
 import { buildResult, clearSavedResult, loadLastResult, loadQuestions, pickRandomQuestions, saveResult } from './lib/quiz';
-import type { Question, QuizResult, SubjectSlug, UserAnswer } from './types';
+import type { Question, QuestionManifest, QuizResult, SubjectSlug, UserAnswer } from './types';
 
 type View = 'home' | 'quiz' | 'result' | 'wrongBook' | 'weakAnalysis';
 
@@ -21,11 +22,16 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [wrongBookCount, setWrongBookCount] = useState(0);
   const [overallAccuracy, setOverallAccuracy] = useState<number | null>(null);
+  const [manifest, setManifest] = useState<QuestionManifest | null>(null);
 
   useEffect(() => {
     clearSavedResult();
     setLastResult(null);
     refreshProgressSummary();
+    fetch(getQuestionManifestUrl(), { cache: 'no-store' })
+      .then((response) => (response.ok ? response.json() : null))
+      .then((data) => setManifest(data as QuestionManifest | null))
+      .catch(() => setManifest(null));
   }, []);
 
   async function startQuiz(slug: SubjectSlug) {
@@ -127,6 +133,7 @@ export default function App() {
     <>
       <Home
         lastResult={lastResult}
+        manifest={manifest}
         wrongBookCount={wrongBookCount}
         overallAccuracy={overallAccuracy}
         onOpenWrongBook={() => setView('wrongBook')}

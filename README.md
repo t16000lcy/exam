@@ -110,6 +110,33 @@ python scripts/merge_question_answer.py
 python scripts/validate_question_bank.py
 ```
 
+## 分階段題庫發布
+
+目前採分階段處理，不一次開放全部題庫：
+
+```bash
+# Phase 1：115 年第一次，醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）
+python scripts/build_phase_dataset.py --phase phase1
+
+# Phase 2：115 年全部六科
+python scripts/build_phase_dataset.py --phase phase2
+
+# Phase 3：110–115 年全部題目
+python scripts/build_phase_dataset.py --phase phase3
+```
+
+每次執行會更新網站使用的 `data/questions/*.json`、`data/ai_tutor_cache.json` 與 `data/question_manifest.json`，並產生：
+
+```text
+data/parse_report.json
+data/validation_report.json
+data/question_stats.json
+data/image_questions.json
+data/missing_answers.json
+data/manual_review_questions.json
+data/phases/{phase}/reports/
+```
+
 AI 訂正與教師審核資料流程：
 
 ```bash
