@@ -65,15 +65,19 @@ export interface QuizResult {
 }
 
 export interface AiTutorContent {
+  ai_full_text?: string;
   core_concept: string;
   correct_answer_text: string;
   why_correct: string;
+  student_wrong_reason?: string;
   option_analysis: Record<'A' | 'B' | 'C' | 'D', string>;
   memory_sentence: string;
   practice_question: string;
   practice_options: Record<'A' | 'B' | 'C' | 'D', string>;
   practice_answer: string;
   teacher_review_status: 'reviewed' | 'unreviewed' | string;
+  needs_teacher_check?: boolean;
+  generated_source?: 'ai' | 'template' | string;
   generated_at?: string;
 }
 

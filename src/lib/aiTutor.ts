@@ -32,6 +32,7 @@ export async function requestTutorContent(question: Question, studentAnswer: str
 
 export function getTutorStatusLabel(content?: AiTutorContent) {
   if (content?.teacher_review_status === 'reviewed') return '教師審核版';
+  if (content?.generated_source === 'ai' || content?.ai_full_text) return 'AI 逐題生成，建議教師確認';
   return 'AI 草稿，建議教師確認';
 }
 
@@ -87,6 +88,10 @@ function buildTemplateTutor(question: Question): AiTutorContent {
 
 function formatTutorContent(question: Question, studentAnswer: string, content: AiTutorContent, mode: AiTutorMode) {
   const correctAnswer = getCorrectAnswerText(question);
+  if (mode === 'explain' && content.ai_full_text) {
+    return content.ai_full_text;
+  }
+
   if (mode === 'hint') {
     return [
       '【提示】',

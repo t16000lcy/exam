@@ -142,11 +142,22 @@ AI 訂正與教師審核資料流程：
 ```bash
 python scripts/normalize_questions.py --input data/questions_master.json --output data/questions_master.json
 python scripts/generate_ai_tutor_cache.py --input data/questions_master.json --output data/ai_tutor_cache.json
+python scripts/generate_true_ai_tutor_cache.py --resume --output data/ai_tutor_cache.json
 python scripts/import_teacher_review.py --csv data/teacher_review_template.csv --cache data/ai_tutor_cache.json
 python scripts/validate_question_bank.py
 ```
 
 若尚未建立 `data/questions_master.json`，`normalize_questions.py` 與 `generate_ai_tutor_cache.py` 會改讀現有 `data/questions/*.json`。
+
+`generate_ai_tutor_cache.py` 只建立可離線使用的待補模板。真正逐題解題請使用 `generate_true_ai_tutor_cache.py`，並先在執行環境設定：
+
+```bash
+set OPENAI_API_KEY=...
+set OPENAI_MODEL=gpt-4.1-mini
+python scripts/generate_true_ai_tutor_cache.py --resume --limit 20
+```
+
+沒有 `OPENAI_API_KEY` 時，腳本會停止，不會產生假解答。
 
 輸出：
 

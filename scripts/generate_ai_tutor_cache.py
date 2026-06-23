@@ -33,15 +33,24 @@ def template_for(question: dict, topic: str) -> dict:
             option_analysis[label] = f"此選項非本題官方答案。複習時請將「{text}」與正確選項的關鍵差異比對。"
 
     source_label = question.get("source_label") or f"{question.get('year', '')} 年第 {question.get('exam_code', '')} 回第 {question.get('question_number', '')} 題"
-    answer_note = "官方答案為一律給分，此題不列入錯題統計。" if is_all_correct else f"官方答案標示為 {correct}。"
+    needs_teacher_check = is_all_correct or needs_image or topic == "待分類" or not correct_option_text
+    answer_note = "官方答案為一律給分，此題不列入錯題統計，可能需教師確認。" if is_all_correct else f"官方答案標示為 {correct}。"
     image_note = "本題需搭配原圖判讀；AI 訂正不可硬猜圖片內容。" if needs_image else ""
     review_note = "本題目前尚未有教師逐題審核解析，以下先依 parser 題幹、選項與官方答案產生訂正稿。"
+    dispute_note = "可能需教師確認。" if needs_teacher_check else ""
     why_correct = " ".join(part for part in [
         answer_note,
         f"正確選項內容：{correct_option_text}" if correct_option_text and not is_all_correct else "",
+        "判斷邏輯：先抓題幹問法與關鍵詞，再將官方正確選項與其他選項逐一比對；若題幹或圖片資訊不足，只能先依官方答案與選項文字建立訂正稿。",
         image_note,
         review_note,
+        dispute_note,
     ] if part)
+    wrong_reason = (
+        "學生若選到非官方答案，常見原因是只看到選項中的熟悉名詞，沒有回到題幹限定條件；訂正時請先圈出題幹關鍵字，再比較正確選項與自己答案的差異。"
+        if not is_all_correct
+        else "本題一律給分，不適合用來分析學生錯因。"
+    )
 
     practice_question = (
         f"同樣以「{topic}」為考點，請重新判斷一題相同觀念的變化題；先找題幹關鍵字，再比較 A-D 選項。"
@@ -58,6 +67,7 @@ def template_for(question: dict, topic: str) -> dict:
         ),
         "correct_answer_text": f"正確答案是：{correct}",
         "why_correct": why_correct,
+        "student_wrong_reason": wrong_reason,
         "option_analysis": {label: option_analysis.get(label, "") for label in ["A", "B", "C", "D"]},
         "memory_sentence": (
             "圖片題先看原圖關鍵，再回到題幹與官方答案比對。"
@@ -68,6 +78,7 @@ def template_for(question: dict, topic: str) -> dict:
         "practice_options": {"A": "", "B": "", "C": "", "D": ""},
         "practice_answer": "",
         "teacher_review_status": "unreviewed",
+        "needs_teacher_check": needs_teacher_check,
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
 
