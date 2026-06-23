@@ -1,0 +1,25 @@
+{
+  "phase": "phase3",
+  "description": "110–115 年全部題目",
+  "total_questions": 5280,
+  "subject_counts": {
+    "clinical-physiology-pathology": 880,
+    "hematology-blood-bank": 880,
+    "molecular-microscopy-parasitology": 880,
+    "microbiology-clinical-microbiology": 880,
+    "biochemistry-clinical-biochemistry": 880,
+    "serology-immunology-virology": 880
+  },
+  "year_counts": {
+    "110": 960,
+    "111": 960,
+    "112": 960,
+    "113": 960,
+    "114": 960,
+    "115": 480
+  },
+  "exam_code_counts": {
+    "1": 2880,
+    "2": 2400
+  }
+}

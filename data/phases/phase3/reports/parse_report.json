@@ -1,0 +1,19 @@
+{
+  "phase": "phase3",
+  "phase_label": "Phase 3",
+  "description": "110–115 年全部題目",
+  "generated_at": "2026-06-23T17:59:08.689020+00:00",
+  "success_question_count": 5280,
+  "failed_question_count": 0,
+  "subject_counts": {
+    "clinical-physiology-pathology": 880,
+    "hematology-blood-bank": 880,
+    "molecular-microscopy-parasitology": 880,
+    "microbiology-clinical-microbiology": 880,
+    "biochemistry-clinical-biochemistry": 880,
+    "serology-immunology-virology": 880
+  },
+  "image_question_count": 160,
+  "missing_answer_count": 0,
+  "manual_review_count": 4419
+}
