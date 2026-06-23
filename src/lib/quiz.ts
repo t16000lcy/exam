@@ -23,8 +23,13 @@ export function buildResult(
   questions: Question[],
   answers: UserAnswer[],
 ): QuizResult {
+  const answerByQuestionId = new Map<string, string>();
+  answers.forEach((item) => {
+    answerByQuestionId.set(item.questionId, item.answer);
+  });
+
   const correctCount = questions.filter((question) => {
-    const answer = answers.find((item) => item.questionId === question.id)?.answer || '';
+    const answer = answerByQuestionId.get(question.id) || '';
     return isCorrect(question, answer);
   }).length;
   const wrongCount = questions.length - correctCount;
@@ -44,6 +49,10 @@ export function buildResult(
 
 export function saveResult(result: QuizResult) {
   localStorage.setItem(resultStorageKey, JSON.stringify(result));
+}
+
+export function clearSavedResult() {
+  localStorage.removeItem(resultStorageKey);
 }
 
 export function loadLastResult(): QuizResult | null {

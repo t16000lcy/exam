@@ -3,7 +3,7 @@ import { Home } from './components/Home';
 import { Quiz } from './components/Quiz';
 import { Result } from './components/Result';
 import { getSubject } from './lib/subjects';
-import { buildResult, loadLastResult, loadQuestions, pickRandomQuestions, saveResult } from './lib/quiz';
+import { buildResult, clearSavedResult, loadLastResult, loadQuestions, pickRandomQuestions, saveResult } from './lib/quiz';
 import type { Question, QuizResult, SubjectSlug, UserAnswer } from './types';
 
 type View = 'home' | 'quiz' | 'result';
@@ -18,11 +18,14 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    setLastResult(loadLastResult());
+    clearSavedResult();
+    setLastResult(null);
   }, []);
 
   async function startQuiz(slug: SubjectSlug) {
     setError(null);
+    clearCurrentQuiz();
+    clearSavedResult();
     const subject = getSubject(slug);
     if (!subject) return;
     try {
@@ -64,6 +67,20 @@ export default function App() {
     setView('quiz');
   }
 
+  function clearCurrentQuiz() {
+    setActiveSubject(null);
+    setQuestions([]);
+    setAnswers([]);
+    setResult(null);
+    setLastResult(null);
+  }
+
+  function backHome() {
+    clearSavedResult();
+    clearCurrentQuiz();
+    setView('home');
+  }
+
   if (view === 'quiz' && activeSubject) {
     return (
       <Quiz
@@ -72,13 +89,13 @@ export default function App() {
         answers={answers}
         onAnswer={setAnswer}
         onSubmit={submitQuiz}
-        onBack={() => setView('home')}
+        onBack={backHome}
       />
     );
   }
 
   if (view === 'result' && result) {
-    return <Result result={result} onBackHome={() => setView('home')} onRetryWrong={retryWrong} />;
+    return <Result result={result} onBackHome={backHome} onRetryWrong={retryWrong} />;
   }
 
   return (
