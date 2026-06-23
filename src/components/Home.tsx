@@ -25,6 +25,9 @@ export function Home({ lastResult, onStart, onOpenLast }: HomeProps) {
               <p className="mt-3 max-w-3xl text-sm leading-7 text-stone-700 sm:text-base">
                 選擇科目後會隨機抽出 20 題練習，送出後可查看分數、正確答案、答錯答案與最近一次測驗紀錄。
               </p>
+              <p className="mt-2 text-sm font-medium leading-7 text-sea sm:text-base">
+                題目範圍：110年第一次國考~115年第一次國考，共5280題
+              </p>
             </div>
           </div>
         </div>
