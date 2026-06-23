@@ -2,11 +2,14 @@ import { useEffect, useState } from 'react';
 import { Home } from './components/Home';
 import { Quiz } from './components/Quiz';
 import { Result } from './components/Result';
+import { WeakAnalysis } from './components/WeakAnalysis';
+import { WrongBook } from './components/WrongBook';
+import { loadAttempts, loadWrongBook, recordQuizProgress } from './lib/progress';
 import { getSubject } from './lib/subjects';
 import { buildResult, clearSavedResult, loadLastResult, loadQuestions, pickRandomQuestions, saveResult } from './lib/quiz';
 import type { Question, QuizResult, SubjectSlug, UserAnswer } from './types';
 
-type View = 'home' | 'quiz' | 'result';
+type View = 'home' | 'quiz' | 'result' | 'wrongBook' | 'weakAnalysis';
 
 export default function App() {
   const [view, setView] = useState<View>('home');
@@ -16,10 +19,13 @@ export default function App() {
   const [answers, setAnswers] = useState<UserAnswer[]>([]);
   const [result, setResult] = useState<QuizResult | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [wrongBookCount, setWrongBookCount] = useState(0);
+  const [overallAccuracy, setOverallAccuracy] = useState<number | null>(null);
 
   useEffect(() => {
     clearSavedResult();
     setLastResult(null);
+    refreshProgressSummary();
   }, []);
 
   async function startQuiz(slug: SubjectSlug) {
@@ -53,9 +59,11 @@ export default function App() {
     const subject = getSubject(activeSubject);
     if (!subject) return;
     const nextResult = buildResult(activeSubject, subject.name, questions, answers);
+    recordQuizProgress(nextResult);
     setResult(nextResult);
     setLastResult(nextResult);
     saveResult(nextResult);
+    refreshProgressSummary();
     setView('result');
   }
 
@@ -79,6 +87,15 @@ export default function App() {
     clearSavedResult();
     clearCurrentQuiz();
     setView('home');
+    refreshProgressSummary();
+  }
+
+  function refreshProgressSummary() {
+    const wrongBook = loadWrongBook();
+    const attempts = loadAttempts();
+    const correct = attempts.filter((item) => item.is_correct).length;
+    setWrongBookCount(wrongBook.filter((item) => !item.mastered).length);
+    setOverallAccuracy(attempts.length === 0 ? null : Math.round((correct / attempts.length) * 100));
   }
 
   if (view === 'quiz' && activeSubject) {
@@ -98,10 +115,22 @@ export default function App() {
     return <Result result={result} onBackHome={backHome} onRetryWrong={retryWrong} />;
   }
 
+  if (view === 'wrongBook') {
+    return <WrongBook onBackHome={backHome} />;
+  }
+
+  if (view === 'weakAnalysis') {
+    return <WeakAnalysis onBackHome={backHome} />;
+  }
+
   return (
     <>
       <Home
         lastResult={lastResult}
+        wrongBookCount={wrongBookCount}
+        overallAccuracy={overallAccuracy}
+        onOpenWrongBook={() => setView('wrongBook')}
+        onOpenWeakAnalysis={() => setView('weakAnalysis')}
         onStart={startQuiz}
         onOpenLast={() => {
           const stored = loadLastResult();

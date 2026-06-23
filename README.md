@@ -65,17 +65,39 @@ https://your-static-host.example.com/question-assets/110/1/example.png
 
 ## AI 解題 API
 
-前端不放 OpenAI API key。正式部署時請設定：
+前端不放 OpenAI API key。新版前端會優先使用本地 `data/ai_tutor_cache.json`，若設定 API 才會在使用者按下 AI 訂正按鈕時呼叫後端。
 
 ```text
-VITE_AI_EXPLAIN_API_URL=https://your-api.example.com/explain
+VITE_AI_TUTOR_API_URL=https://your-worker.example.workers.dev
 ```
 
-本機測試可使用：
+Cloudflare Worker 範例：
 
 ```text
-VITE_AI_EXPLAIN_API_URL=mock
+worker/ai-tutor-worker.js
 ```
+
+Worker 端設定 `OPENAI_API_KEY`，不要把 API key 寫進前端或 GitHub Pages。
+
+AI 訂正小老師固定提供：
+
+- 給我提示
+- 幫我訂正這題
+- 為什麼我選錯？
+- 出一題相同觀念題
+
+無 API key 時仍會使用本地快取或待補模板，並標示「AI 草稿，建議教師確認」。
+
+## 錯題本與弱點分析
+
+資料只存在使用者瀏覽器 localStorage：
+
+```text
+medtech_exam_wrongbook_v1
+medtech_exam_attempts_v1
+```
+
+答錯題會自動加入錯題本；一律給分題不列入錯題統計。弱點分析會依作答紀錄計算總答題數、正確率、各科正確率與最常錯 topic。
 
 ## Parser
 
@@ -88,12 +110,25 @@ python scripts/merge_question_answer.py
 python scripts/validate_question_bank.py
 ```
 
+AI 訂正與教師審核資料流程：
+
+```bash
+python scripts/normalize_questions.py --input data/questions_master.json --output data/questions_master.json
+python scripts/generate_ai_tutor_cache.py --input data/questions_master.json --output data/ai_tutor_cache.json
+python scripts/import_teacher_review.py --csv data/teacher_review_template.csv --cache data/ai_tutor_cache.json
+python scripts/validate_question_bank.py
+```
+
+若尚未建立 `data/questions_master.json`，`normalize_questions.py` 與 `generate_ai_tutor_cache.py` 會改讀現有 `data/questions/*.json`。
+
 輸出：
 
 ```text
 data/questions/{subject_slug}.json
 public/question-assets/{year}/{exam_code}/
 data/parse_report.json
+data/ai_tutor_cache.json
+data/teacher_review_template.csv
 ```
 
 ## GitHub Pages

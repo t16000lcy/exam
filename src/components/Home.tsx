@@ -1,14 +1,18 @@
-import { BookOpenCheck, RotateCcw } from 'lucide-react';
+import { BarChart3, BookOpenCheck, ClipboardList, RotateCcw } from 'lucide-react';
 import type { QuizResult, SubjectSlug } from '../types';
 import { subjects } from '../lib/subjects';
 
 interface HomeProps {
   lastResult: QuizResult | null;
+  wrongBookCount: number;
+  overallAccuracy: number | null;
   onStart: (slug: SubjectSlug) => void;
   onOpenLast: () => void;
+  onOpenWrongBook: () => void;
+  onOpenWeakAnalysis: () => void;
 }
 
-export function Home({ lastResult, onStart, onOpenLast }: HomeProps) {
+export function Home({ lastResult, wrongBookCount, overallAccuracy, onStart, onOpenLast, onOpenWrongBook, onOpenWeakAnalysis }: HomeProps) {
   return (
     <main className="min-h-screen bg-paper">
       <section className="mx-auto flex w-full max-w-7xl flex-col gap-6 px-4 py-5 sm:px-6 sm:py-8 lg:px-8 lg:py-10">
@@ -50,6 +54,40 @@ export function Home({ lastResult, onStart, onOpenLast }: HomeProps) {
             </span>
           </button>
         ) : null}
+
+        <div className="grid gap-3 md:grid-cols-2">
+          <button
+            type="button"
+            onClick={onOpenWrongBook}
+            className="focus-ring flex items-center justify-between gap-3 rounded border border-stone-300 bg-white px-4 py-4 text-left shadow-sm transition hover:border-sea"
+          >
+            <span className="min-w-0">
+              <span className="inline-flex items-center gap-2 font-semibold text-ink">
+                <ClipboardList size={18} aria-hidden="true" />
+                錯題本
+              </span>
+              <span className="mt-1 block text-sm leading-6 text-stone-600">查看錯題、標記已掌握、依科目與 topic 統計。</span>
+            </span>
+            <span className="shrink-0 rounded bg-red-50 px-3 py-1 text-sm font-semibold text-red-900">{wrongBookCount}</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={onOpenWeakAnalysis}
+            className="focus-ring flex items-center justify-between gap-3 rounded border border-stone-300 bg-white px-4 py-4 text-left shadow-sm transition hover:border-sea"
+          >
+            <span className="min-w-0">
+              <span className="inline-flex items-center gap-2 font-semibold text-ink">
+                <BarChart3 size={18} aria-hidden="true" />
+                弱點分析
+              </span>
+              <span className="mt-1 block text-sm leading-6 text-stone-600">依作答紀錄分析正確率與最常錯主題。</span>
+            </span>
+            <span className="shrink-0 rounded bg-teal-50 px-3 py-1 text-sm font-semibold text-sea">
+              {overallAccuracy === null ? '尚無' : `${overallAccuracy}%`}
+            </span>
+          </button>
+        </div>
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {subjects.map((subject) => (

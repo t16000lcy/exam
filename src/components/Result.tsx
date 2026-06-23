@@ -1,9 +1,9 @@
-import { ArrowLeft, Bot, CheckCircle2, RotateCcw, XCircle } from 'lucide-react';
-import { useState } from 'react';
+import { ArrowLeft, CheckCircle2, ImageIcon, RotateCcw, XCircle } from 'lucide-react';
 import type { Question, QuizResult } from '../types';
-import { requestExplanation } from '../lib/ai';
 import { isCorrect } from '../lib/quiz';
 import { getSourceLabel } from '../lib/source';
+import { AiTutorCard } from './AiTutorCard';
+import { getCorrectAnswerText, requiresImage } from '../lib/questionMeta';
 
 interface ResultProps {
   result: QuizResult;
@@ -12,25 +12,8 @@ interface ResultProps {
 }
 
 export function Result({ result, onBackHome, onRetryWrong }: ResultProps) {
-  const [loadingId, setLoadingId] = useState<string | null>(null);
-  const [explanations, setExplanations] = useState<Record<string, string>>({});
-  const aiEnabled = Boolean(import.meta.env.VITE_AI_EXPLAIN_API_URL);
   const answerByQuestionId = new Map(result.answers.map((answer) => [answer.questionId, answer.answer]));
   const wrongQuestions = result.questions.filter((question) => !isCorrect(question, answerByQuestionId.get(question.id) || ''));
-
-  async function explain(question: Question, userAnswer: string) {
-    if (!aiEnabled) return;
-    setLoadingId(question.id);
-    try {
-      const text = await requestExplanation(question, userAnswer);
-      setExplanations((current) => ({ ...current, [question.id]: text }));
-    } catch (caught) {
-      const message = caught instanceof Error ? caught.message : 'AI 解題服務暫時無法回應。';
-      setExplanations((current) => ({ ...current, [question.id]: message }));
-    } finally {
-      setLoadingId(null);
-    }
-  }
 
   return (
     <main className="min-h-screen bg-paper">
@@ -70,7 +53,7 @@ export function Result({ result, onBackHome, onRetryWrong }: ResultProps) {
           {result.questions.map((question, index) => {
             const userAnswer = answerByQuestionId.get(question.id) || '';
             const correct = isCorrect(question, userAnswer);
-            const correctAnswer = question.answer_type === 'all_credit' ? '一律給分' : question.answer.join(' 或 ');
+            const correctAnswer = getCorrectAnswerText(question);
             return (
               <article
                 key={question.id}
@@ -95,20 +78,13 @@ export function Result({ result, onBackHome, onRetryWrong }: ResultProps) {
                   <AnswerBadge label="正確答案" value={correctAnswer} tone="correct" />
                   <AnswerBadge label={correct ? '你的答案' : '答錯的答案'} value={userAnswer || '未作答'} tone={correct ? 'neutral' : 'wrong'} />
                 </div>
-                <button
-                  type="button"
-                  disabled={!aiEnabled || loadingId === question.id}
-                  onClick={() => explain(question, userAnswer || '未作答')}
-                  className="focus-ring mt-4 inline-flex w-full items-center justify-center gap-2 rounded bg-ink px-4 py-3 text-sm font-medium text-white disabled:cursor-not-allowed disabled:bg-stone-400 sm:w-auto"
-                >
-                  <Bot size={16} aria-hidden="true" />
-                  {aiEnabled ? (loadingId === question.id ? '解題中...' : 'AI 解題小幫手') : '尚未啟用 AI 解題服務'}
-                </button>
-                {explanations[question.id] ? (
-                  <div className="mt-4 whitespace-pre-wrap break-words rounded border border-stone-300 bg-stone-50 p-4 text-sm leading-7 text-stone-800 sm:text-base">
-                    {explanations[question.id]}
+                {requiresImage(question) ? (
+                  <div className="mt-4 flex items-start gap-2 rounded border border-amber-200 bg-amber-50 px-3 py-3 text-sm leading-6 text-amber-900">
+                    <ImageIcon className="mt-0.5 shrink-0" size={18} aria-hidden="true" />
+                    圖片題：AI 訂正會標註「本題需搭配原圖判讀」，不會硬猜圖片內容。
                   </div>
                 ) : null}
+                <AiTutorCard question={question} studentAnswer={userAnswer || '未作答'} correct={correct} />
               </article>
             );
           })}

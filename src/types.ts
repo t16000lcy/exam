@@ -15,19 +15,36 @@ export interface QuestionOption {
 
 export interface Question {
   id: string;
+  question_id?: string;
   year: string;
   exam_code: string;
   exam_session?: string;
+  exam_round?: string;
+  subject_code?: string;
   source_label?: string;
   subject: string;
   subject_slug: SubjectSlug;
   question_number: number;
+  question_no?: number;
   stem: string;
+  question_text?: string;
   options: QuestionOption[];
   has_image: boolean;
+  requires_image?: boolean;
   image_paths: string[];
   answer_type: AnswerType;
   answer: string[];
+  correct_answer?: string;
+  corrected_answer?: string;
+  is_all_correct?: boolean;
+  topic?: string;
+  subtopic?: string;
+  difficulty?: string;
+  common_mistake?: string;
+  reference_note?: string;
+  explanation_verified?: string;
+  explanation_ai_draft?: string;
+  ai_tutor?: AiTutorContent;
   source_pdf?: string;
 }
 
@@ -45,4 +62,45 @@ export interface QuizResult {
   correctCount: number;
   wrongCount: number;
   score: number;
+}
+
+export interface AiTutorContent {
+  core_concept: string;
+  correct_answer_text: string;
+  why_correct: string;
+  option_analysis: Record<'A' | 'B' | 'C' | 'D', string>;
+  memory_sentence: string;
+  practice_question: string;
+  practice_options: Record<'A' | 'B' | 'C' | 'D', string>;
+  practice_answer: string;
+  teacher_review_status: 'reviewed' | 'unreviewed' | string;
+  generated_at?: string;
+}
+
+export interface WrongBookItem {
+  question_id: string;
+  year: string;
+  exam_round: string;
+  subject: string;
+  topic: string;
+  subtopic: string;
+  question_no: number;
+  question_text: string;
+  student_answer: string;
+  correct_answer: string;
+  timestamp: string;
+  review_count: number;
+  last_reviewed_at: string;
+  mastered: boolean;
+}
+
+export interface AttemptRecord {
+  question_id: string;
+  subject: string;
+  topic: string;
+  subtopic: string;
+  student_answer: string;
+  correct_answer: string;
+  is_correct: boolean;
+  timestamp: string;
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "topic": "尿液檢查",
+    "keywords": ["尿液試紙", "bilirubin", "urobilinogen", "leukocyte esterase", "nitrite", "specific gravity", "ketone", "protein"]
+  },
+  {
+    "topic": "寄生蟲學",
+    "keywords": ["Giardia", "Entamoeba", "Taenia", "Ascaris", "Plasmodium", "hookworm", "ova", "cyst"]
+  },
+  {
+    "topic": "分子檢驗",
+    "keywords": ["PCR", "RT-PCR", "qPCR", "primer", "probe", "sequencing", "NGS", "Sanger", "STR", "SNP", "mutation", "methylation", "microarray"]
+  },
+  {
+    "topic": "體液檢查",
+    "keywords": ["CSF", "pleural fluid", "ascites", "synovial fluid", "semen"]
+  }
+]
