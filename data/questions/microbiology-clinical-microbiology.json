@@ -1,1 +1,2887 @@
-[]
+[
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q01",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 1 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 1,
+    "stem": "有關甲基藍染色（methylene blue stain）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可用於染Haemophilus influenzae"
+      },
+      {
+        "label": "B",
+        "text": "可用於染Neisseria meningitidis"
+      },
+      {
+        "label": "C",
+        "text": "菌體染色後呈現深藍色"
+      },
+      {
+        "label": "D",
+        "text": "背景為淺綠色"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q02",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 2 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 2,
+    "stem": "有關實驗室常用的滅菌（sterilization）方法，下列敘述何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "incineration 可去除prions"
+      },
+      {
+        "label": "B",
+        "text": "moist heat 比dry heat 所需時間較短"
+      },
+      {
+        "label": "C",
+        "text": "ionizing radiation 可用於消毒導管與手套"
+      },
+      {
+        "label": "D",
+        "text": "HEPA filter 可用於去除空氣中所有微生物"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q03",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 3 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 3,
+    "stem": "下列何者不是用於Salmonella 和Shigella 的增菌培養基（enrichment medium）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "GN broth"
+      },
+      {
+        "label": "B",
+        "text": "selenite broth"
+      },
+      {
+        "label": "C",
+        "text": "trypticase soy broth"
+      },
+      {
+        "label": "D",
+        "text": "tetrathionate broth"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q04",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 4 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 4,
+    "stem": "有關細菌線毛（fimbriae）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主要由pilin 蛋白所構成"
+      },
+      {
+        "label": "B",
+        "text": "一般線毛主要功能為接合生殖"
+      },
+      {
+        "label": "C",
+        "text": "為細菌於液體中的主要運動小器官"
+      },
+      {
+        "label": "D",
+        "text": "比鞭毛更粗且長"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q05",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 5 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 5,
+    "stem": "下列何種photochromogenic 的nontuberculous mycobacteria（NTM）最常在HIV 患者引發肺部疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mycobacterium kansasii"
+      },
+      {
+        "label": "B",
+        "text": "Mycobacterium haemophilum"
+      },
+      {
+        "label": "C",
+        "text": "Mycobacterium avium complex"
+      },
+      {
+        "label": "D",
+        "text": "Mycobacterium chelonae"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q06",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 6 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 6,
+    "stem": "下列 Burkholderia spp.中，何者通常不具有運動性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B. pseudomallei"
+      },
+      {
+        "label": "B",
+        "text": "B. mallei"
+      },
+      {
+        "label": "C",
+        "text": "B. cepacia complex"
+      },
+      {
+        "label": "D",
+        "text": "B. gladioli"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q07",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 7 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 7,
+    "stem": "下列Haemophilus spp.，何者與性接觸傳播有關，會引起軟性下疳（chancroid）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "H. haemolyticus"
+      },
+      {
+        "label": "B",
+        "text": "H. ducreyi"
+      },
+      {
+        "label": "C",
+        "text": "H. aphrophilus"
+      },
+      {
+        "label": "D",
+        "text": "H. segnis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q08",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 8 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 8,
+    "stem": "最常見污染牛肉漢堡，引起胃腸道感染之細菌為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Streptococcus pyogenes"
+      },
+      {
+        "label": "B",
+        "text": "Escherichia coli O157:H7"
+      },
+      {
+        "label": "C",
+        "text": "Vibrio cholerae"
+      },
+      {
+        "label": "D",
+        "text": "Enterococcus faecalis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q09",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 9 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 9,
+    "stem": "一個具有臨床意義的良好痰液檢體，在低倍顯微鏡（100X）下觀察時主要常見於下列何種情況？",
+    "options": [
+      {
+        "label": "A",
+        "text": "中性球（neutrophil）＜25，鱗狀上皮細胞＜10"
+      },
+      {
+        "label": "B",
+        "text": "中性球（neutrophil）＞25，鱗狀上皮細胞＞10"
+      },
+      {
+        "label": "C",
+        "text": "中性球（neutrophil）＞25，鱗狀上皮細胞＜10"
+      },
+      {
+        "label": "D",
+        "text": "中性球（neutrophil）＜25，鱗狀上皮細胞＞25"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q10",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 10 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 10,
+    "stem": "下列那些細菌通常可引起腹瀉？①Klebsiella spp. ②Salmonella spp. ③Campylobacter spp. ④\nVibrio spp. ⑤Shigella spp. ⑥Helicobacter pylori ⑦Enterococcus spp.",
+    "options": [
+      {
+        "label": "A",
+        "text": "①③⑤⑦"
+      },
+      {
+        "label": "B",
+        "text": "②③④⑤"
+      },
+      {
+        "label": "C",
+        "text": "①②③④⑥"
+      },
+      {
+        "label": "D",
+        "text": "①②④⑤⑦"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q11",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 11 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 11,
+    "stem": "尿液細菌培養，使用0.001 毫升接種環取樣，接種於5％綿羊血agar。隔夜培養後，發現單一形態之100 顆\n菌落。一般情況下，則此尿液細菌培養之後續操作或處置為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "發布疑似污染菌之報告"
+      },
+      {
+        "label": "B",
+        "text": "執行該菌落的鑑定和藥敏試驗"
+      },
+      {
+        "label": "C",
+        "text": "發布泌尿生殖系統的正常菌群之報告"
+      },
+      {
+        "label": "D",
+        "text": "重新採檢，再重做"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q12",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 12 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 12,
+    "stem": "Bacillus 菌屬中菌落扁平且具有假根狀（rhizoid）外觀者，最可能是下列何菌？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bacillus cereus"
+      },
+      {
+        "label": "B",
+        "text": "Bacillus thuringiensis"
+      },
+      {
+        "label": "C",
+        "text": "Bacillus anthracis"
+      },
+      {
+        "label": "D",
+        "text": "Bacillus mycoides"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q13",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 13 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 13,
+    "stem": "感染Mycobacterium leprae 的病程發展過程中，下列何種組織的病變，在silent phase 時期最常見？",
+    "options": [
+      {
+        "label": "A",
+        "text": "皮膚"
+      },
+      {
+        "label": "B",
+        "text": "腦部"
+      },
+      {
+        "label": "C",
+        "text": "眼部"
+      },
+      {
+        "label": "D",
+        "text": "肺部"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q14",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 14 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 14,
+    "stem": "用於預防結核病的卡介苗（Bacillus Calmette-Guérin, BCG），是以何種分枝桿菌的減毒菌株製成？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mycobacterium bovis"
+      },
+      {
+        "label": "B",
+        "text": "Mycobacterium tuberculosis"
+      },
+      {
+        "label": "C",
+        "text": "Mycobacterium avium"
+      },
+      {
+        "label": "D",
+        "text": "Mycobacterium smegmatis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q15",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 15 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 15,
+    "stem": "快速生長的非結核分枝桿菌（rapidly growing nontuberculous mycobacteria）屬於Runyon 分類系統中那\n一類？",
+    "options": [
+      {
+        "label": "A",
+        "text": "group Ⅰ"
+      },
+      {
+        "label": "B",
+        "text": "group Ⅱ"
+      },
+      {
+        "label": "C",
+        "text": "group Ⅲ"
+      },
+      {
+        "label": "D",
+        "text": "group Ⅳ"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q16",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 16 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 16,
+    "stem": "下列何者不是目前治療結核病主要的一線藥物？",
+    "options": [
+      {
+        "label": "A",
+        "text": "rifampicin（RMP）"
+      },
+      {
+        "label": "B",
+        "text": "kanamycin（KAN）"
+      },
+      {
+        "label": "C",
+        "text": "isoniazid（INH）"
+      },
+      {
+        "label": "D",
+        "text": "ethambutol（EMB）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q17",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 17 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 17,
+    "stem": "對萬古黴素（vancomycin）具抗藥性之金黃色葡萄球菌，其主要抗藥機轉為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "產生分解萬古黴素的酵素"
+      },
+      {
+        "label": "B",
+        "text": "改變細胞壁肽聚醣前驅物D-alanyl-D-alanine 和vancomycin 的結合位"
+      },
+      {
+        "label": "C",
+        "text": "改變細胞膜通透性"
+      },
+      {
+        "label": "D",
+        "text": "合成將萬古黴素打出胞外的幫浦（efflux pump）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q18",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 18 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 18,
+    "stem": "有關streptococcal pyrogenic exotoxins 的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可引起猩紅熱（scarlet fever）及鏈球菌性毒性休克症候群"
+      },
+      {
+        "label": "B",
+        "text": "毒素基因可藉由質體傳播"
+      },
+      {
+        "label": "C",
+        "text": "為superantigens"
+      },
+      {
+        "label": "D",
+        "text": "為A 型鏈球菌的重要致病因子"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q19",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 19 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 19,
+    "stem": "類丹毒疾病主要是由下列何種細菌引起？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nocardia asteroides"
+      },
+      {
+        "label": "B",
+        "text": "Erysipelothrix rhusiopathiae"
+      },
+      {
+        "label": "C",
+        "text": "Streptococcus pyogenes"
+      },
+      {
+        "label": "D",
+        "text": "Listeria monocytogenes"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q20",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 20 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 20,
+    "stem": "下列何種試驗，最適合用於鑑別Enterococcus spp.與group D streptococci？",
+    "options": [
+      {
+        "label": "A",
+        "text": "L-pyrrolidonyl-β-naphthylamide 水解試驗"
+      },
+      {
+        "label": "B",
+        "text": "bacitracin 試驗"
+      },
+      {
+        "label": "C",
+        "text": "Lancefield's serogrouping"
+      },
+      {
+        "label": "D",
+        "text": "CAMP 試驗"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q21",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 21 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 21,
+    "stem": "有關methicillin-resistant Staphylococcus aureus（MRSA）偵測之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "偵測MRSA 的chromogenic media 培養基通常會添加cefoxitin"
+      },
+      {
+        "label": "B",
+        "text": "可用latex agglutination 來偵測PBP2a"
+      },
+      {
+        "label": "C",
+        "text": "臨床上主要以immunochromatographic strip 來偵測MRSA"
+      },
+      {
+        "label": "D",
+        "text": "可偵測mecA 基因"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q22",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 22 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 22,
+    "stem": "有關分枝桿菌的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "利用16S rRNA 基因序列，可用以鑑定分枝桿菌"
+      },
+      {
+        "label": "B",
+        "text": "分枝桿菌為兼性厭氧菌"
+      },
+      {
+        "label": "C",
+        "text": "分枝桿菌分類於革蘭氏陰性菌"
+      },
+      {
+        "label": "D",
+        "text": "結核分枝桿菌生長速度約2 小時分裂一次"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q23",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 23 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 23,
+    "stem": "下列菌種中，何者之arginine dihydrolase、lysine carboxylase 及ornithine decarboxylase 的反應均為\n陰性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Providencia rettgeri"
+      },
+      {
+        "label": "B",
+        "text": "Klebsiella aerogenes"
+      },
+      {
+        "label": "C",
+        "text": "Shigella sonnei"
+      },
+      {
+        "label": "D",
+        "text": "Morganella morganii"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q24",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 24 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 24,
+    "stem": "下列何種黏液型（mucoid morphotype）細菌最常從囊性纖維化（cystic fibrosis）的患者痰檢體分離？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Haemophilus influenzae"
+      },
+      {
+        "label": "B",
+        "text": "Klebsiella pneumoniae"
+      },
+      {
+        "label": "C",
+        "text": "Pseudomonas aeruginosa"
+      },
+      {
+        "label": "D",
+        "text": "Streptococcus pneumoniae"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q25",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 25 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 25,
+    "stem": "下列何種醣類發酵，最適合用於區別Neisseria gonorrhoeae 與Moraxella catarrhalis？",
+    "options": [
+      {
+        "label": "A",
+        "text": "glucose"
+      },
+      {
+        "label": "B",
+        "text": "maltose"
+      },
+      {
+        "label": "C",
+        "text": "fructose"
+      },
+      {
+        "label": "D",
+        "text": "lactose"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q26",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 26 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 26,
+    "stem": "有關Serratia marcescens 的生化特性，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ONPG (＋)"
+      },
+      {
+        "label": "B",
+        "text": "indole (＋)"
+      },
+      {
+        "label": "C",
+        "text": "sucrose (＋)"
+      },
+      {
+        "label": "D",
+        "text": "DNase (＋)"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q27",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 27 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 27,
+    "stem": "下列何種培養基可以用來分離及鑑別大腸桿菌O157:H7？",
+    "options": [
+      {
+        "label": "A",
+        "text": "eosin methylene blue（EMB）培養基"
+      },
+      {
+        "label": "B",
+        "text": "Hektoen enteric（HE）培養基"
+      },
+      {
+        "label": "C",
+        "text": "cefsulodin-irgasan-novobiocin（CIN）培養基"
+      },
+      {
+        "label": "D",
+        "text": "MacConkey-sorbitol（MAC-SOR）培養基"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q28",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 28 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 28,
+    "stem": "感染人類的巴斯德桿菌（Pasteurella spp.）中，下列何者最有可能產生urease？",
+    "options": [
+      {
+        "label": "A",
+        "text": "P. multocida"
+      },
+      {
+        "label": "B",
+        "text": "P. canis"
+      },
+      {
+        "label": "C",
+        "text": "P. stomatis"
+      },
+      {
+        "label": "D",
+        "text": "P. pneumotropica"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q29",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 29 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 29,
+    "stem": "有關弧菌屬（Vibrio spp.）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "兼性厭氧菌"
+      },
+      {
+        "label": "B",
+        "text": "具有莢膜多醣體（capsular polysaccharide）"
+      },
+      {
+        "label": "C",
+        "text": "大部分弧菌無法在高鹼性（pH 9）生存"
+      },
+      {
+        "label": "D",
+        "text": "鞭毛為其致病因子"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q30",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 30 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 30,
+    "stem": "下列何者特性最適合用以區別腦膜炎雙球菌（Neisseria meningitidis）與解乳糖雙球菌（Neisseria\nlactamica）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "生長在modified Thayer-Martin medium 情形"
+      },
+      {
+        "label": "B",
+        "text": "還原硝酸鹽（nitrate reduction）能力"
+      },
+      {
+        "label": "C",
+        "text": "進行ONPG 試驗結果"
+      },
+      {
+        "label": "D",
+        "text": "發酵麥芽糖（maltose）能力"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q31",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 31 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 31,
+    "stem": "下列何者生化試驗將有助於區別霍亂弧菌（Vibrio cholerae）與嗜水產氣單胞菌（Aeromonas hydrophila）\n的差異？",
+    "options": [
+      {
+        "label": "A",
+        "text": "oxidase activity"
+      },
+      {
+        "label": "B",
+        "text": "arginine dihydrolase activity"
+      },
+      {
+        "label": "C",
+        "text": "growth in 0％ NaCl broth"
+      },
+      {
+        "label": "D",
+        "text": "indole test"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q32",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 32 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 32,
+    "stem": "有關變形桿菌屬（Proteus spp.）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "變形桿菌在非選擇性培養基上常呈現表面移行（swarming）現象"
+      },
+      {
+        "label": "B",
+        "text": "奇異變形桿菌（Proteus mirabilis）經常造成泌尿道感染"
+      },
+      {
+        "label": "C",
+        "text": "奇異變形桿菌（Proteus mirabilis）能產生大量尿素酶（urease），造成pH 值上升，容易導致結石"
+      },
+      {
+        "label": "D",
+        "text": "變形桿菌大多可以發酵葡萄糖、乳糖與蔗糖"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q33",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 33 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 33,
+    "stem": "下列何種醣類測試可以區別大部分Aggregatibacter aphrophilus 與Aggregatibacter\nactinomycetemcomitans 菌株？",
+    "options": [
+      {
+        "label": "A",
+        "text": "葡萄糖（glucose）"
+      },
+      {
+        "label": "B",
+        "text": "乳糖（lactose）"
+      },
+      {
+        "label": "C",
+        "text": "麥芽糖（maltose）"
+      },
+      {
+        "label": "D",
+        "text": "果糖（fructose）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q34",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 34 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 34,
+    "stem": "下列何者為Escherichia coli 在XLD agar 的顏色？",
+    "options": [
+      {
+        "label": "A",
+        "text": "紅色"
+      },
+      {
+        "label": "B",
+        "text": "黃色"
+      },
+      {
+        "label": "C",
+        "text": "綠色"
+      },
+      {
+        "label": "D",
+        "text": "紫色"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q35",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 35 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 35,
+    "stem": "下列何者是Burkholderia pseudomallei 之特性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "細胞色素氧化酶陰性"
+      },
+      {
+        "label": "B",
+        "text": "可生長於MacConkey agar"
+      },
+      {
+        "label": "C",
+        "text": "不具運動性"
+      },
+      {
+        "label": "D",
+        "text": "發酵葡萄糖"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q36",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 36 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 36,
+    "stem": "有關Pasteurella multocida 的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "最常見的感染途徑是經由污染的食物或飲水"
+      },
+      {
+        "label": "B",
+        "text": "具有鞭毛，具有運動性"
+      },
+      {
+        "label": "C",
+        "text": "無法生長在MacConkey agar"
+      },
+      {
+        "label": "D",
+        "text": "屬於革蘭氏陽性桿菌，且不具有觸酶（catalase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q37",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 37 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 37,
+    "stem": "下列何種試驗最可以區分Pseudomonas aeruginosa 和Acinetobacter baumannii？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在42℃生長"
+      },
+      {
+        "label": "B",
+        "text": "motility test"
+      },
+      {
+        "label": "C",
+        "text": "在MacConkey agar 上生長"
+      },
+      {
+        "label": "D",
+        "text": "水解esculin 的能力"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q38",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 38 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 38,
+    "stem": "Cholera toxin 與那個腸道上皮細胞受體結合後引起米湯狀（rice-water）腹瀉？",
+    "options": [
+      {
+        "label": "A",
+        "text": "LDL（low-density lipoprotein）receptor"
+      },
+      {
+        "label": "B",
+        "text": "GM1 glycoprotein receptor"
+      },
+      {
+        "label": "C",
+        "text": "Toll-like receptor"
+      },
+      {
+        "label": "D",
+        "text": "HDL（high-density lipoprotein）receptor"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q39",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 39 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 39,
+    "stem": "一般而言，下列那一種Haemophilus 可以在5％ sheep blood agar 生長？",
+    "options": [
+      {
+        "label": "A",
+        "text": "H. haemolyticus"
+      },
+      {
+        "label": "B",
+        "text": "H. aegyptius"
+      },
+      {
+        "label": "C",
+        "text": "H. aphrophilus（Aggregatibacter aphrophilus）"
+      },
+      {
+        "label": "D",
+        "text": "H. segnis（Aggregatibacter segnis）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q40",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 40 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 40,
+    "stem": "厭氧菌進行硝酸鹽還原試驗時，加solution A（sulfanilic acid）、solution B（α-naphthylamine）後\n呈無色，而加鋅粉後呈紅色，則下列敘述何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "此反應nitrate reduction 陽性"
+      },
+      {
+        "label": "B",
+        "text": "加鋅粉是結合nitrite 使呈紅色"
+      },
+      {
+        "label": "C",
+        "text": "Bacteroides fragilis 呈陽性反應"
+      },
+      {
+        "label": "D",
+        "text": "鋅粉為還原劑"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q41",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 41 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 41,
+    "stem": "下列何種細菌在cycloserine-cefoxitin-fructose agar 培養基上，呈現黃色磨砂玻璃形狀的菌落？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Clostridioides difficile"
+      },
+      {
+        "label": "B",
+        "text": "Clostridium tetani"
+      },
+      {
+        "label": "C",
+        "text": "Clostridium perfringens"
+      },
+      {
+        "label": "D",
+        "text": "Clostridium botulinum"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q42",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 42 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 42,
+    "stem": "Rapid plasma reagin（RPR）試驗測試人體產生reagin antibody，該抗體是因何種物質而產生？",
+    "options": [
+      {
+        "label": "A",
+        "text": "人類細胞的物質"
+      },
+      {
+        "label": "B",
+        "text": "Treponema pallidum 的表面抗原"
+      },
+      {
+        "label": "C",
+        "text": "Mycoplasma pneumoniae 的adhesin"
+      },
+      {
+        "label": "D",
+        "text": "Rickettsia spp.的外膜蛋白質"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q43",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 43 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 43,
+    "stem": "有關致病菌與其所引起的疾病名稱，下列何者配對正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sporothrix schenckii ／Weil's disease"
+      },
+      {
+        "label": "B",
+        "text": "Treponema pallidum／syphilis"
+      },
+      {
+        "label": "C",
+        "text": "Mycoplasma pneumoniae ／tuberculosis"
+      },
+      {
+        "label": "D",
+        "text": "Mycobacterium leprae／sodoku"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q44",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 44 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 44,
+    "stem": "有關Rickettsia prowazekii 的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "為革蘭氏陰性桿菌"
+      },
+      {
+        "label": "B",
+        "text": "可由蝨為媒介傳染人類"
+      },
+      {
+        "label": "C",
+        "text": "以二分裂法進行增殖"
+      },
+      {
+        "label": "D",
+        "text": "在血液瓊脂平板上呈現α溶血的現象"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q45",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 45 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 45,
+    "stem": "下列那種細菌無法培養在血液瓊脂培養基（blood agar）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chlamydia trachomatis"
+      },
+      {
+        "label": "B",
+        "text": "Klebsiella pneumoniae"
+      },
+      {
+        "label": "C",
+        "text": "Staphylococcus epidermidis"
+      },
+      {
+        "label": "D",
+        "text": "Vibrio cholerae"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q46",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 46 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 46,
+    "stem": "下列何種細菌在紫外線（365 nm 波長）照射下，菌落通常呈現黃綠色螢光？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Clostridioides difficile"
+      },
+      {
+        "label": "B",
+        "text": "Prevotella melaninogenica"
+      },
+      {
+        "label": "C",
+        "text": "Porphyromonas asaccharolytica"
+      },
+      {
+        "label": "D",
+        "text": "Veillonella parvula"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q47",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 47 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 47,
+    "stem": "下列何者試驗與黴漿菌最無關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "PPLO 培養基生長"
+      },
+      {
+        "label": "B",
+        "text": "hemadsorption test"
+      },
+      {
+        "label": "C",
+        "text": "tetrazolium test"
+      },
+      {
+        "label": "D",
+        "text": "porphyrin test"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q48",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 48 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 48,
+    "stem": "魏氏病（Weil's disease）主要是由下列何種病原菌所引起？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Treponema carateum"
+      },
+      {
+        "label": "B",
+        "text": "Borrelia garinii"
+      },
+      {
+        "label": "C",
+        "text": "Leptospira interrogans"
+      },
+      {
+        "label": "D",
+        "text": "Brachyspira aalborgi"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q49",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 49 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 49,
+    "stem": "下列何種β-內醯胺酶抑制劑（β-lactamase inhibitor）最常與amoxicillin 合併使用？",
+    "options": [
+      {
+        "label": "A",
+        "text": "clavulanic acid"
+      },
+      {
+        "label": "B",
+        "text": "sulbactam"
+      },
+      {
+        "label": "C",
+        "text": "avibactam"
+      },
+      {
+        "label": "D",
+        "text": "vaborbactam"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q50",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 50 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 50,
+    "stem": "Pseudomonas aeruginosa 臨床分離菌株，因外膜通道蛋白OprD 的變異，通常會導致對下列何種藥物產生抗\n性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "penicillin"
+      },
+      {
+        "label": "B",
+        "text": "cefoxitin"
+      },
+      {
+        "label": "C",
+        "text": "imipenem"
+      },
+      {
+        "label": "D",
+        "text": "aztreonam"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q51",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 51 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 51,
+    "stem": "下圖中當C 藥與D 藥合併使用時，會產生何種藥物效應？",
+    "options": [
+      {
+        "label": "A",
+        "text": "協同作用（synergy）"
+      },
+      {
+        "label": "B",
+        "text": "無效性作用（indifference）"
+      },
+      {
+        "label": "C",
+        "text": "拮抗作用（antagonism）"
+      },
+      {
+        "label": "D",
+        "text": "容忍作用（tolerance）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q52",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 52 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 52,
+    "stem": "下列何者主要不是抑制細菌細胞壁合成的抗微生物製劑？",
+    "options": [
+      {
+        "label": "A",
+        "text": "clavulanate"
+      },
+      {
+        "label": "B",
+        "text": "D-cycloserine"
+      },
+      {
+        "label": "C",
+        "text": "bacitracin"
+      },
+      {
+        "label": "D",
+        "text": "teicoplanin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q53",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 53 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 53,
+    "stem": "下圖為培養液微量稀釋法部分截圖，1～4 的抗生素濃度分別為1、2、4 及8 μg/mL。1 與2 表示有細菌生\n長，3 與4 表示無細菌生長，則此藥的最小抑菌濃度為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 μg/mL"
+      },
+      {
+        "label": "B",
+        "text": "2 μg/mL"
+      },
+      {
+        "label": "C",
+        "text": "4 μg/mL"
+      },
+      {
+        "label": "D",
+        "text": "8 μg/mL"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/microbiology-clinical-microbiology/115_s1_microbiology-clinical-microbiology_q53_p10.png"
+    ],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q54",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 54 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 54,
+    "stem": "下列何種抗生素主要歸屬於殺菌類（bactericidal）抗生素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "erythromycin"
+      },
+      {
+        "label": "B",
+        "text": "trimethoprim-sulfonamides"
+      },
+      {
+        "label": "C",
+        "text": "levofloxacin"
+      },
+      {
+        "label": "D",
+        "text": "tetracycline"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "multiple_accepted",
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q55",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 55 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 55,
+    "stem": "腸內菌科因具有extended-spectrum β-lactamases 可水解下列何種抗生素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "cefixime"
+      },
+      {
+        "label": "B",
+        "text": "ciprofloxacin"
+      },
+      {
+        "label": "C",
+        "text": "kanamycin"
+      },
+      {
+        "label": "D",
+        "text": "rifampin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q56",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 56 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 56,
+    "stem": "根據CLSI 規範，腦膜炎雙球菌（Neisseria meningitidis）採用瓊脂稀釋法測定抗生素藥敏試驗時，Mü\neller-Hinton agar 通常需再額外添加何種物質？",
+    "options": [
+      {
+        "label": "A",
+        "text": "5％ sheep blood"
+      },
+      {
+        "label": "B",
+        "text": "5％ lysed horse blood"
+      },
+      {
+        "label": "C",
+        "text": "2％ NaCl"
+      },
+      {
+        "label": "D",
+        "text": "cysteine-free supplements"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q57",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 57 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 57,
+    "stem": "下列何種抗生素最不建議用來治療Staphylococcus aureus 感染？",
+    "options": [
+      {
+        "label": "A",
+        "text": "colistin"
+      },
+      {
+        "label": "B",
+        "text": "ciprofloxacin"
+      },
+      {
+        "label": "C",
+        "text": "vancomycin"
+      },
+      {
+        "label": "D",
+        "text": "methicillin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q58",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 58 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 58,
+    "stem": "下列何種抗真菌藥物是干擾真菌pyrimidine 的代謝，進一步阻斷DNA 及RNA 的合成？",
+    "options": [
+      {
+        "label": "A",
+        "text": "氟胞嘧啶（5-fluorocytosine, 5-FC）"
+      },
+      {
+        "label": "B",
+        "text": "棘白菌素（echinocandins）"
+      },
+      {
+        "label": "C",
+        "text": "烯丙基胺（allylamines）"
+      },
+      {
+        "label": "D",
+        "text": "灰黃黴素（griseofulvin）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q59",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 59 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 59,
+    "stem": "治療結核病常用之isoniazid 其主要作用機制為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抑制RNA 聚合酶"
+      },
+      {
+        "label": "B",
+        "text": "抑制細胞壁中黴菌酸（mycolic acid）的合成"
+      },
+      {
+        "label": "C",
+        "text": "抑制蛋白質的合成"
+      },
+      {
+        "label": "D",
+        "text": "抑制DNA 的合成"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q60",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 60 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 60,
+    "stem": "下列何者較不常見於醫療照護相關感染（health care-associated infection）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "泌尿道感染"
+      },
+      {
+        "label": "B",
+        "text": "血流感染"
+      },
+      {
+        "label": "C",
+        "text": "腦脊髓液感染"
+      },
+      {
+        "label": "D",
+        "text": "外科部位感染"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q61",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 61 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 61,
+    "stem": "腦脊髓液檢體，接種於綿羊血培養基沒有菌落生長，在巧克力培養基上呈現灰白色細小菌落，染色結果為革\n蘭氏陰性短小桿菌，生長需要X 與V 因子，最有可能為下列何菌？",
+    "options": [
+      {
+        "label": "A",
+        "text": "流感嗜血桿菌（Haemophilus influenzae）"
+      },
+      {
+        "label": "B",
+        "text": "副流感嗜血桿菌（Haemophilus parainfluenzae）"
+      },
+      {
+        "label": "C",
+        "text": "杜克氏嗜血桿菌（Haemophilus ducreyi）"
+      },
+      {
+        "label": "D",
+        "text": "副溶血嗜血桿菌（Haemophilus parahaemolyticus）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q62",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 62 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 62,
+    "stem": "下列何種細菌通常具有內源性萬古黴素抗藥性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Leuconostoc spp."
+      },
+      {
+        "label": "B",
+        "text": "Abiotrophia spp."
+      },
+      {
+        "label": "C",
+        "text": "Porphyromonas spp."
+      },
+      {
+        "label": "D",
+        "text": "Staphylococcus spp."
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q63",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 63 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 63,
+    "stem": "一開刀住院60 歲男性，因使用抗生素治療，一周後泌尿道感染，尿液培養為革蘭氏陽性球菌，觸酶陰性，可\n生長於6.5％ NaCl，並可水解esculin，最可能為下列何種致病菌？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Enterococcus faecalis"
+      },
+      {
+        "label": "B",
+        "text": "Streptococcus bovis"
+      },
+      {
+        "label": "C",
+        "text": "Gemella haemolysans"
+      },
+      {
+        "label": "D",
+        "text": "Staphylococcus aureus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q64",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 64 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 64,
+    "stem": "下列何種病原菌較少引起腦膜炎？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Haemophilus influenzae"
+      },
+      {
+        "label": "B",
+        "text": "Neisseria meningitidis"
+      },
+      {
+        "label": "C",
+        "text": "group B streptococci"
+      },
+      {
+        "label": "D",
+        "text": "group A streptococci"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q65",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 65 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 65,
+    "stem": "下列抗真菌藥物類別與代表藥物的連結何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "polyene／amphotericin B"
+      },
+      {
+        "label": "B",
+        "text": "azole／flucytosine"
+      },
+      {
+        "label": "C",
+        "text": "allylamine／naftifine"
+      },
+      {
+        "label": "D",
+        "text": "echinocandin／caspofungin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q66",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 66 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 66,
+    "stem": "免疫缺陷患者被診斷感染腦膜炎，其腦脊髓液檢體進行乳膠凝集試驗顯示，莢膜多醣抗原陽性，下列何者是\n最可能的致病原？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aspergillus fumigatus"
+      },
+      {
+        "label": "B",
+        "text": "Cryptococcus gattii"
+      },
+      {
+        "label": "C",
+        "text": "Blastomyces dermatitidis"
+      },
+      {
+        "label": "D",
+        "text": "Coccidioides immitis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q67",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 67 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 67,
+    "stem": "一皮癬菌培養後，在顯微鏡下觀察到大分生孢子呈紡錘形，具鋸齒厚壁（如下圖）最可能是下列何菌？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trichophyton rubrum"
+      },
+      {
+        "label": "B",
+        "text": "Trichophyton mentagrophytes"
+      },
+      {
+        "label": "C",
+        "text": "Epidermophyton floccosum"
+      },
+      {
+        "label": "D",
+        "text": "Microsporum canis"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/microbiology-clinical-microbiology/115_s1_microbiology-clinical-microbiology_q67_p13.png"
+    ],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q68",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 68 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 68,
+    "stem": "下列那一類真菌主要以角蛋白（keratin）作為其氮源？",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛霉菌（Mucorales）"
+      },
+      {
+        "label": "B",
+        "text": "皮癬菌（Dermatophyte）"
+      },
+      {
+        "label": "C",
+        "text": "蟲霉菌（Entomophthorales）"
+      },
+      {
+        "label": "D",
+        "text": "蛙糞菌（Basidiobolales）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q69",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 69 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 69,
+    "stem": "汗斑主要是由以下何種真菌所引起？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trichophyton rubrum"
+      },
+      {
+        "label": "B",
+        "text": "Malassezia furfur"
+      },
+      {
+        "label": "C",
+        "text": "Piedraia hortae"
+      },
+      {
+        "label": "D",
+        "text": "Hortaea werneckii"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q70",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 70 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 70,
+    "stem": "引起足菌腫（eumycetoma）常見的致病菌Pseudoallescheria boydii 是屬於：",
+    "options": [
+      {
+        "label": "A",
+        "text": "接合菌門（Zygomycota）"
+      },
+      {
+        "label": "B",
+        "text": "子囊菌門（Ascomycota）"
+      },
+      {
+        "label": "C",
+        "text": "擔子菌門（Basidiomycota）"
+      },
+      {
+        "label": "D",
+        "text": "不完全菌門（Deuteromycota）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q71",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 71 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 71,
+    "stem": "下列何者通常不會引起甲癬（onychomycosis）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trichophyton rubrum"
+      },
+      {
+        "label": "B",
+        "text": "Candida albicans"
+      },
+      {
+        "label": "C",
+        "text": "Trichophyton interdigitale"
+      },
+      {
+        "label": "D",
+        "text": "Blastomyces dermatitidis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q72",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 72 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 72,
+    "stem": "有關新型隱球菌（Cryptococcus neoformans）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "為人體正常菌叢之一"
+      },
+      {
+        "label": "B",
+        "text": "不會產生莢膜（capsule）"
+      },
+      {
+        "label": "C",
+        "text": "Niger seed agar 培養呈褐色的菌落"
+      },
+      {
+        "label": "D",
+        "text": "常造成女性陰道炎"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q73",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 73 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 73,
+    "stem": "導致細菌性陰道病（bacterial vaginosis）最主要的病原為下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gardnerella vaginalis"
+      },
+      {
+        "label": "B",
+        "text": "Neisseria gonorrhoeae"
+      },
+      {
+        "label": "C",
+        "text": "Haemphilus ducreyi"
+      },
+      {
+        "label": "D",
+        "text": "Streptococcus agalactiae"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q74",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 74 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 74,
+    "stem": "下列細菌毒素何者為超級抗原（superantigen）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "staphylococcal exfoliative toxin B"
+      },
+      {
+        "label": "B",
+        "text": "staphylococcal enterotoxin A"
+      },
+      {
+        "label": "C",
+        "text": "shiga toxin"
+      },
+      {
+        "label": "D",
+        "text": "anthracis toxin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q75",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 75 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 75,
+    "stem": "化膿性鏈球菌（Streptococcus pyogenes）最不常引起下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腎絲管球炎（glomerulonephritis）"
+      },
+      {
+        "label": "B",
+        "text": "偽膜性腸炎（pseudomembranous colitis）"
+      },
+      {
+        "label": "C",
+        "text": "風濕熱（rheumatic fever）"
+      },
+      {
+        "label": "D",
+        "text": "猩紅熱（scarlet fever）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q76",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 76 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 76,
+    "stem": "皮膚傷口化膿，經鑑定為兼性厭氧菌，具觸酶（catalase）和凝固酶（coagulase）活性，且存活在6.5％鹽\n培養基。該菌最可能是下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "金黃色葡萄球菌（Staphylococcus aureus）"
+      },
+      {
+        "label": "B",
+        "text": "淋病雙球菌（Neisseria gonorrhoeae）"
+      },
+      {
+        "label": "C",
+        "text": "仙人掌桿菌（Bacillus cereus）"
+      },
+      {
+        "label": "D",
+        "text": "產氣莢膜梭狀桿菌（Clostridium perfringens）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q77",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 77 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 77,
+    "stem": "下列何種細菌最常引起胃炎和胃潰瘍？",
+    "options": [
+      {
+        "label": "A",
+        "text": "傷寒桿菌（Salmonella Typhi）"
+      },
+      {
+        "label": "B",
+        "text": "小腸結腸炎耶爾森氏菌（Yersinia enterocolitica）"
+      },
+      {
+        "label": "C",
+        "text": "空腸曲狀桿菌（Campylobacter jejuni）"
+      },
+      {
+        "label": "D",
+        "text": "幽門螺旋桿菌（Helicobacter pylori）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q78",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 78 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 78,
+    "stem": "下列何種試驗與檢測細菌發酵葡萄糖能力無關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kligler iron agar"
+      },
+      {
+        "label": "B",
+        "text": "indole test"
+      },
+      {
+        "label": "C",
+        "text": "methyl red test"
+      },
+      {
+        "label": "D",
+        "text": "Voges-Proskauer test"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q79",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 79 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 79,
+    "stem": "有關鑑定微生物的飛行質譜儀（MALDI-TOF MS）分析，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "產生質譜訊號的是正電性粒子"
+      },
+      {
+        "label": "B",
+        "text": "無法鑑定真菌"
+      },
+      {
+        "label": "C",
+        "text": "可應用於菌株分型（typing）以及抗藥性檢測"
+      },
+      {
+        "label": "D",
+        "text": "質譜分析可以精準的測定分子之質量／電價比（m/z）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-microbiology-clinical-microbiology-seq10-q80",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 微生物學與臨床微生物學（包括細菌與黴菌） 第 80 題",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "subject_slug": "microbiology-clinical-microbiology",
+    "question_number": 80,
+    "stem": "當糞便檢體採樣後無法立即接種在培養基上時，一般應該如何處理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "置於4℃冰箱"
+      },
+      {
+        "label": "B",
+        "text": "置於室溫"
+      },
+      {
+        "label": "C",
+        "text": "置於35℃培養箱"
+      },
+      {
+        "label": "D",
+        "text": "置於厭氧傳送培養基"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_10_微生物學與臨床微生物學（包括細菌與黴菌）_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  }
+]

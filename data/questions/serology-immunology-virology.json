@@ -1,1 +1,2883 @@
-[]
+[
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q01",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 1 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 1,
+    "stem": "有關T 細胞之敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "T 細胞在胸腺中成熟，然後循環至骨髓進行活化"
+      },
+      {
+        "label": "B",
+        "text": "發育中的T 細胞會根據自體反應性進行篩選，此過程稱為正向選擇"
+      },
+      {
+        "label": "C",
+        "text": "只有少數T 細胞在胸腺中經過篩選後存活並達到成熟"
+      },
+      {
+        "label": "D",
+        "text": "CD4 和CD8 T 細胞在正向選擇過程中被篩選出來，因為它們能夠識別外來抗原"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q02",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 2 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 2,
+    "stem": "T 細胞及B 細胞發育過程的比較，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "T 細胞在胸腺（thymus）發育，而B 細胞則在骨髓（BM）"
+      },
+      {
+        "label": "B",
+        "text": "T 細胞及B 細胞的存活皆需要完整的細胞受體複合物（TCR 及BCR complex）的訊息傳遞"
+      },
+      {
+        "label": "C",
+        "text": "大部分的T 細胞及B 細胞會凋亡無法成熟進入周邊"
+      },
+      {
+        "label": "D",
+        "text": "T 細胞及B 細胞的負選擇（negative selection）都需要辨識MHC 所呈獻的胜肽"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q03",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 3 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 3,
+    "stem": "下列何種分子無法結合IL-2 啟動子（promoter）刺激IL-2 基因的表現?",
+    "options": [
+      {
+        "label": "A",
+        "text": "NFAT"
+      },
+      {
+        "label": "B",
+        "text": "FoxP3"
+      },
+      {
+        "label": "C",
+        "text": "AP-1"
+      },
+      {
+        "label": "D",
+        "text": "NF-κB"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q04",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 4 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 4,
+    "stem": "未成熟的T 細胞稱為胸腺細胞（thymocyte），下列有關早期胸腺細胞發育過程的敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Notch 訊息傳遞是決定造血幹細胞走向T 細胞系列的關鍵訊息"
+      },
+      {
+        "label": "B",
+        "text": "double negative（DN）的胸腺細胞大部分是αβ T 細胞，只有少部分γδ T 細胞"
+      },
+      {
+        "label": "C",
+        "text": "double negative（DN）的胸腺細胞表型皆為CD3+CD4-CD8-"
+      },
+      {
+        "label": "D",
+        "text": "DN1～DN4 胸腺細胞可由c-kit、CD25 及CD44 分子來辨別"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q05",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 5 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 5,
+    "stem": "先天與適應性免疫之不同點為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先天免疫有記憶性"
+      },
+      {
+        "label": "B",
+        "text": "適應性免疫無抗原特異性"
+      },
+      {
+        "label": "C",
+        "text": "適應性免疫無抗原耐受性"
+      },
+      {
+        "label": "D",
+        "text": "先天免疫較能迅速產生免疫反應"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q06",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 6 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 6,
+    "stem": "有關第二型MHC 分子（MHC class Ⅱ）的抗原呈獻，下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "被內吞的抗原通常被表面MHC class Ⅱ呈獻"
+      },
+      {
+        "label": "B",
+        "text": "MHC class Ⅱ組裝需要ERp57、tapasin、calreticulin 等分子協助"
+      },
+      {
+        "label": "C",
+        "text": "MHC class Ⅱ從內質網到late endosome 運送過程需要invariant chain 協助"
+      },
+      {
+        "label": "D",
+        "text": "HLA-DM 可以幫助短胜肽被呈獻出來"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q07",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 7 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 7,
+    "stem": "有關B 細胞受體生成的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "經類別轉換的一個B 細胞只有一種重鏈跟一種輕鏈"
+      },
+      {
+        "label": "B",
+        "text": "輕鏈基因重組一般發生在重鏈基因重組之前"
+      },
+      {
+        "label": "C",
+        "text": "輕鏈基因的重組一般由κ輕鏈先發生"
+      },
+      {
+        "label": "D",
+        "text": "RAG1/2 參與在免疫球蛋白的基因重組"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q08",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 8 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 8,
+    "stem": "血液循環中的淋巴球會利用何種細胞表面分子，與高內皮微小靜脈（high endothelial venules）特化內皮細\n胞上的ICAM-1 結合後，再進入淋巴結？",
+    "options": [
+      {
+        "label": "A",
+        "text": "LFA-1"
+      },
+      {
+        "label": "B",
+        "text": "CCR7"
+      },
+      {
+        "label": "C",
+        "text": "L-selectin"
+      },
+      {
+        "label": "D",
+        "text": "CD44"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q09",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 9 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 9,
+    "stem": "B 細胞表面不會表現下列那種分子？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HLA-A"
+      },
+      {
+        "label": "B",
+        "text": "HLA-DR"
+      },
+      {
+        "label": "C",
+        "text": "CD19"
+      },
+      {
+        "label": "D",
+        "text": "CD2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q10",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 10 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 10,
+    "stem": "有關貼膚試驗（patch test）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "診斷接觸性皮膚炎"
+      },
+      {
+        "label": "B",
+        "text": "延遲型過敏反應"
+      },
+      {
+        "label": "C",
+        "text": "過敏原濃度太高有偽陽性"
+      },
+      {
+        "label": "D",
+        "text": "24 小時判讀結果"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q11",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 11 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 11,
+    "stem": "皮膚上皮細胞分泌TSLP、IL-25 和IL-33 等細胞激素主要是誘發下列何種抗體的生成？",
+    "options": [
+      {
+        "label": "A",
+        "text": "IgG"
+      },
+      {
+        "label": "B",
+        "text": "IgM"
+      },
+      {
+        "label": "C",
+        "text": "IgE"
+      },
+      {
+        "label": "D",
+        "text": "IgA"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q12",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 12 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 12,
+    "stem": "下列何者不是自體免疫引起的皮膚相關病變？",
+    "options": [
+      {
+        "label": "A",
+        "text": "盤狀狼瘡（discoid lupus）"
+      },
+      {
+        "label": "B",
+        "text": "類天皰瘡水疱症（bullous pemphigoid）"
+      },
+      {
+        "label": "C",
+        "text": "疱疹性皮膚炎（dermatitis herpetiformis）"
+      },
+      {
+        "label": "D",
+        "text": "帶狀疱疹（herpes zoster）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q13",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 13 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 13,
+    "stem": "下列何者與組織相容性最不相關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主要組織相容性複合體（major histocompatibility antigen, MHC）"
+      },
+      {
+        "label": "B",
+        "text": "組織高分子量激肽原（high-molecular-weight kininogen, HMW-K）"
+      },
+      {
+        "label": "C",
+        "text": "人類白血球抗原（human leukocyte antigen, HLA）"
+      },
+      {
+        "label": "D",
+        "text": "第一型組織相容相關鏈蛋白A（MHC class I chain-related protein A, MICA）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q14",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 14 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 14,
+    "stem": "Rituximab 用於治療non-Hodgkin's B-cell lymphoma，此單株抗體主要是與B 細胞的何種分子結合後誘導細\n胞凋亡？",
+    "options": [
+      {
+        "label": "A",
+        "text": "CD81"
+      },
+      {
+        "label": "B",
+        "text": "CD20"
+      },
+      {
+        "label": "C",
+        "text": "CD35"
+      },
+      {
+        "label": "D",
+        "text": "CD45"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q15",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 15 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 15,
+    "stem": "蛋白激酶（protein kinase）藉由磷酸化蛋白質特定位點來活化淋巴球。下列何者不是可被蛋白激酶磷酸化\n的常見位點？",
+    "options": [
+      {
+        "label": "A",
+        "text": "serine"
+      },
+      {
+        "label": "B",
+        "text": "threonine"
+      },
+      {
+        "label": "C",
+        "text": "arginine"
+      },
+      {
+        "label": "D",
+        "text": "tyrosine"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q16",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 16 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 16,
+    "stem": "有關干擾素（interferons）之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "現今已經發現type Ⅰ、type Ⅱ及type Ⅲ等三類干擾素"
+      },
+      {
+        "label": "B",
+        "text": "type Ⅰ干擾素能夠透過RIG-I 及MDA-5 並與下游MAVS 轉接蛋白之作用而產生"
+      },
+      {
+        "label": "C",
+        "text": "type Ⅱ干擾素能夠透過cGAS 辨識病毒核酸成分並活化下游STING 而產生"
+      },
+      {
+        "label": "D",
+        "text": "type Ⅰ干擾素能夠誘導PKR kinase 之產生導致eIF2α磷酸化，達到抑制病毒複製之功效"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q17",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 17 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 17,
+    "stem": "在腸道的lamina propria 中，CD4：CD8 T 細胞的比例約為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1：1"
+      },
+      {
+        "label": "B",
+        "text": "2：1"
+      },
+      {
+        "label": "C",
+        "text": "3：1"
+      },
+      {
+        "label": "D",
+        "text": "1：4"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q18",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 18 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 18,
+    "stem": "主要組織相容性複合體（MHC）與KIRs（killer cell immunoglobulin-like receptor）結合後，下列何者\n不會抑制NK 細胞的毒殺作用？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HLA-A"
+      },
+      {
+        "label": "B",
+        "text": "HLA-B"
+      },
+      {
+        "label": "C",
+        "text": "HLA-C"
+      },
+      {
+        "label": "D",
+        "text": "HLA-DR"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q19",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 19 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 19,
+    "stem": "下列何種受體必須經由主要組織相容性複合體（MHC）呈獻的抗原才能結合與辨識？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B cell receptor"
+      },
+      {
+        "label": "B",
+        "text": "T cell receptor"
+      },
+      {
+        "label": "C",
+        "text": "toll-like receptor"
+      },
+      {
+        "label": "D",
+        "text": "C-type lectin receptor"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q20",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 20 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 20,
+    "stem": "要準備1：10 的血清樣本稀釋液0.1 mL，則血清與稀釋液的比例，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血清0.1 mL 與稀釋液1 mL"
+      },
+      {
+        "label": "B",
+        "text": "血清0.01 mL 與稀釋液0.1 mL"
+      },
+      {
+        "label": "C",
+        "text": "血清0.01 mL 與稀釋液0.09 mL"
+      },
+      {
+        "label": "D",
+        "text": "血清0.1 mL 與稀釋液0.9 mL"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q21",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 21 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 21,
+    "stem": "下列何種染劑不應用於分析細胞內核酸？",
+    "options": [
+      {
+        "label": "A",
+        "text": "PI（propidium iodide）"
+      },
+      {
+        "label": "B",
+        "text": "DAPI"
+      },
+      {
+        "label": "C",
+        "text": "Hoechst 33342"
+      },
+      {
+        "label": "D",
+        "text": "Sudan Ⅲ"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q22",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 22 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 22,
+    "stem": "下列何種放射性同位素最常使用於細胞毒殺試驗（cytotoxicity test）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "3H"
+      },
+      {
+        "label": "B",
+        "text": "51Cr"
+      },
+      {
+        "label": "C",
+        "text": "32P"
+      },
+      {
+        "label": "D",
+        "text": "125I"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q23",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 23 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 23,
+    "stem": "有關幽門螺旋桿菌（H. pylori）感染的抗體反應，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "會產生IgG、IgA 和IgM 三種抗體"
+      },
+      {
+        "label": "B",
+        "text": "IgM 具有極重要的臨床診斷價值"
+      },
+      {
+        "label": "C",
+        "text": "IgG 是主要常用的檢測指標"
+      },
+      {
+        "label": "D",
+        "text": "IgA 可與IgG 合併使用以提高敏感性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q24",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 24 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 24,
+    "stem": "抗寄生蟲免疫反應中，IgE 主要參與的作用為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "促進補體裂解寄生蟲"
+      },
+      {
+        "label": "B",
+        "text": "中和寄生蟲的毒素"
+      },
+      {
+        "label": "C",
+        "text": "結合肥大細胞釋放趨化因子"
+      },
+      {
+        "label": "D",
+        "text": "增強吞噬細胞的吞噬能力"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q25",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 25 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 25,
+    "stem": "有關化膿性鏈球菌（S. pyogenes）血清學檢測的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "DNase B 是化膿性鏈球菌產生的細胞內酵素"
+      },
+      {
+        "label": "B",
+        "text": "抗DNase B 抗體常見於膿皰症（impetigo）患者血清中"
+      },
+      {
+        "label": "C",
+        "text": "DNase B 的中和試驗可評估化膿性鏈球菌的病程"
+      },
+      {
+        "label": "D",
+        "text": "相較於ASO 的試驗結果，抗DNase B 抗體較不易產生偽陽性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q26",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 26 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 26,
+    "stem": "TORCHS 診斷不包括何種病原體所引起的疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "細菌"
+      },
+      {
+        "label": "B",
+        "text": "病毒"
+      },
+      {
+        "label": "C",
+        "text": "真菌"
+      },
+      {
+        "label": "D",
+        "text": "寄生蟲"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q27",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 27 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 27,
+    "stem": "下列何者與第三型過敏（type Ⅲ hypersensitivity）反應最不相關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "對penicillin 過敏"
+      },
+      {
+        "label": "B",
+        "text": "group A Streptococcus 感染"
+      },
+      {
+        "label": "C",
+        "text": "glomerulonephritis"
+      },
+      {
+        "label": "D",
+        "text": "graft-versus-host disease（GVHD）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q28",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 28 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 28,
+    "stem": "下列何者與Arthus reaction 相關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "組織被毒殺型T 細胞破壞"
+      },
+      {
+        "label": "B",
+        "text": "免疫複合物在血管壁沉積"
+      },
+      {
+        "label": "C",
+        "text": "肥大細胞釋放組織胺"
+      },
+      {
+        "label": "D",
+        "text": "移除被抗體致敏的紅血球"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q29",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 29 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 29,
+    "stem": "要協助診斷結核桿菌（M. tuberculosis）感染，經常檢測患者T 細胞對TB 抗原所釋出的何種細胞激素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "interleukin-17"
+      },
+      {
+        "label": "B",
+        "text": "interferon-γ"
+      },
+      {
+        "label": "C",
+        "text": "interleukin-4"
+      },
+      {
+        "label": "D",
+        "text": "transforming growth factor-β"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q30",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 30 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 30,
+    "stem": "有關inflammatory bowel disease（IBD）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Crohn disease 是一種IBD"
+      },
+      {
+        "label": "B",
+        "text": "anti-pANCA 及anti-parietal antibodies 是IBD 的自體抗體"
+      },
+      {
+        "label": "C",
+        "text": "ILC3 為淋巴球亞群與IBD 的形成相關"
+      },
+      {
+        "label": "D",
+        "text": "屬腸胃道的自體發炎性疾病"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q31",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 31 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 31,
+    "stem": "抗核抗體（ANA）之陽性率在下列那一種自體免疫疾病較高？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Addison's disease"
+      },
+      {
+        "label": "B",
+        "text": "pernicious anemia"
+      },
+      {
+        "label": "C",
+        "text": "primary biliary cholangitis"
+      },
+      {
+        "label": "D",
+        "text": "progressive systemic sclerosis"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q32",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 32 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 32,
+    "stem": "全身紅斑性狼瘡（SLE）病人體內免疫複合體沉積，引起發炎反應。下列何種因子參與此發炎反應？①IL-3\n②IL-33 ③kinin ④prostaglandin",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②"
+      },
+      {
+        "label": "B",
+        "text": "②③"
+      },
+      {
+        "label": "C",
+        "text": "③④"
+      },
+      {
+        "label": "D",
+        "text": "①④"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q33",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 33 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 33,
+    "stem": "下列那種疾病腦脊髓液會出現寡株（oligoclonal）γ球蛋白？①多發性硬化症（multiple sclerosis） ②\n神經性梅毒皮膚感覺異常（neurosyphilis-paresthesia） ③慢性結核菌及黴菌性腦膜炎（chronic\nmycobacterial and fungal meningitis） ④大腦梗塞（cerebral infarction） ⑤重症肌無力\n（myasthenia gravis）",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②⑤"
+      },
+      {
+        "label": "B",
+        "text": "僅③④"
+      },
+      {
+        "label": "C",
+        "text": "①②③④"
+      },
+      {
+        "label": "D",
+        "text": "②③④⑤"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q34",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 34 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 34,
+    "stem": "以放射照射（irradiated）受贈者的淋巴細胞，刺激捐贈者淋巴細胞增生，是下列何種檢測方法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "混合淋巴細胞反應（mixed lymphocyte reaction, MLR）"
+      },
+      {
+        "label": "B",
+        "text": "補體媒介毒殺反應（complement-dependent cytotoxicity, CDC）"
+      },
+      {
+        "label": "C",
+        "text": "抗體依賴性細胞介導毒殺反應（antibody-dependent cell-mediated cytotoxicity, ADCC）"
+      },
+      {
+        "label": "D",
+        "text": "酵素連結免疫反應（enzyme-linked immunosorbent assay, ELISA）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q35",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 35 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 35,
+    "stem": "下列何種分子最可能預存在受贈者體內，造成超急性移植排斥反應？",
+    "options": [
+      {
+        "label": "A",
+        "text": "補體"
+      },
+      {
+        "label": "B",
+        "text": "發炎體"
+      },
+      {
+        "label": "C",
+        "text": "抗體"
+      },
+      {
+        "label": "D",
+        "text": "組織抗原單體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q36",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 36 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 36,
+    "stem": "下列何者屬於核磷酸化蛋白質（nuclear phosphoprotein），具有誘導細胞停止生長、DNA 修復和細胞凋亡\n的功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Myc"
+      },
+      {
+        "label": "B",
+        "text": "K-ras"
+      },
+      {
+        "label": "C",
+        "text": "Bcl-2"
+      },
+      {
+        "label": "D",
+        "text": "p53"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q37",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 37 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 37,
+    "stem": "下列何者是mRNA 疫苗的最佳優勢？",
+    "options": [
+      {
+        "label": "A",
+        "text": "僅需單次接種即可提供終身免疫"
+      },
+      {
+        "label": "B",
+        "text": "對變異病毒株無效，需不斷重新設計"
+      },
+      {
+        "label": "C",
+        "text": "僅適用於年輕人，對老年人的效果有限"
+      },
+      {
+        "label": "D",
+        "text": "可迅速修改設計以應對新型變異病原體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q38",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 38 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 38,
+    "stem": "免疫監視下抵抗清除階段（elimination phase）的變異腫瘤細胞，會招募下列何種細胞保護自己進入逃脫階\n段（escape phase）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "NK cells"
+      },
+      {
+        "label": "B",
+        "text": "CD8 T cells"
+      },
+      {
+        "label": "C",
+        "text": "Treg cells"
+      },
+      {
+        "label": "D",
+        "text": "CD4 T cells"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q39",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 39 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 39,
+    "stem": "有關疫苗佐劑（adjuvants）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "佐劑的唯一功能是提供抗原的長期穩定性，無法直接增強免疫反應"
+      },
+      {
+        "label": "B",
+        "text": "佐劑經由促進抗原呈獻細胞（APCs）的抗原攝取和活化，增強免疫反應"
+      },
+      {
+        "label": "C",
+        "text": "所有佐劑均為礦物鹽類，例如氫氧化鋁或磷酸鋁，這些成分是佐劑應用的唯一來源"
+      },
+      {
+        "label": "D",
+        "text": "佐劑僅能提高抗體的濃度，對細胞免疫反應無法產生作用"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q40",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 40 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 40,
+    "stem": "下列何種細胞最不具有抑制腫瘤生長的功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "NK cells"
+      },
+      {
+        "label": "B",
+        "text": "cytotoxic T cells"
+      },
+      {
+        "label": "C",
+        "text": "M2 macrophages"
+      },
+      {
+        "label": "D",
+        "text": "eosinophils"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q41",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 41 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 41,
+    "stem": "血球凝集試驗不適合用於檢測下列何種病毒？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腺病毒"
+      },
+      {
+        "label": "B",
+        "text": "流感病毒"
+      },
+      {
+        "label": "C",
+        "text": "麻疹病毒"
+      },
+      {
+        "label": "D",
+        "text": "EB 病毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q42",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 42 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 42,
+    "stem": "如果沒有急性期與恢復期的成對血清來比較IgG 效價高低時，可用IgG avidity 來判斷患者是否為近期感\n染。下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可使用avidity EIA 來測"
+      },
+      {
+        "label": "B",
+        "text": "近期感染的IgG，avidity 高"
+      },
+      {
+        "label": "C",
+        "text": "urea 可破壞抗體氫鍵"
+      },
+      {
+        "label": "D",
+        "text": "urea 可移除avidity 低的抗體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q43",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 43 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 43,
+    "stem": "利用PCR 定量巨細胞病毒viral load 之檢驗中，不需要使用到下列何種材料？",
+    "options": [
+      {
+        "label": "A",
+        "text": "reverse transcriptase"
+      },
+      {
+        "label": "B",
+        "text": "DNA polymerase"
+      },
+      {
+        "label": "C",
+        "text": "dNTP"
+      },
+      {
+        "label": "D",
+        "text": "HSV-1 specific primers"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "multiple_accepted",
+    "answer": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q44",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 44 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 44,
+    "stem": "某些病毒在感染後能潛伏在健康成人體內，但對於免疫不全的病人來說這些病毒可造成伺機感染。有關此現\n象，下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "巨細胞病毒在免疫不全的病人中可能造成致死性的神經系統感染"
+      },
+      {
+        "label": "B",
+        "text": "麻疹病毒在免疫不全的病人可造成巨細胞肺炎（giant cell syncytial pneumonia）"
+      },
+      {
+        "label": "C",
+        "text": "BK 病毒在免疫不全的病人中可造成視網膜炎（retinitis）"
+      },
+      {
+        "label": "D",
+        "text": "JC 病毒在免疫不全的病人中可造成進行性多病灶腦白質病（progressive multifocal\nleukoencephalopathy）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q45",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 45 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 45,
+    "stem": "有關減毒（live attenuated）流感疫苗的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鼻腔內給與噴霧"
+      },
+      {
+        "label": "B",
+        "text": "適合老年族群"
+      },
+      {
+        "label": "C",
+        "text": "同時誘發T、B 細胞及黏膜免疫反應"
+      },
+      {
+        "label": "D",
+        "text": "病毒在37℃生長情況不佳"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q46",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 46 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 46,
+    "stem": "有關流感病毒A/B 的抗原快速診斷檢驗，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗原快速檢驗結果可提供臨床上是否給與抗流感病毒藥物參考"
+      },
+      {
+        "label": "B",
+        "text": "常用檢體是鼻咽拭子（nasopharyngeal swab）"
+      },
+      {
+        "label": "C",
+        "text": "通常以病毒的HA 蛋白作為抗原"
+      },
+      {
+        "label": "D",
+        "text": "可以肉眼判讀結果"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q47",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 47 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 47,
+    "stem": "有關shell vial 技術之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "接種檢體後，需經過低速離心處理"
+      },
+      {
+        "label": "B",
+        "text": "需先觀察細胞病變，再用免疫螢光染色確認"
+      },
+      {
+        "label": "C",
+        "text": "可縮短病毒檢測時間"
+      },
+      {
+        "label": "D",
+        "text": "可用來培養及鑑定巨細胞病毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q48",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 48 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 48,
+    "stem": "有關病毒及其可感染細胞株之配對，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腸病毒A71 型／RD 細胞"
+      },
+      {
+        "label": "B",
+        "text": "A 型流感病毒／MDCK 細胞"
+      },
+      {
+        "label": "C",
+        "text": "腺病毒／HEp-2 細胞"
+      },
+      {
+        "label": "D",
+        "text": "人類巨細胞病毒／A549 細胞"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q49",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 49 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 49,
+    "stem": "有關HIV-1 及HBV 之特性及臨床表現敘述，下列何者最為適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "二者皆可透過反轉錄機制複製病毒基因體"
+      },
+      {
+        "label": "B",
+        "text": "二者慢性感染之臨床症狀表現及用藥具有高度相似性"
+      },
+      {
+        "label": "C",
+        "text": "二者皆使用RT-PCR 進行病毒定量檢驗"
+      },
+      {
+        "label": "D",
+        "text": "二者致死最重要原因皆為猛爆性感染"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q50",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 50 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 50,
+    "stem": "有關細胞培養之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "需要定期檢測是否有黴漿菌污染"
+      },
+      {
+        "label": "B",
+        "text": "需要定期測試對病毒的感受性"
+      },
+      {
+        "label": "C",
+        "text": "解凍細胞時放在冰上讓其慢慢溶解"
+      },
+      {
+        "label": "D",
+        "text": "冷凍細胞時需要外加抗凍劑"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q51",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 51 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 51,
+    "stem": "有關細胞與病毒培養之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "初代細胞不適合作為臨床常規病毒感染的細胞"
+      },
+      {
+        "label": "B",
+        "text": "初代細胞培養次數有限"
+      },
+      {
+        "label": "C",
+        "text": "MRC-5 細胞是屬於二倍體細胞（diploid cells）"
+      },
+      {
+        "label": "D",
+        "text": "同一種病毒對不同細胞的感染能力相近"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q52",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 52 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 52,
+    "stem": "目前用於治療HCV 的抗病毒藥物direct acting antivirals（DAAs），不包含下列何種病毒標的？",
+    "options": [
+      {
+        "label": "A",
+        "text": "NS3 protease"
+      },
+      {
+        "label": "B",
+        "text": "NS5A protein"
+      },
+      {
+        "label": "C",
+        "text": "NS1 protein"
+      },
+      {
+        "label": "D",
+        "text": "NS5B polymerase"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q53",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 53 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 53,
+    "stem": "成人T 細胞白血病（adult T-cell leukemia）是由下列何種病毒感染所造成？",
+    "options": [
+      {
+        "label": "A",
+        "text": "human immunodeficiency virus type 1"
+      },
+      {
+        "label": "B",
+        "text": "human immunodeficiency virus type 2"
+      },
+      {
+        "label": "C",
+        "text": "human T-cell lymphotropic virus type 1"
+      },
+      {
+        "label": "D",
+        "text": "human T-cell lymphotropic virus type 2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q54",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 54 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 54,
+    "stem": "有關水痘帶狀疱疹病毒（varicella-zoster virus）之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "感染後再次復發時會引起水痘（chickenpox）"
+      },
+      {
+        "label": "B",
+        "text": "可施打減毒活疫苗預防感染"
+      },
+      {
+        "label": "C",
+        "text": "成人初次感染比兒童更嚴重"
+      },
+      {
+        "label": "D",
+        "text": "病毒會潛伏於神經元中"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q55",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 55 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 55,
+    "stem": "有關hemagglutination inhibition（HAI）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可用來定量檢體中hemagglutinin 的量"
+      },
+      {
+        "label": "B",
+        "text": "只能用天竺鼠的紅血球"
+      },
+      {
+        "label": "C",
+        "text": "血清檢體不需要經過前處理即可進行檢測"
+      },
+      {
+        "label": "D",
+        "text": "紅血球沉降聚集於U 型盤底中央表示陽性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q56",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 56 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 56,
+    "stem": "抗病毒藥物lamivudine（3TC）可用於治療下列那些病毒組合？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HIV-1/HBV"
+      },
+      {
+        "label": "B",
+        "text": "HBV/HCV"
+      },
+      {
+        "label": "C",
+        "text": "HIV-1/HCV"
+      },
+      {
+        "label": "D",
+        "text": "HBV/HEV"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q57",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 57 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 57,
+    "stem": "下列何種病毒在臨床實驗室進行常規性病毒培養時，最不可能產生細胞病變？",
+    "options": [
+      {
+        "label": "A",
+        "text": "parvovirus B19"
+      },
+      {
+        "label": "B",
+        "text": "Coxsackievirus B3"
+      },
+      {
+        "label": "C",
+        "text": "herpes simplex virus type 1"
+      },
+      {
+        "label": "D",
+        "text": "adenovirus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q58",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 58 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 58,
+    "stem": "下列何種病毒感染最有可能造成關節炎的症狀？",
+    "options": [
+      {
+        "label": "A",
+        "text": "cytomegalovirus"
+      },
+      {
+        "label": "B",
+        "text": "parvovirus B19"
+      },
+      {
+        "label": "C",
+        "text": "adenovirus type 5"
+      },
+      {
+        "label": "D",
+        "text": "herpes simplex virus type 2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q59",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 59 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 59,
+    "stem": "下列有關HPV 病毒蛋白的敘述，何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "E6 在癌化組織表現量較高"
+      },
+      {
+        "label": "B",
+        "text": "E1 在病理組織分化異常的部位有高表現量"
+      },
+      {
+        "label": "C",
+        "text": "可利用帶有E7 的假病毒進行中和抗體實驗，測試施打疫苗的效價"
+      },
+      {
+        "label": "D",
+        "text": "anti-L1 的抗體檢測可作為子宮頸癌篩檢方法"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q60",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 60 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 60,
+    "stem": "下列何種DNA 病毒，在懷孕期間感染最常造成嬰兒先天性缺陷？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B 型肝炎病毒"
+      },
+      {
+        "label": "B",
+        "text": "巨細胞病毒"
+      },
+      {
+        "label": "C",
+        "text": "腺病毒"
+      },
+      {
+        "label": "D",
+        "text": "BK 病毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q61",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 61 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 61,
+    "stem": "下列何種病毒最可能由尿液中培養分離？",
+    "options": [
+      {
+        "label": "A",
+        "text": "human herpesvirus 7"
+      },
+      {
+        "label": "B",
+        "text": "cytomegalovirus"
+      },
+      {
+        "label": "C",
+        "text": "parvovirus B19"
+      },
+      {
+        "label": "D",
+        "text": "human papillomavirus 16"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q62",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 62 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 62,
+    "stem": "下列那一組實驗室診斷結果，最有可能代表慢性肝炎感染？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HBsAg(＋)，anti-HBcAb(＋)，anti-HBsAb(－)"
+      },
+      {
+        "label": "B",
+        "text": "HBsAg(－)，anti-HBcAb(＋)，anti-HBsAb(＋)"
+      },
+      {
+        "label": "C",
+        "text": "HBsAg(－)，anti-HBcAb(－)，anti-HBsAb(＋)"
+      },
+      {
+        "label": "D",
+        "text": "HBsAg(＋)，anti-HBcAb(－)，anti-HBsAb(－)"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q63",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 63 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 63,
+    "stem": "下列何者屬於人畜共通傳染的肝炎病毒？",
+    "options": [
+      {
+        "label": "A",
+        "text": "HAV"
+      },
+      {
+        "label": "B",
+        "text": "HBV"
+      },
+      {
+        "label": "C",
+        "text": "HCV"
+      },
+      {
+        "label": "D",
+        "text": "HEV"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q64",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 64 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 64,
+    "stem": "下列何種疾病或症狀最有可能因腺病毒（adenovirus）感染而造成 ？",
+    "options": [
+      {
+        "label": "A",
+        "text": "玫瑰疹"
+      },
+      {
+        "label": "B",
+        "text": "貧血"
+      },
+      {
+        "label": "C",
+        "text": "呼吸道症狀"
+      },
+      {
+        "label": "D",
+        "text": "胸痛（pleurodynia）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q65",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 65 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 65,
+    "stem": "懷孕婦女感染下列何種病毒後，最可能造成胎兒貧血甚至死亡？",
+    "options": [
+      {
+        "label": "A",
+        "text": "measles virus"
+      },
+      {
+        "label": "B",
+        "text": "parvovirus B19"
+      },
+      {
+        "label": "C",
+        "text": "respiratory syncytial virus"
+      },
+      {
+        "label": "D",
+        "text": "rubella virus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q66",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 66 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 66,
+    "stem": "下列何種病毒，目前臨床上沒有小分子藥物可供專一性治療？",
+    "options": [
+      {
+        "label": "A",
+        "text": "parvovirus B19"
+      },
+      {
+        "label": "B",
+        "text": "hepatitis C virus"
+      },
+      {
+        "label": "C",
+        "text": "varicella-zoster virus"
+      },
+      {
+        "label": "D",
+        "text": "hepatitis B virus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q67",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 67 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 67,
+    "stem": "下列何種疫苗最可能保護個體免於D 型肝炎病毒感染？",
+    "options": [
+      {
+        "label": "A",
+        "text": "A 型肝炎病毒疫苗"
+      },
+      {
+        "label": "B",
+        "text": "B 型肝炎病毒疫苗"
+      },
+      {
+        "label": "C",
+        "text": "C 型肝炎病毒疫苗"
+      },
+      {
+        "label": "D",
+        "text": "E 型肝炎病毒疫苗"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q68",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 68 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 68,
+    "stem": "有關感染人類的冠狀病毒與其細胞受體的配對，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "SARS-CoV／angiotensin-converting enzyme 2（ACE2）"
+      },
+      {
+        "label": "B",
+        "text": "HCoV-229E／human aminopeptidase N（hAPN）"
+      },
+      {
+        "label": "C",
+        "text": "MERS-CoV／dipeptidyl peptidase 4（DPP4）"
+      },
+      {
+        "label": "D",
+        "text": "HCoV-NL63／alpha 2,6-linked sialic acid"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q69",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 69 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 69,
+    "stem": "有關B 型流感病毒的特性，下列敘述何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "病毒顆粒表面有hemagglutinin 蛋白質"
+      },
+      {
+        "label": "B",
+        "text": "完整病毒顆粒中帶有7 個片段病毒基因組"
+      },
+      {
+        "label": "C",
+        "text": "病毒的RNA 聚合酶複合體由PB1、PB2 及PA 三個蛋白質組成"
+      },
+      {
+        "label": "D",
+        "text": "病毒的BM2 蛋白質具有離子通道的活性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q70",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 70 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 70,
+    "stem": "有關副黏液病毒的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "會引起細胞融合"
+      },
+      {
+        "label": "B",
+        "text": "負向RNA 病毒"
+      },
+      {
+        "label": "C",
+        "text": "在細胞質中完成病毒的複製"
+      },
+      {
+        "label": "D",
+        "text": "F 蛋白與N 蛋白會黏附在一起"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q71",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 71 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 71,
+    "stem": "有關A 型肝炎病毒的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "屬於微小RNA 病毒科（Picornaviridae）之一員"
+      },
+      {
+        "label": "B",
+        "text": "病毒外殼（capsid）由病毒蛋白質VP1、VP2、VP3 及VP4 組成"
+      },
+      {
+        "label": "C",
+        "text": "具胃酸耐受性，可感染小腸上皮細胞"
+      },
+      {
+        "label": "D",
+        "text": "僅有一種血清型（serotype）及一種基因型（genotype）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q72",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 72 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 72,
+    "stem": "有關德國麻疹病毒的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "與麻疹病毒（measles virus）同屬於副黏液病毒科（Paramyxoviridae）"
+      },
+      {
+        "label": "B",
+        "text": "病毒基因組為負向單股RNA"
+      },
+      {
+        "label": "C",
+        "text": "病毒外套膜（envelope）上有E1 及E2 醣蛋白（glycoproteins）"
+      },
+      {
+        "label": "D",
+        "text": "目前並無疫苗可供預防"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q73",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 73 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 73,
+    "stem": "下列何者為冠狀病毒的特性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "具有最長RNA 基因體的人類病毒"
+      },
+      {
+        "label": "B",
+        "text": "由RNA 基因體製造單一多胜肽鏈（polypeptide）"
+      },
+      {
+        "label": "C",
+        "text": "是套膜病毒中病毒顆粒最大的"
+      },
+      {
+        "label": "D",
+        "text": "是造成普通感冒的最主要病毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q74",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 74 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 74,
+    "stem": "有關登革病毒（dengue virus）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "目前僅有一種血清型，因此感染後能獲終身保護力"
+      },
+      {
+        "label": "B",
+        "text": "DENVax 登革熱疫苗是一種次單位蛋白疫苗（subunit vaccine）"
+      },
+      {
+        "label": "C",
+        "text": "第二次得到相同型別登革病毒感染容易引發出血熱"
+      },
+      {
+        "label": "D",
+        "text": "患者感染登革病毒後會出現病毒血症（viremia）的現象"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q75",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 75 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 75,
+    "stem": "有關茲卡病毒（Zika virus）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "多數人初次感染後沒有明顯症狀"
+      },
+      {
+        "label": "B",
+        "text": "基因型可分為非洲型與美洲型"
+      },
+      {
+        "label": "C",
+        "text": "可使用專一性抗病毒藥物預防胎兒小頭症發生"
+      },
+      {
+        "label": "D",
+        "text": "主要經由性行為傳染"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q76",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 76 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 76,
+    "stem": "下列何種病毒沒有製造紅血球凝集的蛋白？",
+    "options": [
+      {
+        "label": "A",
+        "text": "parainfluenza virus"
+      },
+      {
+        "label": "B",
+        "text": "mumps virus"
+      },
+      {
+        "label": "C",
+        "text": "measles virus"
+      },
+      {
+        "label": "D",
+        "text": "respiratory syncytial virus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q77",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 77 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 77,
+    "stem": "針對A 型流感病毒的hemagglutinin（HA）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可引發中和性抗體產生"
+      },
+      {
+        "label": "B",
+        "text": "表現在病毒外套膜上"
+      },
+      {
+        "label": "C",
+        "text": "以dimer 的型態存在"
+      },
+      {
+        "label": "D",
+        "text": "其功能包括促進病毒膜與細胞融合"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q78",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 78 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 78,
+    "stem": "有關rotavirus 的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "為雙層核體、雙股片段RNA 病毒"
+      },
+      {
+        "label": "B",
+        "text": "在細胞質內進行基因體複製"
+      },
+      {
+        "label": "C",
+        "text": "已有疫苗可預防感染"
+      },
+      {
+        "label": "D",
+        "text": "rotavirus type A 可依據VP4 及VP8 抗原進行分型"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q79",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 79 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 79,
+    "stem": "有關節媒病毒（arbovirus）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "均有疫苗可防治"
+      },
+      {
+        "label": "B",
+        "text": "受限於病媒，分布均有特定的生態棲位"
+      },
+      {
+        "label": "C",
+        "text": "類感冒症狀為病毒刺激宿主產生干擾素的結果"
+      },
+      {
+        "label": "D",
+        "text": "常以控制病媒來作為流行病的控制方法"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-serology-immunology-virology-seq15-q80",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血清免疫學與臨床病毒學 第 80 題",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "subject_slug": "serology-immunology-virology",
+    "question_number": 80,
+    "stem": "下列何者不是A 型肝炎病毒的特性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "具有正向單股RNA 基因體"
+      },
+      {
+        "label": "B",
+        "text": "病毒顆粒不具外套膜"
+      },
+      {
+        "label": "C",
+        "text": "在高於攝氏85℃環境10 分鐘，會失去感染活性"
+      },
+      {
+        "label": "D",
+        "text": "在pH＜3.0 的酸性室溫環境中極不穩定，會立刻失去感染活性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_15_臨床血清免疫學與臨床病毒學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  }
+]

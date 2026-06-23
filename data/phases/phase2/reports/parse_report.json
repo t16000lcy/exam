@@ -1,7 +1,10 @@
 {
   "phase": "phase2",
+  "phase_label": "Phase 2",
   "description": "115 年全部六科",
-  "total_questions": 480,
+  "generated_at": "2026-06-23T17:54:35.352208+00:00",
+  "success_question_count": 480,
+  "failed_question_count": 0,
   "subject_counts": {
     "clinical-physiology-pathology": 80,
     "hematology-blood-bank": 80,
@@ -10,10 +13,7 @@
     "biochemistry-clinical-biochemistry": 80,
     "serology-immunology-virology": 80
   },
-  "year_counts": {
-    "115": 480
-  },
-  "exam_code_counts": {
-    "1": 480
-  }
+  "image_question_count": 17,
+  "missing_answer_count": 0,
+  "manual_review_count": 392
 }

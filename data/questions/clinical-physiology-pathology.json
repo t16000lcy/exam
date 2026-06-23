@@ -1,1 +1,2891 @@
-[]
+[
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q01",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 1 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 1,
+    "stem": "下列何種第二度房室傳導阻斷（second degree AV block），無法分辨是 Ｍobitz 第一型或第二型？",
+    "options": [
+      {
+        "label": "A",
+        "text": "4：3 第二度房室傳導阻斷"
+      },
+      {
+        "label": "B",
+        "text": "10：9 第二度房室傳導阻斷"
+      },
+      {
+        "label": "C",
+        "text": "3：2 第二度房室傳導阻斷"
+      },
+      {
+        "label": "D",
+        "text": "2：1 第二度房室阻斷"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q02",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 2 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 2,
+    "stem": "下列對於心電圖之敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "心電圖P 波為心房再極化波"
+      },
+      {
+        "label": "B",
+        "text": "心電圖QRS 波為心室去極化波"
+      },
+      {
+        "label": "C",
+        "text": "心電圖T 波為心室再極化波"
+      },
+      {
+        "label": "D",
+        "text": "心電圖PR 間期為從P 波開始到QRS 波開始的時間"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q03",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 3 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 3,
+    "stem": "對此心電圖之判讀，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "左束支傳導阻斷（LBBB）"
+      },
+      {
+        "label": "B",
+        "text": "右束支傳導阻斷（RBBB）"
+      },
+      {
+        "label": "C",
+        "text": "竇性心律（sinus rhythm）"
+      },
+      {
+        "label": "D",
+        "text": "一度房室傳導阻斷（first degree AV block）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q03_p01.png"
+    ],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q04",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 4 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 4,
+    "stem": "若Ⅰ導程與aVF 導程的QRS 波如下圖所示示。此時正平面（frontal plane），QRS 向量軸軸位於那一個象限？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ⅰ"
+      },
+      {
+        "label": "B",
+        "text": "Ⅱ"
+      },
+      {
+        "label": "C",
+        "text": "Ⅲ"
+      },
+      {
+        "label": "D",
+        "text": "Ⅳ"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q04_p02.png"
+    ],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q05",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 5 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 5,
+    "stem": "心肌梗塞的病理性Q 波與正常q 波的不同同，不包括下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "病理性Q 波深度至少大於R 波高度的1/4"
+      },
+      {
+        "label": "B",
+        "text": "病理性Q 波時間大於0.04 秒"
+      },
+      {
+        "label": "C",
+        "text": "通常心肌壞死後大部分人Q 波會持續存存在"
+      },
+      {
+        "label": "D",
+        "text": "病理性Q 波只出現在單一誘導"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q06",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 6 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 6,
+    "stem": "下列心電圖的敘述何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "沒有看到明顯的P 波，是心室頻脈（vventricular tachycardia）"
+      },
+      {
+        "label": "B",
+        "text": "沒有看到明顯的P 波，是心房顫動（aatrial fibrillation）"
+      },
+      {
+        "label": "C",
+        "text": "心跳規律，是竇性頻脈（sinus tachyycardia）"
+      },
+      {
+        "label": "D",
+        "text": "心跳規律，是上心室頻脈（supraventtricular tachycardia）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q06_p02.png"
+    ],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q07",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 7 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 7,
+    "stem": "下列何者不是心電圖紙上的標示？",
+    "options": [
+      {
+        "label": "A",
+        "text": "有細線和粗線，細線構成1×1 mm 的格格子，粗線構成5×5 mm 的格子"
+      },
+      {
+        "label": "B",
+        "text": "橫軸表示時間，一個大格的時間為0.1 秒"
+      },
+      {
+        "label": "C",
+        "text": "縱軸代表電壓，一個小格的距離代表0.1 mV"
+      },
+      {
+        "label": "D",
+        "text": "標準心電圖記錄的速度為25 mm/s"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q08",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 8 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 8,
+    "stem": "有關心電圖儀的操作，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "四肢皆有導極"
+      },
+      {
+        "label": "B",
+        "text": "胸前有6 個導極"
+      },
+      {
+        "label": "C",
+        "text": "V1 放在胸骨左側第二肋間"
+      },
+      {
+        "label": "D",
+        "text": "RL 放在右腳"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q09",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 9 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 9,
+    "stem": "一位45 歲男性之常規心電圖呈現下列現現象：心軸為 -28°、V6 的R 波波幅＝28 mm、V1的S 波波幅＋V5 的R\n波波幅＝39 mm、PR＝0.13 秒。此心電圖圖最可能診斷為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "WPW 症候群"
+      },
+      {
+        "label": "B",
+        "text": "左心室肥大"
+      },
+      {
+        "label": "C",
+        "text": "右心室肥大"
+      },
+      {
+        "label": "D",
+        "text": "正常"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q10",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 10 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 10,
+    "stem": "心室再極化（repolarization）產生於於心電圖的那部分？",
+    "options": [
+      {
+        "label": "A",
+        "text": "P 波"
+      },
+      {
+        "label": "B",
+        "text": "PR 區間（PR interval）"
+      },
+      {
+        "label": "C",
+        "text": "T 波"
+      },
+      {
+        "label": "D",
+        "text": "PR 節段（PR segment）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q11",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 11 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 11,
+    "stem": "下列心電圖的判讀何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "心跳每分鐘小於50 下"
+      },
+      {
+        "label": "B",
+        "text": "心律為竇性緩脈"
+      },
+      {
+        "label": "C",
+        "text": "aVF 有ST 段上升"
+      },
+      {
+        "label": "D",
+        "text": "aVL 有ST 段下降"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q11_p03.png"
+    ],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q12",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 12 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 12,
+    "stem": "肌電圖檢查時，當同軸雙極針插入肌肉數次後，插入活動電位幾乎沒有訊號，下列何種情況最不可能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "嚴重肌肉萎縮"
+      },
+      {
+        "label": "B",
+        "text": "插入脂肪組織"
+      },
+      {
+        "label": "C",
+        "text": "急性肌肉發炎"
+      },
+      {
+        "label": "D",
+        "text": "同軸雙極針損壞"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q13",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 13 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 13,
+    "stem": "有關針極肌電圖檢查的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "蜂窩性組織炎患者不建議進行此檢查"
+      },
+      {
+        "label": "B",
+        "text": "對感覺神經元疾病為良好的診斷工具"
+      },
+      {
+        "label": "C",
+        "text": "可依據進針後不同狀態分為插入活動、自發活動及動員召集狀態"
+      },
+      {
+        "label": "D",
+        "text": "運動單位電位不同波型可區別神經或肌肉病變"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q14",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 14 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 14,
+    "stem": "有關腦波紀錄電極的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "皿電極只做為參考電極使用"
+      },
+      {
+        "label": "B",
+        "text": "針電極需使用電極糊"
+      },
+      {
+        "label": "C",
+        "text": "針電極的分極電流較小"
+      },
+      {
+        "label": "D",
+        "text": "火綿膠電極常用於長時間的腦波監測"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q15",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 15 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 15,
+    "stem": "有關腦死時，其腦波的波型敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "常出現不規律的 K complex（K 叢波或K 複合波）"
+      },
+      {
+        "label": "B",
+        "text": "混合出現 K complex（K 叢波或K 複合波）與紡錘波（spindles）"
+      },
+      {
+        "label": "C",
+        "text": "常出現80～120 Hz 頻率，但穩定規律的固定波形"
+      },
+      {
+        "label": "D",
+        "text": "出現鮮少律動且近乎直線的波動或波型"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q16",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 16 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 16,
+    "stem": "重症肌無力症患者，於神經肌肉接合處的電生理檢查，最不可能出現下列何種現象？",
+    "options": [
+      {
+        "label": "A",
+        "text": "低頻重複神經刺激檢查，肌肉複合動作電位出現增量反應"
+      },
+      {
+        "label": "B",
+        "text": "單纖維肌電圖檢查，jitter 會變大"
+      },
+      {
+        "label": "C",
+        "text": "單纖維肌電圖檢查，出現阻斷現象"
+      },
+      {
+        "label": "D",
+        "text": "重複神經刺激檢查，近端肌肉較易出現異常現象"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q17",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 17 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 17,
+    "stem": "有關呼吸作用，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "氣體由肺泡經擴散作用進到肺循環中稱為外呼吸"
+      },
+      {
+        "label": "B",
+        "text": "紅血球與組織微血管內血漿間之氣體交換稱為內呼吸"
+      },
+      {
+        "label": "C",
+        "text": "內呼吸產生CO2 由腎臟排除"
+      },
+      {
+        "label": "D",
+        "text": "CO2 以擴散作用進入微血管"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q18",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 18 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 18,
+    "stem": "下列何者不是造成侷限性肺功能異常的常見原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "特發性肺部纖維化"
+      },
+      {
+        "label": "B",
+        "text": "過敏性氣喘"
+      },
+      {
+        "label": "C",
+        "text": "慢性肺間質疾病"
+      },
+      {
+        "label": "D",
+        "text": "呼吸神經肌肉異常"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q19",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 19 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 19,
+    "stem": "下列何者為肺氣腫患者肺功能最常見之異常特徵？",
+    "options": [
+      {
+        "label": "A",
+        "text": "肺泡半徑較正常人小"
+      },
+      {
+        "label": "B",
+        "text": "氣體交換面積變小"
+      },
+      {
+        "label": "C",
+        "text": "血氧過高"
+      },
+      {
+        "label": "D",
+        "text": "呼吸速率偏低"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q20",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 20 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 20,
+    "stem": "糖尿病之各式併發症，可由生理檢查加以評估。下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腦血管病變可使用腦波檢查"
+      },
+      {
+        "label": "B",
+        "text": "心血管疾病可使用運動心電圖檢查"
+      },
+      {
+        "label": "C",
+        "text": "心血管病變導致心衰竭可使用心臟超音波檢查"
+      },
+      {
+        "label": "D",
+        "text": "周邊血管病變可使用周邊血管超音波"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q21",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 21 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 21,
+    "stem": "下列何種神經傳導檢查參數，最能代表軸索退化（axonal degeneration）的表現？",
+    "options": [
+      {
+        "label": "A",
+        "text": "遠端潛值（distal latency）"
+      },
+      {
+        "label": "B",
+        "text": "振幅（amplitude）"
+      },
+      {
+        "label": "C",
+        "text": "傳導速度（conduction velocity）"
+      },
+      {
+        "label": "D",
+        "text": "F 波潛值（F wave latency）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q22",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 22 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 22,
+    "stem": "下列何種檢查最有助於重症肌無力症的診斷？",
+    "options": [
+      {
+        "label": "A",
+        "text": "眨眼反射"
+      },
+      {
+        "label": "B",
+        "text": "運動神經傳導檢查"
+      },
+      {
+        "label": "C",
+        "text": "感覺神經傳導檢查"
+      },
+      {
+        "label": "D",
+        "text": "重複神經刺激"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q23",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 23 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 23,
+    "stem": "Henderson-Hasselbalch 方程式包含那三個變數？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血液之pH、［HCO3-］、PaCO2"
+      },
+      {
+        "label": "B",
+        "text": "血液之pH、［HCO3-］、PaO2"
+      },
+      {
+        "label": "C",
+        "text": "血液之PaO2、［HCO3-］、PaCO2"
+      },
+      {
+        "label": "D",
+        "text": "血液之pH、PaO2、PaCO2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q24",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 24 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 24,
+    "stem": "代謝性酸中毒（metabolic acidosis）的病人，呼吸與動脈血液氣體檢驗會出現什麼變化？",
+    "options": [
+      {
+        "label": "A",
+        "text": "pH 上升"
+      },
+      {
+        "label": "B",
+        "text": "重碳酸鹽濃度（HCO3-）下降"
+      },
+      {
+        "label": "C",
+        "text": "靠緩慢呼吸來代償"
+      },
+      {
+        "label": "D",
+        "text": "靠PCO2上升來代償"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q25",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 25 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 25,
+    "stem": "氧氣（O2）從空氣進入血液後，主要是以何種形式來運輸（transport）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "溶解（dissolved）於血漿"
+      },
+      {
+        "label": "B",
+        "text": "轉換成重碳酸離子（bicarbonate, HCO3-）"
+      },
+      {
+        "label": "C",
+        "text": "形成碳胺基化合物（carbamino compounds）"
+      },
+      {
+        "label": "D",
+        "text": "和血紅素（hemoglobin）結合"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q26",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 26 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 26,
+    "stem": "下列何者是產生代謝性酸中毒的常見原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "濫用利尿劑治療"
+      },
+      {
+        "label": "B",
+        "text": "持續性嘔吐"
+      },
+      {
+        "label": "C",
+        "text": "腎衰竭引起之尿毒症"
+      },
+      {
+        "label": "D",
+        "text": "慢性阻塞性肺病造成的呼吸衰竭"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q27",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 27 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 27,
+    "stem": "有關呼吸的動力學，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "吸氣時肺泡內的氣壓小於大氣壓力"
+      },
+      {
+        "label": "B",
+        "text": "呼氣時肺泡中的氣壓小於大氣壓力"
+      },
+      {
+        "label": "C",
+        "text": "一般狀態下進行平靜吸氣，主要是靠橫膈的收縮下移"
+      },
+      {
+        "label": "D",
+        "text": "一般狀態下進行呼氣是靠橫膈的放鬆及肺臟回縮的彈力來完成"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q28",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 28 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 28,
+    "stem": "肺功能檢查時，下列何種疾病較不會出現侷限性障礙？",
+    "options": [
+      {
+        "label": "A",
+        "text": "肺纖維化"
+      },
+      {
+        "label": "B",
+        "text": "氣胸"
+      },
+      {
+        "label": "C",
+        "text": "肥胖"
+      },
+      {
+        "label": "D",
+        "text": "肺氣腫"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q29",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 29 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 29,
+    "stem": "有關肺活量（vital capacity, VC），下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "與性別、年齡、身高有關"
+      },
+      {
+        "label": "B",
+        "text": "臥姿測出的肺活量比坐姿多7％"
+      },
+      {
+        "label": "C",
+        "text": "年齡愈大，VC 會減少"
+      },
+      {
+        "label": "D",
+        "text": "女性的各種肺容積約較男性少5～10％"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q30",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 30 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 30,
+    "stem": "有關呼吸生理學的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "無法進行交換的氣體容積稱為死腔或無效腔（dead space）"
+      },
+      {
+        "label": "B",
+        "text": "肺泡通氣量（alveolar ventilation）＝（潮氣容積＋解剖無效腔體積）× 每分鐘呼吸次數"
+      },
+      {
+        "label": "C",
+        "text": "肺總通氣量（total ventilation）＝潮氣容積 × 每分鐘呼吸次數"
+      },
+      {
+        "label": "D",
+        "text": "解剖死腔是指傳導呼吸道（conducting airways）內的空氣容積"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q31",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 31 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 31,
+    "stem": "下列何者是簡單肺量計法（simple spirometry）沒有辦法測得的肺功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可以呼出的氣體容積"
+      },
+      {
+        "label": "B",
+        "text": "一秒用力呼氣量（FEV1）"
+      },
+      {
+        "label": "C",
+        "text": "用力肺活量（FVC）"
+      },
+      {
+        "label": "D",
+        "text": "總肺量（total lung capacity, TLC）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q32",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 32 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 32,
+    "stem": "上腹部超音波要觀察肝左葉、尾葉、門脈左枝、左肝內膽管，應以下列何掃描方式？",
+    "options": [
+      {
+        "label": "A",
+        "text": "左肋間掃描"
+      },
+      {
+        "label": "B",
+        "text": "左肋弓下掃描"
+      },
+      {
+        "label": "C",
+        "text": "橫掃描"
+      },
+      {
+        "label": "D",
+        "text": "右肋緣下斜"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q33",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 33 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 33,
+    "stem": "若要檢測快速血流，則選用何種心臟超音波較合適？",
+    "options": [
+      {
+        "label": "A",
+        "text": "M 模式（M mode）"
+      },
+      {
+        "label": "B",
+        "text": "B 模式（B mode）"
+      },
+      {
+        "label": "C",
+        "text": "彩色杜卜勒（color Doppler Echo）"
+      },
+      {
+        "label": "D",
+        "text": "連續波杜卜勒（continuous Doppler Echo）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q34",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 34 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 34,
+    "stem": "有關超音波的敘述，下列何者較不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "超音波在軟組織的傳導速度約為1540 m/s（公尺／秒）"
+      },
+      {
+        "label": "B",
+        "text": "音波傳遞速度在固體最高，其次為液體，而在氣體內最慢"
+      },
+      {
+        "label": "C",
+        "text": "超音波的原理是應用壓電效應（piezoelectric effect）"
+      },
+      {
+        "label": "D",
+        "text": "頻率愈高穿透能力愈好"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q35",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 35 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 35,
+    "stem": "有關超音波掃描的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一般腹部超音波掃描宜空腹6～8 小時"
+      },
+      {
+        "label": "B",
+        "text": "一般心臟掃描患者宜稍右側躺"
+      },
+      {
+        "label": "C",
+        "text": "橫向掃描時是將肝臟置於影像的左側"
+      },
+      {
+        "label": "D",
+        "text": "脂肪肝的患者常可見肝臟的回音較腎臟強"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q36",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 36 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 36,
+    "stem": "超音波縱向解析值（axial resolution）與波長、週波數、頻率的關係為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "與波長成正比、與週波數成正比、與頻率成反比"
+      },
+      {
+        "label": "B",
+        "text": "與波長成正比、與週波數成正比、與頻率成正比"
+      },
+      {
+        "label": "C",
+        "text": "與波長成反比、與週波數成正比、與頻率成反比"
+      },
+      {
+        "label": "D",
+        "text": "與波長成正比、與週波數成反比、與頻率成反比"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q37",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 37 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 37,
+    "stem": "肝臟超音波掃描檢查時，發現肝臟回音成細紋狀，並有結節狀肝組織存在，有可能是何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "肝癌"
+      },
+      {
+        "label": "B",
+        "text": "脂肪肝"
+      },
+      {
+        "label": "C",
+        "text": "肝硬化"
+      },
+      {
+        "label": "D",
+        "text": "慢性肝炎"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q38",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 38 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 38,
+    "stem": "WPW 症候群可用何種檢驗方式檢出？",
+    "options": [
+      {
+        "label": "A",
+        "text": "心電圖"
+      },
+      {
+        "label": "B",
+        "text": "腦波圖"
+      },
+      {
+        "label": "C",
+        "text": "運動肺功能"
+      },
+      {
+        "label": "D",
+        "text": "腸胃道超音波"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q39",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 39 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 39,
+    "stem": "長期吸菸患者有呼吸困難，前次肺功能之一秒用力呼氣量（FEV1）為預期的65％，而用力肺活量（FVC）為\n預期的85％，FEV1/FVC 比值為57％，當天血液氣體分析為pH 7.31 及氧氣飽和度SO2為90％，下列何者最\n合理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "其動脈血中的PCO2應為40 mmHg"
+      },
+      {
+        "label": "B",
+        "text": "PCO2上升很多，HCO3- 略為代償上升"
+      },
+      {
+        "label": "C",
+        "text": "HCO3- 上升很多，PCO2略為代償上升"
+      },
+      {
+        "label": "D",
+        "text": "HCO3- 上升很多，PCO2代償下降許多"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q40",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 40 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 40,
+    "stem": "承上題，此病人的診斷及血液氣體分析，下列組合何者最合理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "慢性阻塞性肺病，呼吸性酸中毒"
+      },
+      {
+        "label": "B",
+        "text": "過度換氣，呼吸性酸中毒"
+      },
+      {
+        "label": "C",
+        "text": "急性氣喘發作，代謝性鹼中毒"
+      },
+      {
+        "label": "D",
+        "text": "心肌梗塞併心臟衰竭，代謝性鹼中毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q41",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 41 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 41,
+    "stem": "細胞缺氧會產生的變化，下列何者除外？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ATP 產生減少"
+      },
+      {
+        "label": "B",
+        "text": "乳酸（lactic acid）增加"
+      },
+      {
+        "label": "C",
+        "text": "活性氧類（reactive oxygen species）降低"
+      },
+      {
+        "label": "D",
+        "text": "蛋白質合成下降"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q42",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 42 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 42,
+    "stem": "運動員骨骼肌比一般人體積大且有力，主要原因是骨骼肌產生下列何種變化？",
+    "options": [
+      {
+        "label": "A",
+        "text": "骨骼肌肥大（hypertrophy）"
+      },
+      {
+        "label": "B",
+        "text": "骨骼肌增生（hyperplasia）"
+      },
+      {
+        "label": "C",
+        "text": "骨骼肌化生（metaplasia）"
+      },
+      {
+        "label": "D",
+        "text": "肝醣堆積"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q43",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 43 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 43,
+    "stem": "在炎症反應中，參與的細胞主要是經由何種接受體作病原體之辨別？",
+    "options": [
+      {
+        "label": "A",
+        "text": "類鐸受體（Toll-like receptor）"
+      },
+      {
+        "label": "B",
+        "text": "表皮生長因子受體（epidermal growth factor receptor）"
+      },
+      {
+        "label": "C",
+        "text": "纖維母細胞生長因子受體（fibroblast growth factor receptor）"
+      },
+      {
+        "label": "D",
+        "text": "血小板衍生生長因子受體（platelet-derived growth factor receptor）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q44",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 44 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 44,
+    "stem": "下列何者最能代表惡性腫瘤的特徵？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腫瘤大於5 公分"
+      },
+      {
+        "label": "B",
+        "text": "包膜構造不明顯"
+      },
+      {
+        "label": "C",
+        "text": "發炎細胞浸潤"
+      },
+      {
+        "label": "D",
+        "text": "遠端轉移"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q45",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 45 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 45,
+    "stem": "下列何者並不是動脈粥狀硬化的主要病理機制？",
+    "options": [
+      {
+        "label": "A",
+        "text": "巨噬細胞吞食脂質"
+      },
+      {
+        "label": "B",
+        "text": "細胞外基質堆積"
+      },
+      {
+        "label": "C",
+        "text": "內皮細胞受損"
+      },
+      {
+        "label": "D",
+        "text": "外膜（adventitia）發炎"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q46",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 46 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 46,
+    "stem": "所謂的巧克力囊腫（chocolate cyst）是指卵巢（ovary）中有何種組織？",
+    "options": [
+      {
+        "label": "A",
+        "text": "泌尿上皮（urothelium）"
+      },
+      {
+        "label": "B",
+        "text": "甲狀腺濾泡（thyroid follicles）"
+      },
+      {
+        "label": "C",
+        "text": "子宮內膜（endometrium）"
+      },
+      {
+        "label": "D",
+        "text": "初級神經上皮（primitive neuroepithelium）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q47",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 47 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 47,
+    "stem": "有關第一型與第二型糖尿病（diabetes）之比較，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "第一型糖尿病好發於小孩，第二型糖尿病則好發於成人"
+      },
+      {
+        "label": "B",
+        "text": "在發病初期，第一型糖尿病患者之血中胰島素值常升高，第二型糖尿病患者之血中胰島素值則常降低"
+      },
+      {
+        "label": "C",
+        "text": "第一型糖尿病與自體免疫有關，第二型糖尿病則與周邊組織之胰島素拮抗有關"
+      },
+      {
+        "label": "D",
+        "text": "第一型糖尿病之胰島組織常有發炎細胞浸潤，第二型糖尿病之胰島組織則常有類澱粉沉積"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q48",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 48 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 48,
+    "stem": "唾液腺腫瘤最好發於那個唾液腺器官？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腮腺（parotid gland）"
+      },
+      {
+        "label": "B",
+        "text": "頷下腺（submandibular gland）"
+      },
+      {
+        "label": "C",
+        "text": "舌下腺（sublingual gland）"
+      },
+      {
+        "label": "D",
+        "text": "小唾液腺（minor salivary gland）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q49",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 49 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 49,
+    "stem": "有關快速進展型腎絲球腎炎（rapidly progressive glomerulonephritis, RPGN）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "個案切片常會有腎絲球新月（glomerular crescent）出現"
+      },
+      {
+        "label": "B",
+        "text": "腎絲球新月（glomerular crescent）病理變化主要是腎絲球體血管內皮細胞（endothelial cells）的增生\n以及一些白血球的浸潤造成"
+      },
+      {
+        "label": "C",
+        "text": "致病機制大多是免疫媒介（immunologically mediated）"
+      },
+      {
+        "label": "D",
+        "text": "古德巴斯德病（Goodpasture disease）造成的腎絲球變化常是這種快速進展型腎絲球腎炎"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q50",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 50 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 50,
+    "stem": "有關腫瘤細胞的瓦爾堡效應（Warburg effect），下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在無氧的情況下才能進行"
+      },
+      {
+        "label": "B",
+        "text": "將乳酸轉化為葡萄糖"
+      },
+      {
+        "label": "C",
+        "text": "僅出現在腫瘤，非腫瘤細胞不會出現瓦爾堡效應"
+      },
+      {
+        "label": "D",
+        "text": "可提供合成細胞成分所需的代謝中間產物"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q51",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 51 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 51,
+    "stem": "依據美國癌症聯合委員會（American Joint Committee on Cancer, AJCC）的TNM 分期（TNM staging），下\n列何者的預後（prognosis）最佳？",
+    "options": [
+      {
+        "label": "A",
+        "text": "TisN0M0"
+      },
+      {
+        "label": "B",
+        "text": "T2N1M0"
+      },
+      {
+        "label": "C",
+        "text": "T3N0M0"
+      },
+      {
+        "label": "D",
+        "text": "T4N2M1"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q52",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 52 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 52,
+    "stem": "下列何者是人類最常見遺傳性疾病的成因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "單一基因突變"
+      },
+      {
+        "label": "B",
+        "text": "多基因異常加上環境影響"
+      },
+      {
+        "label": "C",
+        "text": "染色體數目及構造異常"
+      },
+      {
+        "label": "D",
+        "text": "粒線體DNA 突變"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q53",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 53 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 53,
+    "stem": "下列何者與乙型海洋性貧血（β-thalassemia）最相關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "球蛋白（globin）基因發生突變"
+      },
+      {
+        "label": "B",
+        "text": "染色體 9 與染色體 22 發生轉位 t（9;22）"
+      },
+      {
+        "label": "C",
+        "text": "抗體攻擊紅血球"
+      },
+      {
+        "label": "D",
+        "text": "X 染色體發生基因突變"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q54",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 54 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 54,
+    "stem": "有關BMI（body mass index）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "BMI＜18.5 為體重過輕"
+      },
+      {
+        "label": "B",
+        "text": "18.5＜BMI＜24 為健康體位"
+      },
+      {
+        "label": "C",
+        "text": "超過標準體重10％以上稱為過重"
+      },
+      {
+        "label": "D",
+        "text": "超過標準體重30％以上為輕度肥胖"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "multiple_accepted",
+    "answer": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q55",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 55 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 55,
+    "stem": "有關熱衰竭（heat exhaustion）之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是因為下視丘體溫調節中樞將體溫設定值調高引起"
+      },
+      {
+        "label": "B",
+        "text": "可造成心血管系統無法代償的低血容量性休克（hypovolemic shock）"
+      },
+      {
+        "label": "C",
+        "text": "患者可出現皮膚蒼白濕冷、血壓下降、虛弱或昏倒情形"
+      },
+      {
+        "label": "D",
+        "text": "處理方式為將患者移到陰涼處，躺平、頭部放低，補充水分及鹽分"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q56",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 56 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 56,
+    "stem": "下列何種皮膚病變，與砷（arsenic）的長期暴露最無關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鱗狀細胞癌（squamous cell carcinoma）"
+      },
+      {
+        "label": "B",
+        "text": "過度角化（hyperkeratosis）"
+      },
+      {
+        "label": "C",
+        "text": "基底細胞癌（basal cell carcinoma）"
+      },
+      {
+        "label": "D",
+        "text": "黑色素瘤（melanoma）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q57",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 57 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 57,
+    "stem": "有關金黃色葡萄球菌（Staphylococcus aureus）引起的葡萄球菌性燙傷樣皮膚綜合症（Staphylococcal\nscalded-skin syndrome）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主要是由金黃色葡萄球菌產生的superantigen 造成"
+      },
+      {
+        "label": "B",
+        "text": "主要是由金黃色葡萄球菌產生的γ-toxin 造成"
+      },
+      {
+        "label": "C",
+        "text": "皮膚水泡主要是發生在表皮與真皮交接處"
+      },
+      {
+        "label": "D",
+        "text": "皮膚水泡主要是發生在表皮內的顆粒層（stratum granulosum）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q58",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 58 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 58,
+    "stem": "一位男性患者下巴，手術切開皮下軟組織，發現膿液中有黃色的硫磺顆粒（sulfur granules），最有可能是\n下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "粟粒狀結核（miliary tuberculosis）"
+      },
+      {
+        "label": "B",
+        "text": "橡膠腫（gumma）"
+      },
+      {
+        "label": "C",
+        "text": "放線菌病（actinomycosis）"
+      },
+      {
+        "label": "D",
+        "text": "鵝口瘡（thrush）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q59",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 59 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 59,
+    "stem": "多發性硬化症（multiple sclerosis, MS）是中樞神經系統的何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "免疫性疾病"
+      },
+      {
+        "label": "B",
+        "text": "退化性疾病"
+      },
+      {
+        "label": "C",
+        "text": "代謝性疾病"
+      },
+      {
+        "label": "D",
+        "text": "感染性疾病"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q60",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 60 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 60,
+    "stem": "免疫球蛋白G4 相關疾病（IgG4-related disease）病灶的病理學特徵最主要為下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "大量製造IgG4 抗體的漿細胞"
+      },
+      {
+        "label": "B",
+        "text": "乾酪性壞死"
+      },
+      {
+        "label": "C",
+        "text": "形成壞死性動脈硬化"
+      },
+      {
+        "label": "D",
+        "text": "極度血管增生"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q61",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 61 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 61,
+    "stem": "下列何種抗體對診斷類風濕性關節炎（rheumatoid arthritis）較具專一性？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗雙股DNA 抗體（anti-double-stranded DNA antibody）"
+      },
+      {
+        "label": "B",
+        "text": "抗環瓜氨酸抗體（anti-cyclic citrullinated peptide antibody）"
+      },
+      {
+        "label": "C",
+        "text": "類風濕因子（rheumatoid factor）"
+      },
+      {
+        "label": "D",
+        "text": "抗史密斯抗原抗體（anti-Smith antigen antibody）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q62",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 62 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 62,
+    "stem": "成人最常見的惡性淋巴瘤（lymphoma）組織型態為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "伯基特氏淋巴瘤（Burkitt lymphoma）"
+      },
+      {
+        "label": "B",
+        "text": "瀰漫性大型B 細胞淋巴瘤（diffuse large B cell lymphoma）"
+      },
+      {
+        "label": "C",
+        "text": "小淋巴球性淋巴瘤（small lymphocytic lymphoma）"
+      },
+      {
+        "label": "D",
+        "text": "被套細胞淋巴瘤（mantle cell lymphoma）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q63",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 63 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 63,
+    "stem": "一年輕高瘦男性病人，健檢時發現有主動脈擴張及主動脈瘤（aneurysm），其最有可能罹患下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先天性成骨不全（achondroplasia）"
+      },
+      {
+        "label": "B",
+        "text": "馬凡氏症候群（Marfan syndrome）"
+      },
+      {
+        "label": "C",
+        "text": "古德帕斯德症候群（Goodpasture syndrome）"
+      },
+      {
+        "label": "D",
+        "text": "卡尼氏症候群（Carney-Stratakis syndrome）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q64",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 64 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 64,
+    "stem": "下列何者是風濕性心臟病最常見之原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "A 群β溶血型鏈球菌感染"
+      },
+      {
+        "label": "B",
+        "text": "自體抗體攻擊內皮細胞基底膜"
+      },
+      {
+        "label": "C",
+        "text": "冠狀動脈血管炎"
+      },
+      {
+        "label": "D",
+        "text": "肺部血管高壓"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q65",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 65 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 65,
+    "stem": "有關甲狀腺機能低下（hypothyroidism）之成因，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "甲狀腺全切除（total thyroidectomy）"
+      },
+      {
+        "label": "B",
+        "text": "葛瑞夫茲氏病（Graves disease）"
+      },
+      {
+        "label": "C",
+        "text": "橋本氏甲狀腺炎（Hashimoto thyroiditis）"
+      },
+      {
+        "label": "D",
+        "text": "腦下垂體功能低下（hypopituitarism）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q66",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 66 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 66,
+    "stem": "乳癌的重要生物標記（biomarkers）包括：雌激素受體（estrogen receptor, ER）、黃體素受體\n（progesterone receptor, PR）及人類表皮生長因子受體（human epidermal growth factor receptor 2,\nHER2）等。在相同的期別（stage）下，乳癌細胞表現出下列那種組合的生物標記其預後（prognosis）相對\n最差？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ER(＋)、PR(＋)、HER2(－)"
+      },
+      {
+        "label": "B",
+        "text": "ER(＋)、PR(＋)、HER2(＋)"
+      },
+      {
+        "label": "C",
+        "text": "ER(＋)、PR(－)、HER2(＋)"
+      },
+      {
+        "label": "D",
+        "text": "ER(－)、PR(－)、HER2(－)"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q67",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 67 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 67,
+    "stem": "有關急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "成因是急性瀰漫性肺泡損害，肺泡微血管通透性增加，造成肺水腫及呼吸窘迫"
+      },
+      {
+        "label": "B",
+        "text": "臨床表現為呼吸衰竭、動脈血氣分壓過低"
+      },
+      {
+        "label": "C",
+        "text": "造成的原因為休克、吸入胃酸、溺水、嚴重感染等"
+      },
+      {
+        "label": "D",
+        "text": "病理觀察到的玻璃膜（hyaline membrane）主要堆積在肺微血管壁上"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q68",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 68 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 68,
+    "stem": "下列何者不屬於肺癌的副贅瘤症候群（paraneoplastic syndrome）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "高血鈣症"
+      },
+      {
+        "label": "B",
+        "text": "庫欣氏症候群（Cushing syndrome）"
+      },
+      {
+        "label": "C",
+        "text": "上腔靜脈症候群（SVC syndrome）"
+      },
+      {
+        "label": "D",
+        "text": "重症肌無力症候群（myasthenia syndrome）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q69",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 69 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 69,
+    "stem": "有關子宮內膜的漿液性癌（serous carcinoma of endometrium），下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "前驅病灶為子宮內膜增生（endometrial hyperplasia）"
+      },
+      {
+        "label": "B",
+        "text": "常見PTEN 基因突變"
+      },
+      {
+        "label": "C",
+        "text": "預後優於子宮內膜之內膜樣癌（endometrioid carcinoma）"
+      },
+      {
+        "label": "D",
+        "text": "常見有TP53 基因突變"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q70",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 70 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 70,
+    "stem": "有關卵巢之畸胎瘤（teratoma）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "多發生於更年期婦女"
+      },
+      {
+        "label": "B",
+        "text": "以雙側居多"
+      },
+      {
+        "label": "C",
+        "text": "大多為良性"
+      },
+      {
+        "label": "D",
+        "text": "惡性轉變以腺癌（adenocarcinoma）居多"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q71",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 71 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 71,
+    "stem": "有關Peutz-Jeghers 症候群（Peutz-Jeghers syndrome），下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "典型的結腸息肉是無蒂鋸齒狀腺瘤（sessile serrated adenoma）"
+      },
+      {
+        "label": "B",
+        "text": "STK11 基因突變"
+      },
+      {
+        "label": "C",
+        "text": "體染色體隱性遺傳"
+      },
+      {
+        "label": "D",
+        "text": "皮膚黏膜色素減退（hypopigmentation）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q72",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 72 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 72,
+    "stem": "有關原發性膽汁性膽管炎（primary biliary cholangitis, PBC）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主要是肝外和肝內大型膽管的發炎破壞"
+      },
+      {
+        "label": "B",
+        "text": "常出現針對PDC-E2（E2 component of the pyruvate dehydrogenase complex）的自體抗體"
+      },
+      {
+        "label": "C",
+        "text": "常出現淋巴球或肉芽腫性膽管破壞"
+      },
+      {
+        "label": "D",
+        "text": "常出現T 淋巴細胞介導對膽管的攻擊"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q73",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 73 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 73,
+    "stem": "第二型自體免疫性肝炎（type 2 autoimmune hepatitis）多見於兒童，下列何者並非此疾病特徵性之自體抗\n體？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗肝腎微粒體-1 抗體（anti-liver kidney microsome-1, LKM-1 antibody）"
+      },
+      {
+        "label": "B",
+        "text": "抗CYP2D6 抗體（anti-CYP2D6 antibody）"
+      },
+      {
+        "label": "C",
+        "text": "抗肝細胞質-1 抗體（anti-liver cytosol-1, ALC-1 antibody）"
+      },
+      {
+        "label": "D",
+        "text": "抗粒線體抗體（anti-mitochondrial antibody, AMA）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q74",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 74 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 74,
+    "stem": "有關腦部創傷（brain trauma）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "外傷造成橋靜脈斷裂是硬網膜上出血（epidural hematoma）最常見的原因"
+      },
+      {
+        "label": "B",
+        "text": "先天性囊狀動脈瘤（saccular aneurysm）常是腦部外傷引起"
+      },
+      {
+        "label": "C",
+        "text": "蜘蛛膜出血通常是中腦膜動脈斷裂而造成"
+      },
+      {
+        "label": "D",
+        "text": "腦部底部是容易有撕裂傷（laceration）的位置"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q75",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 75 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 75,
+    "stem": "腦脊髓液中之隱球菌（cryptococcus）最常利用下列何種染色方法觀察其多醣體莢膜（polysaccharide\ncapsule）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "India ink stain"
+      },
+      {
+        "label": "B",
+        "text": "Sudan black stain"
+      },
+      {
+        "label": "C",
+        "text": "Masson trichrome stain"
+      },
+      {
+        "label": "D",
+        "text": "Prussian blue stain"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q76",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 76 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 76,
+    "stem": "有關骨質疏鬆（osteoporosis）的各種成因與機轉，下列敘述何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "停經後婦女的骨質疏鬆主因為progesterone 分泌減少"
+      },
+      {
+        "label": "B",
+        "text": "老年人的成骨細胞（osteoblast）功能下降，減少成骨作用"
+      },
+      {
+        "label": "C",
+        "text": "鈣質代謝異常，包括鈣質缺乏，副甲狀腺分泌過多，維生素D 缺乏"
+      },
+      {
+        "label": "D",
+        "text": "細胞激素（cytokine）異常，導致蝕骨細胞（osteoclast）活化"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q77",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 77 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 77,
+    "stem": "有關微小變化腎病（minimal change disease），下列敘述何者正確？①為小孩最常見的腎病症候群\n（nephrotic syndrome）原因 ②常可見到免疫複合體（immune complex）沉積 ③相對於大人而言，小孩\n對類固醇治療反應會較快 ④此類病人常出現血尿",
+    "options": [
+      {
+        "label": "A",
+        "text": "①④"
+      },
+      {
+        "label": "B",
+        "text": "①②③"
+      },
+      {
+        "label": "C",
+        "text": "②④"
+      },
+      {
+        "label": "D",
+        "text": "僅①③"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q78",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 78 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 78,
+    "stem": "下列何種肝炎病毒傳染途徑以糞口傳染為主？",
+    "options": [
+      {
+        "label": "A",
+        "text": "hepatitis B virus"
+      },
+      {
+        "label": "B",
+        "text": "hepatitis C virus"
+      },
+      {
+        "label": "C",
+        "text": "hepatitis D virus"
+      },
+      {
+        "label": "D",
+        "text": "hepatitis E virus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q79",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 79 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 79,
+    "stem": "25 歲男性，有癲癇病史，突發劇烈頭痛後陷入昏迷。影像檢查顯示腦內大片出血合併腦室內出血。下列何者\n最可能是其腦出血的原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "高血壓性腦血管病變（hypertensive cerebrovascular disease）"
+      },
+      {
+        "label": "B",
+        "text": "血栓性腦血管栓塞（embolic cerebral infarction）"
+      },
+      {
+        "label": "C",
+        "text": "動靜脈畸形（arteriovenous malformation）"
+      },
+      {
+        "label": "D",
+        "text": "大腦澱粉樣血管病變（cerebral amyloid angiopathy）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-clinical-physiology-pathology-seq01-q80",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床生理學與病理學 第 80 題",
+    "subject": "臨床生理學與病理學",
+    "subject_slug": "clinical-physiology-pathology",
+    "question_number": 80,
+    "stem": "下列病灶何者不是主要源自於關節相關組織（如synovium、joint capsule、tendon sheath）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Baker 氏囊腫（Baker cyst）"
+      },
+      {
+        "label": "B",
+        "text": "滑液囊肉瘤（synovial sarcoma）"
+      },
+      {
+        "label": "C",
+        "text": "肌腱滑膜巨細胞瘤（tenosynovial giant cell tumor）"
+      },
+      {
+        "label": "D",
+        "text": "腱鞘囊腫（ganglion）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_01_臨床生理學與病理學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  }
+]

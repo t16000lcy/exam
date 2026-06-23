@@ -1,1 +1,2884 @@
-[]
+[
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q01",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 1 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 1,
+    "stem": "以簡單的脈搏血氧測定法（simple pulse oximetry）測定血氧飽和度（SO2）時，是屬於下列那一種偵測分析\n方法？",
+    "options": [
+      {
+        "label": "A",
+        "text": "分光光度法（spectrophotometry）"
+      },
+      {
+        "label": "B",
+        "text": "紙色層分析法（paper chromatography）"
+      },
+      {
+        "label": "C",
+        "text": "電內滲流方法（electroendosmotic flow method）"
+      },
+      {
+        "label": "D",
+        "text": "離子選擇電極方法（ion-selective electrode method）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q02",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 2 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 2,
+    "stem": "下列何種免疫分析法屬於異質性分析（heterogeneous immunoassay）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "cloned enzyme donor immunoassay（CEDIA）"
+      },
+      {
+        "label": "B",
+        "text": "enzyme-linked immunosorbent assay（ELISA）"
+      },
+      {
+        "label": "C",
+        "text": "enzyme multiplied immunoassay technique（EMIT）"
+      },
+      {
+        "label": "D",
+        "text": "fluorescence polarization immunoassay（FPIA）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q03",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 3 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 3,
+    "stem": "下列那一個染劑，較不適合用於血清蛋白電泳（serum protein electrophoresis）分析？",
+    "options": [
+      {
+        "label": "A",
+        "text": "醯胺黑染劑（Amido Black）"
+      },
+      {
+        "label": "B",
+        "text": "考馬斯亮藍染劑（Coomassie brilliant blue）"
+      },
+      {
+        "label": "C",
+        "text": "麗春紅染劑（Ponceau S）"
+      },
+      {
+        "label": "D",
+        "text": "蘇丹黑B 染劑（Sudan Black B）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q04",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 4 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 4,
+    "stem": "有關檢體的保存、運送和儲存處置條件，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可使用未過期的檢體進行附加檢測（add-on request）"
+      },
+      {
+        "label": "B",
+        "text": "檢測丙酮酸、胃泌素和腎素的檢體須冰浴運送"
+      },
+      {
+        "label": "C",
+        "text": "離心時血液檢體接觸空氣會造成CO2下降、O2上升和pH 上升"
+      },
+      {
+        "label": "D",
+        "text": "血液檢體若無法在2 小時內進行離心時，應放置於4℃"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q05",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 5 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 5,
+    "stem": "以質譜儀分析蛋白質需要用到電噴灑游離法（electrospray ionization, ESI）與基質輔助雷射脫附游離法\n（matrix-assisted laser desorption/ionization, MALDI），兩者各屬於質譜儀的那個元件？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ESI 為離子源，MALDI 為真空系統"
+      },
+      {
+        "label": "B",
+        "text": "兩者皆為質量分析儀"
+      },
+      {
+        "label": "C",
+        "text": "兩者皆為離子源元件"
+      },
+      {
+        "label": "D",
+        "text": "ESI 為質量分析儀，MALDI 為真空系統"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q06",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 6 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 6,
+    "stem": "有關自動化分析中檢體辨識（specimen identification）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "檢體貼條碼的好處可降低識別錯誤外，也不需刻意依檢體排序"
+      },
+      {
+        "label": "B",
+        "text": "血液檢體離心取得血清、血漿轉二級管時，無法自動貼二級條碼標籤"
+      },
+      {
+        "label": "C",
+        "text": "條碼上的資料包括：病患姓名、病歷號碼、時間和檢查疾病費用"
+      },
+      {
+        "label": "D",
+        "text": "條碼黏貼過度傾斜時亦不會造成辨識錯誤"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q07",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 7 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 7,
+    "stem": "自動化分析儀中，會使用拋棄式反應容器和比色管，在分析過程中那些部分最常導致分析物的殘留？",
+    "options": [
+      {
+        "label": "A",
+        "text": "sample loading"
+      },
+      {
+        "label": "B",
+        "text": "pipetting system"
+      },
+      {
+        "label": "C",
+        "text": "peristaltic pump"
+      },
+      {
+        "label": "D",
+        "text": "reagent delivery system"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q08",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 8 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 8,
+    "stem": "檢驗時所發生的隨機誤差（random error）通常與那一個品管值異常最相關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "準確度（accuracy）"
+      },
+      {
+        "label": "B",
+        "text": "檢測極限（limit of detection）"
+      },
+      {
+        "label": "C",
+        "text": "精密度（precision）"
+      },
+      {
+        "label": "D",
+        "text": "分析敏感度（analytical sensitivity）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q09",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 9 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 9,
+    "stem": "產前檢查時，血液中的甲型胎兒蛋白（α1-fetoprotein）濃度過高，胎兒最可能發生何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "脊柱裂（spina bifida）"
+      },
+      {
+        "label": "B",
+        "text": "矮小症（Laron dwarfism）"
+      },
+      {
+        "label": "C",
+        "text": "唐氏症（Down syndrome）"
+      },
+      {
+        "label": "D",
+        "text": "小頭症（microcephaly）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q10",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 10 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 10,
+    "stem": "血紅素結合蛋白（haptoglobin）於蛋白質瓊脂凝膠（agarose gel）電泳分析時，會出現在那一區？",
+    "options": [
+      {
+        "label": "A",
+        "text": "α1 電泳區帶"
+      },
+      {
+        "label": "B",
+        "text": "α2 電泳區帶"
+      },
+      {
+        "label": "C",
+        "text": "β電泳區帶"
+      },
+      {
+        "label": "D",
+        "text": "γ電泳區帶"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q11",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 11 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 11,
+    "stem": "在α1-球蛋白（α1-globulin）的成分中，下列何種蛋白質的量最多？",
+    "options": [
+      {
+        "label": "A",
+        "text": "α1-fetoprotein"
+      },
+      {
+        "label": "B",
+        "text": "α1-antitrypsin"
+      },
+      {
+        "label": "C",
+        "text": "α1-acid glycoprotein"
+      },
+      {
+        "label": "D",
+        "text": "α1-lipoprotein"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q12",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 12 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 12,
+    "stem": "腎絲球過濾率（glomerular filtration rate, GFR）通常以下列何種單位表現？",
+    "options": [
+      {
+        "label": "A",
+        "text": "mL/min/dL/1.73m2"
+      },
+      {
+        "label": "B",
+        "text": "L/h/1.73m2"
+      },
+      {
+        "label": "C",
+        "text": "mg/mL/1.73m2"
+      },
+      {
+        "label": "D",
+        "text": "mL/min/1.73m2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q13",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 13 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 13,
+    "stem": "下列何者為心房利鈉肽（atrial natriuretic peptide, ANP）對腎臟最主要的影響？",
+    "options": [
+      {
+        "label": "A",
+        "text": "增加腎素（renin）釋放"
+      },
+      {
+        "label": "B",
+        "text": "增加鈉和水的排泄"
+      },
+      {
+        "label": "C",
+        "text": "增加ADH（antidiuretic hormone）分泌"
+      },
+      {
+        "label": "D",
+        "text": "減少尿量"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q14",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 14 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 14,
+    "stem": "下列何種蛋白質在健康人尿液中含量最高？",
+    "options": [
+      {
+        "label": "A",
+        "text": "IgG"
+      },
+      {
+        "label": "B",
+        "text": "α1-microglobulin"
+      },
+      {
+        "label": "C",
+        "text": "cystatin C"
+      },
+      {
+        "label": "D",
+        "text": "β1-microglobulin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q15",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 15 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 15,
+    "stem": "以creatininase-creatinase-H2O2測定肌酸酐（creatinine）之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "creatininase 與creatinase 皆為水解酶（hydrolase）"
+      },
+      {
+        "label": "B",
+        "text": "可生成urea"
+      },
+      {
+        "label": "C",
+        "text": "尚需搭配sarcosine oxidase 進行反應"
+      },
+      {
+        "label": "D",
+        "text": "ascorbic acid 會造成負干擾"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q16",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 16 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 16,
+    "stem": "下列何種分子最常用於篩檢早期糖尿病腎病變（diabetic nephropathy）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尿素（urea）"
+      },
+      {
+        "label": "B",
+        "text": "白蛋白（albumin）"
+      },
+      {
+        "label": "C",
+        "text": "胱蛋白C（cystatin C）"
+      },
+      {
+        "label": "D",
+        "text": "尿酸（uric acid）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q17",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 17 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 17,
+    "stem": "有關腎臟分泌的腎素（renin），下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由近腎絲球細胞（juxtaglomerular cells）製造"
+      },
+      {
+        "label": "B",
+        "text": "能夠幫助血管收縮"
+      },
+      {
+        "label": "C",
+        "text": "協助肝分泌血管收縮素Ⅱ（angiotensin Ⅱ）"
+      },
+      {
+        "label": "D",
+        "text": "增加醛固酮（aldosterone）釋放"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q18",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 18 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 18,
+    "stem": "一氧化碳中毒時，腎臟最有可能釋放何種分子？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗利尿激素（antidiuretic hormone, ADH）"
+      },
+      {
+        "label": "B",
+        "text": "醛固酮（aldosterone）"
+      },
+      {
+        "label": "C",
+        "text": "紅血球生成素（erythropoietin）"
+      },
+      {
+        "label": "D",
+        "text": "腎素（renin）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q19",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 19 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 19,
+    "stem": "有關慢性腎臟病（chronic kidney disease, CKD）常見檢測值變化的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血磷下降"
+      },
+      {
+        "label": "B",
+        "text": "血鈣下降"
+      },
+      {
+        "label": "C",
+        "text": "血紅素下降"
+      },
+      {
+        "label": "D",
+        "text": "酸中毒"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q20",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 20 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 20,
+    "stem": "將苯丙胺酸（phenylalanine）轉換成酪胺酸（tyrosine）的苯丙胺酸水解酶（phenylalanine\nhydroxylase）如果缺乏時，會產生下列那一種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "苯丙酮尿症（phenylketonuria）"
+      },
+      {
+        "label": "B",
+        "text": "酪胺酸尿症（tyrosinuria）"
+      },
+      {
+        "label": "C",
+        "text": "黑尿症（alkaptonuria）"
+      },
+      {
+        "label": "D",
+        "text": "楓糖尿症（maple syrup urine disease）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q21",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 21 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 21,
+    "stem": "下列何種胺基酸側鏈不具芳香環結構？",
+    "options": [
+      {
+        "label": "A",
+        "text": "天門冬醯胺（asparagine）"
+      },
+      {
+        "label": "B",
+        "text": "苯丙胺酸（phenylalanine）"
+      },
+      {
+        "label": "C",
+        "text": "色胺酸（tryptophan）"
+      },
+      {
+        "label": "D",
+        "text": "酪胺酸（tyrosine）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q22",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 22 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 22,
+    "stem": "接在胺基酸 alpha-carbon 的四個基團通常不一樣，但下列何者除外？",
+    "options": [
+      {
+        "label": "A",
+        "text": "脯胺酸（proline）"
+      },
+      {
+        "label": "B",
+        "text": "組胺酸（histidine）"
+      },
+      {
+        "label": "C",
+        "text": "丙胺酸（alanine）"
+      },
+      {
+        "label": "D",
+        "text": "甘胺酸（glycine）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q23",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 23 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 23,
+    "stem": "有關Jaffe reaction 測定creatinine 的干擾物中，下列何者會產生負干擾（negative interference）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "acetoacetate"
+      },
+      {
+        "label": "B",
+        "text": "hemoglobin F"
+      },
+      {
+        "label": "C",
+        "text": "ketone bodies"
+      },
+      {
+        "label": "D",
+        "text": "bilirubin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q24",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 24 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 24,
+    "stem": "下列何種脂蛋白元（apolipoprotein, apo）會抑制脂蛋白脂酶（lipoprotein lipase, LPL）的活化？",
+    "options": [
+      {
+        "label": "A",
+        "text": "apo AⅠ"
+      },
+      {
+        "label": "B",
+        "text": "apo B-48"
+      },
+      {
+        "label": "C",
+        "text": "apo C-Ⅱ"
+      },
+      {
+        "label": "D",
+        "text": "apo C-Ⅲ"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q25",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 25 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 25,
+    "stem": "肝臟產生的內源性（endogenous）三酸甘油酯（triglyceride, TG）與飲食而來的外源性（exogenous）TG\n分別由何種脂蛋白攜帶運輸？",
+    "options": [
+      {
+        "label": "A",
+        "text": "chylomicron／VLDL"
+      },
+      {
+        "label": "B",
+        "text": "LDL／HDL"
+      },
+      {
+        "label": "C",
+        "text": "HDL／LDL"
+      },
+      {
+        "label": "D",
+        "text": "VLDL／chylomicron"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q26",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 26 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 26,
+    "stem": "下列何者較不可能是動脈粥狀硬化發生的原因？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血管內皮的發炎損傷"
+      },
+      {
+        "label": "B",
+        "text": "巨噬細胞吞噬氧化態LDL 後形成泡沫細胞"
+      },
+      {
+        "label": "C",
+        "text": "平滑肌細胞增生"
+      },
+      {
+        "label": "D",
+        "text": "血管內產生血栓堵住血管，導致組織缺血"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q27",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 27 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 27,
+    "stem": "下列脂蛋白分子量由大而小排序，何者最為適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "CM → LDL → HDL → VLDL"
+      },
+      {
+        "label": "B",
+        "text": "LDL → CM → HDL → VLDL"
+      },
+      {
+        "label": "C",
+        "text": "HDL → VLDL → LDL → CM"
+      },
+      {
+        "label": "D",
+        "text": "CM → VLDL → LDL → HDL"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q28",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 28 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 28,
+    "stem": "apo B-48 是下列那一種脂蛋白的主要成分？",
+    "options": [
+      {
+        "label": "A",
+        "text": "乳糜微粒（chylomicron）"
+      },
+      {
+        "label": "B",
+        "text": "極低密度脂蛋白（VLDL）"
+      },
+      {
+        "label": "C",
+        "text": "低密度脂蛋白（LDL）"
+      },
+      {
+        "label": "D",
+        "text": "高密度脂蛋白（HDL）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q29",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 29 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 29,
+    "stem": "有關家族性高乳糜微粒血症（familial hyperchylomicronemia）之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可觀察到脂蛋白酵素（lipoprotein lipase）功能低下"
+      },
+      {
+        "label": "B",
+        "text": "為體染色體隱性遺傳病"
+      },
+      {
+        "label": "C",
+        "text": "反覆發作的急性胰臟炎伴隨腹痛"
+      },
+      {
+        "label": "D",
+        "text": "可觀察到高量的LDL cholesterol"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q30",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 30 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 30,
+    "stem": "下列那個酵素的活性在 non-alcoholic fatty liver disease（NAFLD）中最不會有明顯改變？",
+    "options": [
+      {
+        "label": "A",
+        "text": "alanine aminotransferase（ALT）"
+      },
+      {
+        "label": "B",
+        "text": "aspartate aminotransferase（AST）"
+      },
+      {
+        "label": "C",
+        "text": "aldolase（ALD）"
+      },
+      {
+        "label": "D",
+        "text": "γ-glutamyltransferase（GGT）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q31",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 31 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 31,
+    "stem": "下列何者是腎上腺皮質的球狀帶（zona glomerulosa）所分泌的荷爾蒙？",
+    "options": [
+      {
+        "label": "A",
+        "text": "醛固酮（aldosterone）"
+      },
+      {
+        "label": "B",
+        "text": "皮質醇（cortisol）"
+      },
+      {
+        "label": "C",
+        "text": "雌二醇（estradiol）"
+      },
+      {
+        "label": "D",
+        "text": "17-羥基皮質酮類（17-hydroxycorticosteroid, 17-OHCS）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q32",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 32 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 32,
+    "stem": "利用酵素法測定血液膽固醇濃度時，不會使用下列何種酵素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "膽固醇酯酶（cholesteryl esterase）"
+      },
+      {
+        "label": "B",
+        "text": "膽固醇氧化酶（cholesterol oxidase）"
+      },
+      {
+        "label": "C",
+        "text": "過氧化酶（peroxidase）"
+      },
+      {
+        "label": "D",
+        "text": "膽固醇激酶（cholesterol kinase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q33",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 33 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 33,
+    "stem": "有關β羥基丁酸（β-hydroxybutyrate）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在人體酮體生成含量佔比最高"
+      },
+      {
+        "label": "B",
+        "text": "由乙醯輔酶A 經酵素催化形成"
+      },
+      {
+        "label": "C",
+        "text": "可應用於糖尿病酮酸血症檢查"
+      },
+      {
+        "label": "D",
+        "text": "可以酵素法定量血中濃度"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q34",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 34 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 34,
+    "stem": "下列何者最不適合作為糖尿病的診斷依據？",
+    "options": [
+      {
+        "label": "A",
+        "text": "空腹血糖超過126 mg/dL"
+      },
+      {
+        "label": "B",
+        "text": "BMI 超過25 kg/m2"
+      },
+      {
+        "label": "C",
+        "text": "糖化血色素（HbA1c）超過6.5％"
+      },
+      {
+        "label": "D",
+        "text": "隨機血糖超過200 mg/dL"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q35",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 35 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 35,
+    "stem": "臨床上檢驗血中葡萄糖，何種方法在反應過程中透過glucose-6-phosphate dehydrogenase（G6PD）作用產\n生之NADPH 作為定量依據？",
+    "options": [
+      {
+        "label": "A",
+        "text": "己糖激酶法（hexokinase method）"
+      },
+      {
+        "label": "B",
+        "text": "葡萄糖氧化酶法（glucose oxidase method）"
+      },
+      {
+        "label": "C",
+        "text": "葡萄糖去氫酶法（glucose dehydrogenase method）"
+      },
+      {
+        "label": "D",
+        "text": "本氏液檢測法（Benedict's reagent test）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q36",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 36 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 36,
+    "stem": "一分子的乙醯輔酶A（acetyl-CoA）經檸檬酸循環（citric acid cycle）代謝後，會產生多少分子的\nGTP/ATP 與FADH2？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 與1"
+      },
+      {
+        "label": "B",
+        "text": "1 與2"
+      },
+      {
+        "label": "C",
+        "text": "2 與1"
+      },
+      {
+        "label": "D",
+        "text": "2 與2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q37",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 37 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 37,
+    "stem": "有關醣蛋白最常見的醣基化（glycosylation）共價鍵結形式，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "醣基與酪胺酸（Tyr）形成O-糖苷鍵"
+      },
+      {
+        "label": "B",
+        "text": "醣基與離胺酸（Lys）形成O-糖苷鍵"
+      },
+      {
+        "label": "C",
+        "text": "醣基與天門冬醯胺（Asn）形成N-糖苷鍵"
+      },
+      {
+        "label": "D",
+        "text": "醣基與絲胺酸（Ser）形成N-糖苷鍵"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q38",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 38 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 38,
+    "stem": "檢測血中丙酮酸（pyruvate）時，利用乳酸去氫酶（lactate dehydrogenase）轉換成乳酸之方法，下列有關\n此方法的敘述，何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "反應於pH 7.5 下進行"
+      },
+      {
+        "label": "B",
+        "text": "反應所需的輔酶為FADH2"
+      },
+      {
+        "label": "C",
+        "text": "反應以340 nm 吸光度進行測定"
+      },
+      {
+        "label": "D",
+        "text": "檢體以冰浴或低溫方式傳送，並於15 分鐘內分離血漿"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q39",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 39 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 39,
+    "stem": "下列何種蛋白可幫助高密度脂蛋白（HDL）將膽固醇酯（cholesterol ester）轉移至低密度脂蛋白（LDL）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "cholesterol ester transfer protein（CETP）"
+      },
+      {
+        "label": "B",
+        "text": "acylcholesterol acyltransferase（ACAT）"
+      },
+      {
+        "label": "C",
+        "text": "cholesterol oxidase"
+      },
+      {
+        "label": "D",
+        "text": "lecithin cholesterol acyltransferase（LCAT）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q40",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 40 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 40,
+    "stem": "有關纖維素（cellulose）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "具有β-1,4-糖苷鍵結"
+      },
+      {
+        "label": "B",
+        "text": "單元體是葡萄糖"
+      },
+      {
+        "label": "C",
+        "text": "可被α-amylase 水解"
+      },
+      {
+        "label": "D",
+        "text": "人體內無纖維酶（cellulase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q41",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 41 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 41,
+    "stem": "克山病（Keshan disease）之心肌病變（cardiomyopathy）與下列何種微量元素嚴重缺乏有關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cr"
+      },
+      {
+        "label": "B",
+        "text": "Se"
+      },
+      {
+        "label": "C",
+        "text": "Fe"
+      },
+      {
+        "label": "D",
+        "text": "Cu"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q42",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 42 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 42,
+    "stem": "有關缺鐵性貧血的血液生化檢驗結果，何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血清總鐵結合能力（TIBC）下降"
+      },
+      {
+        "label": "B",
+        "text": "血清鐵濃度下降"
+      },
+      {
+        "label": "C",
+        "text": "運鐵蛋白（transferrin）濃度上升"
+      },
+      {
+        "label": "D",
+        "text": "儲鐵蛋白（ferritin）濃度下降"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q43",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 43 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 43,
+    "stem": "有關fibroblast growth factor 23（FGF23）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主要由骨細胞產生"
+      },
+      {
+        "label": "B",
+        "text": "在肝臟中抑制α-hydroxylase，減少1,25-dihydroxyvitamin D 生成"
+      },
+      {
+        "label": "C",
+        "text": "促進腎臟磷的排放"
+      },
+      {
+        "label": "D",
+        "text": "慢性腎臟疾病（chronic kidney disease）數值會增加"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q44",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 44 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 44,
+    "stem": "血漿的陽離子中，下列何者濃度最低？",
+    "options": [
+      {
+        "label": "A",
+        "text": "氫離子（H+）"
+      },
+      {
+        "label": "B",
+        "text": "鉀離子（K+）"
+      },
+      {
+        "label": "C",
+        "text": "鎂離子（Mg2+）"
+      },
+      {
+        "label": "D",
+        "text": "鈣離子（Ca2+）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q45",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 45 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 45,
+    "stem": "下列何者可用 arsenazo Ⅲ method 及o-cresolphthalein complexone（CPC）method 檢測？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鋅"
+      },
+      {
+        "label": "B",
+        "text": "鎂"
+      },
+      {
+        "label": "C",
+        "text": "鈣"
+      },
+      {
+        "label": "D",
+        "text": "銅"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q46",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 46 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 46,
+    "stem": "某血液檢體的pH 值為7.1，pCO2為33，已知pKa 為6.1，CO2的溶解度為0.03，利用Henderson-Hasselbalch\n方程式算出的[HCO3-]為多少？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "10"
+      },
+      {
+        "label": "D",
+        "text": "20"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q47",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 47 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 47,
+    "stem": "有關原發性代謝性酸中毒（primary metabolic acidosis）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "致病機轉為血液內重碳酸根（bicarbonate, HCO3-）濃度降低所致"
+      },
+      {
+        "label": "B",
+        "text": "病患會利用降低換氣作用（hypo-ventilation）的方式進行代償"
+      },
+      {
+        "label": "C",
+        "text": "病患血液pH 檢測值小於7.35"
+      },
+      {
+        "label": "D",
+        "text": "嚴重糖尿病與腎臟病患者屬於此種類型的酸鹼失調"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q48",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 48 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 48,
+    "stem": "有關動脈血氣體分析的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "氧分壓使用電流測定法（amperometry）測量"
+      },
+      {
+        "label": "B",
+        "text": "二氧化碳分壓使用電位分析法（potentiometry）測量"
+      },
+      {
+        "label": "C",
+        "text": "氧分壓測量法是基於pH 電極（pH electrode）"
+      },
+      {
+        "label": "D",
+        "text": "pH 測量儀中具有對氫離子敏感的玻璃膜"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q49",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 49 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 49,
+    "stem": "下列何者在磷脂質水解過程中會修飾LDL 以促進其氧化，促使斑塊脂質生成和堆積，可用於評估動脈粥狀硬\n化的發生？",
+    "options": [
+      {
+        "label": "A",
+        "text": "同半胱胺酸（homocysteine）"
+      },
+      {
+        "label": "B",
+        "text": "脂蛋白相關磷脂酶A2（lipoprotein-associated phospholipase A2）"
+      },
+      {
+        "label": "C",
+        "text": "CD40 配體（CD40L）"
+      },
+      {
+        "label": "D",
+        "text": "半乳糖凝集素-3（galectin-3）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q50",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 50 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 50,
+    "stem": "下列何種心臟標誌（cardiac marker）在心肌受損後快速上升且持續時間較長？",
+    "options": [
+      {
+        "label": "A",
+        "text": "肌酸激酶-MB（CK-MB）"
+      },
+      {
+        "label": "B",
+        "text": "肌鈣蛋白（troponin）"
+      },
+      {
+        "label": "C",
+        "text": "乳酸去氫酶（lactate dehydrogenase）"
+      },
+      {
+        "label": "D",
+        "text": "天門冬胺酸轉胺酶（aspartate transaminase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q51",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 51 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 51,
+    "stem": "若缺乏催化產生結合型膽紅素的酵素，會導致下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "吉爾伯氏症候群（Gilbert syndrome）"
+      },
+      {
+        "label": "B",
+        "text": "杜賓—約翰遜症候群（Dubin-Johnson syndrome）"
+      },
+      {
+        "label": "C",
+        "text": "威爾森病（Wilson disease）"
+      },
+      {
+        "label": "D",
+        "text": "溶血性尿毒症綜合症（hemolytic uremic syndrome）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q52",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 52 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 52,
+    "stem": "酵素的單位有二種，即International unit（U）及katal（kat），下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "U 是指每秒能催化1 μmol 受質之酵素活性"
+      },
+      {
+        "label": "B",
+        "text": "U 是指每分鐘能催化1 μmol 受質之酵素活性"
+      },
+      {
+        "label": "C",
+        "text": "kat 是指每秒能催化1 μmol 受質之酵素活性"
+      },
+      {
+        "label": "D",
+        "text": "kat 是指每分鐘能催化1 μmol 受質之酵素活性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q53",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 53 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 53,
+    "stem": "血清鹼性磷酸酶（alkaline phosphatase）活性上升時，檢測下列何者有助於釐清上升原因是源自於骨骼或\n肝臟？",
+    "options": [
+      {
+        "label": "A",
+        "text": "天門冬胺酸轉胺酶（aspartate aminotransferase）"
+      },
+      {
+        "label": "B",
+        "text": "肌酸激酶（creatine kinase）"
+      },
+      {
+        "label": "C",
+        "text": "酸性磷酸酶（acid phosphatase）"
+      },
+      {
+        "label": "D",
+        "text": "γ-麩胺醯轉移酶（γ-glutamyltransferase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q54",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 54 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 54,
+    "stem": "下列何種利鈉肽（natriuretic peptide, NP）分子檢查最適合用於診斷心臟衰竭？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ANP"
+      },
+      {
+        "label": "B",
+        "text": "NT-proANP"
+      },
+      {
+        "label": "C",
+        "text": "BNP"
+      },
+      {
+        "label": "D",
+        "text": "NT-proBNP"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q55",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 55 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 55,
+    "stem": "人體何種器官的γ麩胺醯轉移酶（γ-glutamyltransferase, GGT）含量最高？",
+    "options": [
+      {
+        "label": "A",
+        "text": "骨骼"
+      },
+      {
+        "label": "B",
+        "text": "小腸"
+      },
+      {
+        "label": "C",
+        "text": "肝臟"
+      },
+      {
+        "label": "D",
+        "text": "腎臟"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q56",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 56 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 56,
+    "stem": "下列何者較不適用於評估肝臟的排泄功能（hepatic excretory function）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "膽紅素（bilirubin）"
+      },
+      {
+        "label": "B",
+        "text": "膽酸（bile acids）"
+      },
+      {
+        "label": "C",
+        "text": "咖啡因（caffeine）"
+      },
+      {
+        "label": "D",
+        "text": "氨（ammonia）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q57",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 57 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 57,
+    "stem": "若酵素是由兩個以上的蛋白質次單位（subunit）組成，此特性屬於蛋白質的幾級結構？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一級結構（primary structure）"
+      },
+      {
+        "label": "B",
+        "text": "二級結構（secondary structure）"
+      },
+      {
+        "label": "C",
+        "text": "三級結構（tertiary structure）"
+      },
+      {
+        "label": "D",
+        "text": "四級結構（quaternary structure）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q58",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 58 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 58,
+    "stem": "新生兒生理性黃疸（physiological jaundice of the newborn）的血液檢體中，下列何者會顯著升高？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尿膽原（urobilinogen）"
+      },
+      {
+        "label": "B",
+        "text": "膽綠素（biliverdin）"
+      },
+      {
+        "label": "C",
+        "text": "未結合型膽紅素（unconjugated bilirubin）"
+      },
+      {
+        "label": "D",
+        "text": "結合型膽紅素（conjugated bilirubin）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q59",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 59 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 59,
+    "stem": "在酵素動力學中，下列那一個參數最能夠反映出酵素的催化效能（catalytic efficiency）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vmax"
+      },
+      {
+        "label": "B",
+        "text": "Km"
+      },
+      {
+        "label": "C",
+        "text": "kcat"
+      },
+      {
+        "label": "D",
+        "text": "kcat/Km"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q60",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 60 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 60,
+    "stem": "臨床實驗室中最適合用來作為血清中乳癌腫瘤標誌的分子為何？",
+    "options": [
+      {
+        "label": "A",
+        "text": "prostate specific antigen（PSA）"
+      },
+      {
+        "label": "B",
+        "text": "CA15-3"
+      },
+      {
+        "label": "C",
+        "text": "α-fetoprotein（AFP）"
+      },
+      {
+        "label": "D",
+        "text": "prolactin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q61",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 61 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 61,
+    "stem": "癌症病患何種血清酵素增加時，代表可能產生骨或肝轉移，亦可視為一種腫瘤標誌？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鹼性磷酸酶（alkaline phosphatase）"
+      },
+      {
+        "label": "B",
+        "text": "澱粉酶（amylase）"
+      },
+      {
+        "label": "C",
+        "text": "脂酶（lipase）"
+      },
+      {
+        "label": "D",
+        "text": "天門冬胺酸轉胺酶（aspartate aminotransferase）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q62",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 62 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 62,
+    "stem": "腺體產生腫瘤可能造成血清荷爾蒙（hormone）濃度異常，下列何種荷爾蒙可能來自甲狀腺產生的腫瘤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "腎上腺皮質刺激素（adrenocorticotropic hormone, ACTH）"
+      },
+      {
+        "label": "B",
+        "text": "抑鈣素（calcitonin）"
+      },
+      {
+        "label": "C",
+        "text": "生長激素（growth hormone）"
+      },
+      {
+        "label": "D",
+        "text": "泌乳素（prolactin）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q63",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 63 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 63,
+    "stem": "有關鈣離子的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "其吸收需要的活化型態維生素D 是在腎臟做轉換"
+      },
+      {
+        "label": "B",
+        "text": "腎上腺皮質刺激素（ACTH）會調控其在骨骼的吸收和釋放"
+      },
+      {
+        "label": "C",
+        "text": "檢測容易被鎂離子（Mg2+）所干擾"
+      },
+      {
+        "label": "D",
+        "text": "可用肝素（heparin）作為抗凝劑的血漿偵測"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q64",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 64 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 64,
+    "stem": "下列何種荷爾蒙的構造是吲哚胺（indoleamine）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "催產素（oxytocin）"
+      },
+      {
+        "label": "B",
+        "text": "甲狀腺刺激素（thyroid stimulating hormone, TSH）"
+      },
+      {
+        "label": "C",
+        "text": "血清素（serotonin）"
+      },
+      {
+        "label": "D",
+        "text": "黃體素（progesterone）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q65",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 65 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 65,
+    "stem": "下列何種抗體在葛瑞夫茲病（Graves disease）的病人血中陽性率最高？",
+    "options": [
+      {
+        "label": "A",
+        "text": "抗甲狀腺球蛋白抗體（anti-thyroglobulin antibody, TgAb）"
+      },
+      {
+        "label": "B",
+        "text": "抗甲狀腺過氧化酶抗體（anti-thyroid peroxidase antibody, TPOAb）"
+      },
+      {
+        "label": "C",
+        "text": "甲狀腺刺激素受體抗體（TSH-receptor antibody, TRAb）"
+      },
+      {
+        "label": "D",
+        "text": "抗甲狀腺氧化酶抗體（anti-thyroid oxidase antibody, TOAb）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q66",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 66 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 66,
+    "stem": "有關皮質醇（cortisol）的測定，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血中皮質醇濃度不具晝夜變化（diurnal variation）"
+      },
+      {
+        "label": "B",
+        "text": "液相層析串聯式質譜儀（LC-MS/MS）檢測24 小時尿液皮質醇是篩檢庫欣症候群的高敏感性與特異性方法"
+      },
+      {
+        "label": "C",
+        "text": "尿液17-ketosteroid（17-KS）的測定可作為皮質醇代謝產物的檢測"
+      },
+      {
+        "label": "D",
+        "text": "檢測早晨第一次尿液檢體皮質醇／肌酸酐的比值，作為庫欣症候群的篩檢方法，其特異性和敏感度差"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q67",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 67 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 67,
+    "stem": "下列何種荷爾蒙（hormone）最屬於典型的促素（trophic hormone）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "甲狀腺素（thyroxine）"
+      },
+      {
+        "label": "B",
+        "text": "類胰島素生長因子-1（insulin-like growth factor-1）"
+      },
+      {
+        "label": "C",
+        "text": "前列腺素 E2（prostaglandin E2）"
+      },
+      {
+        "label": "D",
+        "text": "甲狀腺刺激素（thyroid stimulating hormone）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q68",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 68 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 68,
+    "stem": "有關腎上腺皮質刺激素（adrenocorticotropic hormone, ACTH）調控皮質醇（cortisol）分泌的敘述，下列\n何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ACTH 促使腎上腺皮質細胞利用膽固醇合成皮質醇（cortisol）"
+      },
+      {
+        "label": "B",
+        "text": "ACTH 主要是以phospholipase C 作為second messenger 傳遞訊息"
+      },
+      {
+        "label": "C",
+        "text": "ACTH 製造及釋放增加會引發愛迪生病（Addison disease）"
+      },
+      {
+        "label": "D",
+        "text": "原發性腎上腺機能不足（primary adrenal insufficiency）負回饋將使ACTH 分泌量減少"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q69",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 69 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 69,
+    "stem": "關於醛固酮（aldosterone）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "在束狀帶（zona fasciculata）中製作"
+      },
+      {
+        "label": "B",
+        "text": "主要由ACTH 調控"
+      },
+      {
+        "label": "C",
+        "text": "是主要的glucocorticoid"
+      },
+      {
+        "label": "D",
+        "text": "有保留鈉離子的功能"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q70",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 70 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 70,
+    "stem": "卡門症候群（Kallmann syndrome）的病患屬於下列何種內分泌異常？",
+    "options": [
+      {
+        "label": "A",
+        "text": "原發性（primary）性腺功能低下（hypogonadism）"
+      },
+      {
+        "label": "B",
+        "text": "腦下垂體性（pituitary）性腺功能低下（hypogonadism）"
+      },
+      {
+        "label": "C",
+        "text": "下視丘性（hypothalamic）性腺功能低下（hypogonadism）"
+      },
+      {
+        "label": "D",
+        "text": "雄性素不敏感（androgen insensitivity）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q71",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 71 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 71,
+    "stem": "參與甲硫胺酸（methionine）和同半胱胺酸（homocysteine）循環代謝的維生素，不包含下列何者？",
+    "options": [
+      {
+        "label": "A",
+        "text": "維生素B1"
+      },
+      {
+        "label": "B",
+        "text": "維生素B2"
+      },
+      {
+        "label": "C",
+        "text": "維生素B6"
+      },
+      {
+        "label": "D",
+        "text": "維生素B12"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q72",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 72 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 72,
+    "stem": "生長激素（growth hormone）可調控肝臟合成並分泌下列那一種胜肽類分子？",
+    "options": [
+      {
+        "label": "A",
+        "text": "insulin"
+      },
+      {
+        "label": "B",
+        "text": "insulin-like growth factor 1（IGF-1）"
+      },
+      {
+        "label": "C",
+        "text": "growth hormone-releasing hormone（GHRH）"
+      },
+      {
+        "label": "D",
+        "text": "relaxin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q73",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 73 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 73,
+    "stem": "有關甲氨蝶呤（methotrexate）之敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "尿液檢體收集後應維持酸性"
+      },
+      {
+        "label": "B",
+        "text": "單次高劑量（>50 mg/m2）使用24 小時後，血中濃度高於30 µM 才代表有潛在毒性"
+      },
+      {
+        "label": "C",
+        "text": "僅能使用免疫分析法定量"
+      },
+      {
+        "label": "D",
+        "text": "methotrexate 可能造成胃腸道黏膜炎"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q74",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 74 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 74,
+    "stem": "若新生兒產生戒斷症候群，下列何種新生兒檢體最適合用於偵測胎兒在中後孕期所暴露的禁藥？",
+    "options": [
+      {
+        "label": "A",
+        "text": "毛髮"
+      },
+      {
+        "label": "B",
+        "text": "新生兒尿液（urine）"
+      },
+      {
+        "label": "C",
+        "text": "臍帶血（umbilical cord blood）"
+      },
+      {
+        "label": "D",
+        "text": "胎便（meconium）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q75",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 75 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 75,
+    "stem": "下列何種藥物需要進行治療藥物監測（therapeutic drug monitoring, TDM）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "phenytoin"
+      },
+      {
+        "label": "B",
+        "text": "statin"
+      },
+      {
+        "label": "C",
+        "text": "cocaine"
+      },
+      {
+        "label": "D",
+        "text": "amphetamine"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q76",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 76 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 76,
+    "stem": "分析體液中的重金屬含量，最常以下列那些方法檢測？①原子吸光法（AAS） ②感應耦合電漿質譜分析\n（ICP-MS） ③酵素免疫分析（EIA） ④離子選擇性電極（ISE）",
+    "options": [
+      {
+        "label": "A",
+        "text": "①②"
+      },
+      {
+        "label": "B",
+        "text": "①④"
+      },
+      {
+        "label": "C",
+        "text": "②③"
+      },
+      {
+        "label": "D",
+        "text": "③④"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q77",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 77 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 77,
+    "stem": "有關準確度（accuracy）之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "能反映出真實度（trueness）"
+      },
+      {
+        "label": "B",
+        "text": "可以顯示系統誤差（systemic error）"
+      },
+      {
+        "label": "C",
+        "text": "可觀察到偏差值（bias）"
+      },
+      {
+        "label": "D",
+        "text": "分析數據高度集中，表示準確度高"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q78",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 78 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 78,
+    "stem": "下圖是某段染色體區域的array comparative genomic hybridization（aCGH）檢測結果，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "A 區域可能存在許多點突變（point mutation）"
+      },
+      {
+        "label": "B",
+        "text": "B 區域為背景值訊號，如果變動不大，分析時可忽略"
+      },
+      {
+        "label": "C",
+        "text": "C 區域可能存在染色體拷貝數的變異（copy number variants, CNVs）"
+      },
+      {
+        "label": "D",
+        "text": "此方法常用來檢測單一核苷酸變異（single nucleotide variants, SNVs）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/biochemistry-clinical-biochemistry/115_s1_biochemistry-clinical-biochemistry_q78_p14.png"
+    ],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q79",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 79 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 79,
+    "stem": "有關數位PCR（digital PCR, dPCR）的技術原理及應用，下列敘述何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "運用樣本分割（sample partitioning）技術，每個DNA 分子在分割單元內進行獨立的PCR 擴增反應"
+      },
+      {
+        "label": "B",
+        "text": "採用二進制定量（binary quantification）分析，對樣本DNA 進行相對定量"
+      },
+      {
+        "label": "C",
+        "text": "此技術是進行PCR 反應後，偵測分割單元內的螢光訊號"
+      },
+      {
+        "label": "D",
+        "text": "此技術具有極高的敏感度（sensitivity），適合檢測樣本中低拷貝數的標靶DNA"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-biochemistry-clinical-biochemistry-seq13-q80",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 生物化學與臨床生化學 第 80 題",
+    "subject": "生物化學與臨床生化學",
+    "subject_slug": "biochemistry-clinical-biochemistry",
+    "question_number": 80,
+    "stem": "「特定醫療技術檢查檢驗醫療儀器施行或使用管理辦法」中，實驗室開發檢測技術（LDTs）的法規準則、方\n法確效、實驗室管理等，通常由下列何機關所規範？",
+    "options": [
+      {
+        "label": "A",
+        "text": "衛生福利部食品藥物管理署"
+      },
+      {
+        "label": "B",
+        "text": "衛生福利部國民健康署"
+      },
+      {
+        "label": "C",
+        "text": "衛生福利部中央健康保險署"
+      },
+      {
+        "label": "D",
+        "text": "各地方政府衛生局"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_13_生物化學與臨床生化學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  }
+]

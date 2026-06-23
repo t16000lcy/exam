@@ -1,1 +1,2894 @@
-[]
+[
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q01",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 1 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 1,
+    "stem": "下列何者的erythroblast 會因DNA 合成障礙，導致細胞核與細胞質不同步成熟的貧血症？",
+    "options": [
+      {
+        "label": "A",
+        "text": "巨紅芽球性貧血（megaloblastic anemia）"
+      },
+      {
+        "label": "B",
+        "text": "鐵芽球性貧血（sideroblastic anemia）"
+      },
+      {
+        "label": "C",
+        "text": "乙型海洋性貧血（β-thalassemia minor）"
+      },
+      {
+        "label": "D",
+        "text": "G6PD 缺乏之溶血性貧血（G6PD deficient hemolytic anemia）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q02",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 2 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 2,
+    "stem": "有關原紫質（protoporphyrin）參與血色素合成的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "原紫質與鐵組裝成heme 是由heme synthase 負責完成"
+      },
+      {
+        "label": "B",
+        "text": "原紫質合成由glycine 及succinyl CoA 開始"
+      },
+      {
+        "label": "C",
+        "text": "原紫質合成需Vit. B6參與"
+      },
+      {
+        "label": "D",
+        "text": "原紫質與鐵組裝成heme 是在ribosome 完成"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q03",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 3 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 3,
+    "stem": "某貧血病患的MCV 與MCH 結果如下，何者最符合microcytic hypochromic anemia？",
+    "options": [
+      {
+        "label": "A",
+        "text": "MCV 70 fL／MCH 21 pg"
+      },
+      {
+        "label": "B",
+        "text": "MCV 85 fL／MCH 32 pg"
+      },
+      {
+        "label": "C",
+        "text": "MCV 95 fL／MCH 35 pg"
+      },
+      {
+        "label": "D",
+        "text": "MCV 105 fL／MCH 37 pg"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q04",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 4 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 4,
+    "stem": "有關惡性貧血（pernicious anemia）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "anti-proton pump H+/K+‐ATPase 自體抗體陽性，則可以作為惡性貧血的專一性診斷"
+      },
+      {
+        "label": "B",
+        "text": "罹患惡性貧血的比率男多於女"
+      },
+      {
+        "label": "C",
+        "text": "惡性貧血主因是嚴重缺乏葉酸"
+      },
+      {
+        "label": "D",
+        "text": "幽門螺旋桿菌（H. pylori）是引起老年人惡性貧血的原因之一"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q05",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 5 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 5,
+    "stem": "下列各物質何者會因為缺乏葉酸而增加？",
+    "options": [
+      {
+        "label": "A",
+        "text": "s-adenoyl homocysteine"
+      },
+      {
+        "label": "B",
+        "text": "homocysteine"
+      },
+      {
+        "label": "C",
+        "text": "methionine"
+      },
+      {
+        "label": "D",
+        "text": "deoxythymidine monophosphate（dTMP）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q06",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 6 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 6,
+    "stem": "下列何者與嚴重缺乏維生素B12最無關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "全素食者"
+      },
+      {
+        "label": "B",
+        "text": "肝臟疾病"
+      },
+      {
+        "label": "C",
+        "text": "部分胃切除"
+      },
+      {
+        "label": "D",
+        "text": "部分迴腸（ileum）切除"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q07",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 7 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 7,
+    "stem": "有關丙酮酸激酶缺乏症（pyruvate kinase deficiency）的敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "細胞內2,3-diphosphoglycerate（2,3-DPG）大量減少"
+      },
+      {
+        "label": "B",
+        "text": "常見於X 染色體隱性遺傳"
+      },
+      {
+        "label": "C",
+        "text": "與NADPH 供應異常有關"
+      },
+      {
+        "label": "D",
+        "text": "紅血球ATP 減少"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q08",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 8 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 8,
+    "stem": "鐮刀型紅血球貧血症（sickle cell anemia），最主要是因血色素β鏈第6 個胺基酸產生下列那種突變？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由纈胺酸（valine）變成酪胺酸（tyrosine）"
+      },
+      {
+        "label": "B",
+        "text": "由酪胺酸（tyrosine）變成天門冬胺酸（aspartic acid）"
+      },
+      {
+        "label": "C",
+        "text": "由天門冬胺酸（aspartic acid）變成麩胺酸（glutamic acid）"
+      },
+      {
+        "label": "D",
+        "text": "由麩胺酸（glutamic acid）變成由纈胺酸（valine）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q09",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 9 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 9,
+    "stem": "有關遺傳性球狀紅血球增多症（hereditary spherocytosis），下列敘述何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "通常是紅血球細胞膜之membrane skeleton 結構蛋白質的異常所造成"
+      },
+      {
+        "label": "B",
+        "text": "血清中的lactate dehydrogenase 減少"
+      },
+      {
+        "label": "C",
+        "text": "尿液中的urobilinogen 增加"
+      },
+      {
+        "label": "D",
+        "text": "血清中的haptoglobin 減少"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q10",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 10 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 10,
+    "stem": "有關paroxysmal nocturnal hemoglobinuria（PNH）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "紅血球細胞膜上的membrane inhibitor of reactive lysis（MIRL, CD59）含量增加"
+      },
+      {
+        "label": "B",
+        "text": "紅血球細胞膜蛋白質glycosylphosphatidylinositol（GPI）anchor 異常"
+      },
+      {
+        "label": "C",
+        "text": "紅血球細胞膜上的CD55 下降，導致無法抑制補體活化反應"
+      },
+      {
+        "label": "D",
+        "text": "血清中lactate dehydrogenase 增加"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q11",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 11 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 11,
+    "stem": "有關骨髓中myeloid：erythroid 的細胞比例變化，下列何者最有可能是hereditary spherocytosis 病人的\n骨髓檢查結果？",
+    "options": [
+      {
+        "label": "A",
+        "text": "10：1"
+      },
+      {
+        "label": "B",
+        "text": "6：1"
+      },
+      {
+        "label": "C",
+        "text": "3：1"
+      },
+      {
+        "label": "D",
+        "text": "1：2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q12",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 12 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 12,
+    "stem": "下列何種血色素蛋白表現的切換是發生在出生後3～6 個月？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ζ切換成α"
+      },
+      {
+        "label": "B",
+        "text": "ε切換成γ"
+      },
+      {
+        "label": "C",
+        "text": "ε切換成β"
+      },
+      {
+        "label": "D",
+        "text": "γ切換成β"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q13",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 13 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 13,
+    "stem": "下列何種疾病可以用淋巴球端粒長度作為診斷工具？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Shwachman-Diamond syndrome"
+      },
+      {
+        "label": "B",
+        "text": "Chediak-Higashi syndrome"
+      },
+      {
+        "label": "C",
+        "text": "dyskeratosis congenita"
+      },
+      {
+        "label": "D",
+        "text": "paroxysmal nocturnal hemoglobinuria"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q14",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 14 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 14,
+    "stem": "有關vitamin B12的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "intrinsic factor 結合的vitamin B12在ileum 進入肝門靜脈"
+      },
+      {
+        "label": "B",
+        "text": "在血漿中vitamin B12不會與transcobalamin II 結合"
+      },
+      {
+        "label": "C",
+        "text": "血漿中與haptocorrin 結合的vitamin B12不會運送到骨髓"
+      },
+      {
+        "label": "D",
+        "text": "在myeloproliferative neoplasm 的病人血液中有大量的vitamin B12"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q15",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 15 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 15,
+    "stem": "病人檢體的紅血球計數如圖所示，則下列何者最符合病人的狀況？",
+    "options": [
+      {
+        "label": "A",
+        "text": "缺鐵性貧血病人接受口服鐵劑治療"
+      },
+      {
+        "label": "B",
+        "text": "β-thalassemia trait 病人接受葉酸治療"
+      },
+      {
+        "label": "C",
+        "text": "α-thalassemia 病人接受葉酸治療"
+      },
+      {
+        "label": "D",
+        "text": "megaloblastic anemia 病人接受Vit. B12治療"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q15_p03.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q16",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 16 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 16,
+    "stem": "周邊血液抹片經Giemsa 染色如下圖，下列何者最可能是箭頭所指的細胞？",
+    "options": [
+      {
+        "label": "A",
+        "text": "nucleated RBC"
+      },
+      {
+        "label": "B",
+        "text": "small lymphocyte"
+      },
+      {
+        "label": "C",
+        "text": "monocyte"
+      },
+      {
+        "label": "D",
+        "text": "plasma cell"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q17",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 17 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 17,
+    "stem": "周邊血液抹片經Giemsa 染色後如圖所示，下列何者最適合描述視野下紅血球的特徵？",
+    "options": [
+      {
+        "label": "A",
+        "text": "stomatocytosis"
+      },
+      {
+        "label": "B",
+        "text": "poikilocytosis"
+      },
+      {
+        "label": "C",
+        "text": "elliptocytosis"
+      },
+      {
+        "label": "D",
+        "text": "anisocytosis"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q17_p04.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q18",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 18 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 18,
+    "stem": "下列何者不是血管外溶血的特徵？",
+    "options": [
+      {
+        "label": "A",
+        "text": "haptoglobin 上升"
+      },
+      {
+        "label": "B",
+        "text": "黃疸"
+      },
+      {
+        "label": "C",
+        "text": "網狀紅血球數上升"
+      },
+      {
+        "label": "D",
+        "text": "脾腫大"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q19",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 19 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 19,
+    "stem": "下列何者與後天再生不良性貧血最無關？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fanconi anemia"
+      },
+      {
+        "label": "B",
+        "text": "benzene"
+      },
+      {
+        "label": "C",
+        "text": "chloramphenicol"
+      },
+      {
+        "label": "D",
+        "text": "hepatitis virus"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q20",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 20 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 20,
+    "stem": "圖示為Liu's stain 的周邊血液抹片，箭號所指的是何種細胞？",
+    "options": [
+      {
+        "label": "A",
+        "text": "acanthocyte"
+      },
+      {
+        "label": "B",
+        "text": "sickle cell"
+      },
+      {
+        "label": "C",
+        "text": "blister cell"
+      },
+      {
+        "label": "D",
+        "text": "schistocyte（fragmented RBC）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q20_p05.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q21",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 21 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 21,
+    "stem": "73 歲男病人之周邊血液的WBC 數目為15.2×103/uL，其白血球的分類結果為promyelocyte (11.1％)，blasts\n(70.1％)；其骨髓抹片的有核細胞之細胞質可見許多顆粒且成束的Auer rods。細胞免疫分型結果為\nCD13(+)、CD33(+)、CD3(-)、CD10(-)、CD19(-)，myeloperoxidase(+)，TdT(-)及染色體檢驗結果為\nt(15;17)(q24;q21)。此病人最可能罹患下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B-acute lymphoblastic leukemia"
+      },
+      {
+        "label": "B",
+        "text": "T-acute lymphoblastic leukemia"
+      },
+      {
+        "label": "C",
+        "text": "acute promyelocytic leukemia"
+      },
+      {
+        "label": "D",
+        "text": "acute myelomonocytic leukemia"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q22",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 22 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 22,
+    "stem": "下列何者不屬於骨髓增生腫瘤（myeloproliferative neoplasms）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "polycythemia vera"
+      },
+      {
+        "label": "B",
+        "text": "essential thrombocythemia"
+      },
+      {
+        "label": "C",
+        "text": "primary myelofibrosis"
+      },
+      {
+        "label": "D",
+        "text": "refractory anemia with ring sideroblast"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q23",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 23 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 23,
+    "stem": "下列何種骨髓增生疾病（myeloproliferative neoplasm）最不會出現JAK2 突變？",
+    "options": [
+      {
+        "label": "A",
+        "text": "真性紅血球增多症（polycythemia vera）"
+      },
+      {
+        "label": "B",
+        "text": "實質性血小板增多症（essential thrombocythemia）"
+      },
+      {
+        "label": "C",
+        "text": "原發性骨髓纖維化症（primary myelofibrosis）"
+      },
+      {
+        "label": "D",
+        "text": "慢性骨髓性白血病（chronic myeloid leukemia）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q24",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 24 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 24,
+    "stem": "有關慢性肉芽腫病（chronic granulomatous disease）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可能是X 染色體或體染色體的基因突變"
+      },
+      {
+        "label": "B",
+        "text": "無法中止發炎反應導致肉芽腫形成"
+      },
+      {
+        "label": "C",
+        "text": "nitroblue-tetrazolium（NBT）試驗結果為陰性"
+      },
+      {
+        "label": "D",
+        "text": "會產生過多的超氧化物（superoxide）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q25",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 25 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 25,
+    "stem": "有關單核球細胞（monocyte）和巨噬細胞（macrophage）的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "monocyte 在周邊血循環後進入組織後，成為巨噬細胞"
+      },
+      {
+        "label": "B",
+        "text": "組織中的macrophage 經常在一星期內即進行細胞凋亡（apoptosis）而更新"
+      },
+      {
+        "label": "C",
+        "text": "monocyte 比嗜中性球（neutrophil）大"
+      },
+      {
+        "label": "D",
+        "text": "GM-CSF 和M-CSF 皆可促進monocyte 的生成"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q26",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 26 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 26,
+    "stem": "下列何種細胞在周邊血液異常增多時，最能作為多發性骨髓瘤（multiple myeloma）的診斷？",
+    "options": [
+      {
+        "label": "A",
+        "text": "漿細胞"
+      },
+      {
+        "label": "B",
+        "text": "骨髓母細胞"
+      },
+      {
+        "label": "C",
+        "text": "淋巴母細胞"
+      },
+      {
+        "label": "D",
+        "text": "活化單核球"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q27",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 27 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 27,
+    "stem": "有關周邊血液淋巴球增多的病患，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "其周邊血液總白血球數目增加"
+      },
+      {
+        "label": "B",
+        "text": "其周邊血液淋巴球形態shift to the left"
+      },
+      {
+        "label": "C",
+        "text": "急性感染者，小孩較成人易發生此現象"
+      },
+      {
+        "label": "D",
+        "text": "病毒感染者，慢性期較急性期易發生此現象"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q28",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 28 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 28,
+    "stem": "有關嗜中性球細胞外捕捉（Neutrophil extracellular trap）之活性成分，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "白血球的DNA 及組蛋白"
+      },
+      {
+        "label": "B",
+        "text": "病原菌的DNA 及內毒素"
+      },
+      {
+        "label": "C",
+        "text": "白血球的RNA 及顆粒"
+      },
+      {
+        "label": "D",
+        "text": "含病原菌之內噬體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q29",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 29 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 29,
+    "stem": "有關嗜中性球減少（neutropenia）的定義，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "周邊血液嗜中性球總數下降"
+      },
+      {
+        "label": "B",
+        "text": "周邊血液嗜中性球比例下降"
+      },
+      {
+        "label": "C",
+        "text": "骨髓中嗜中性球總數下降"
+      },
+      {
+        "label": "D",
+        "text": "骨髓中嗜中性球比例下降"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q30",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 30 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 30,
+    "stem": "下列何者是daratumumab 治療多發性骨髓瘤（multiple myeloma）之標的？",
+    "options": [
+      {
+        "label": "A",
+        "text": "BCMA"
+      },
+      {
+        "label": "B",
+        "text": "CD20"
+      },
+      {
+        "label": "C",
+        "text": "CD138"
+      },
+      {
+        "label": "D",
+        "text": "CD38"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q31",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 31 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 31,
+    "stem": "76 歲女性周邊血液檢驗結果：血色素Hb 6 g/dL、血小板30 K/μL、白血球1.4 K/μL，白血球分類為\nblast 9％、band 7％、segmented 45％、monocyte 4％、lymphocyte 35％；骨髓抹片紅血球分化異常，骨\n髓性芽細胞（myeloblast）11％，此病人最可能罹患下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "acute myeloblastic leukemia（AML）"
+      },
+      {
+        "label": "B",
+        "text": "myelodysplastic syndrome（MDS）"
+      },
+      {
+        "label": "C",
+        "text": "acute lymphoblastic leukemia（ALL）"
+      },
+      {
+        "label": "D",
+        "text": "aplastic anemia（AA）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q32",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 32 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 32,
+    "stem": "BCL::ABL1 fusions 的斷點與protein 大小的組合，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "e1a2 = p190"
+      },
+      {
+        "label": "B",
+        "text": "e13a2 = p190"
+      },
+      {
+        "label": "C",
+        "text": "e14a2 = p210"
+      },
+      {
+        "label": "D",
+        "text": "e19a2 = p230"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q33",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 33 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 33,
+    "stem": "下列何者不是慢性B 淋巴球白血病（chronic B lymphocytic leukemia）之標靶治療藥物的標的？",
+    "options": [
+      {
+        "label": "A",
+        "text": "CD30"
+      },
+      {
+        "label": "B",
+        "text": "CD20"
+      },
+      {
+        "label": "C",
+        "text": "Bruton tyrosine kinase（BTK）"
+      },
+      {
+        "label": "D",
+        "text": "BCL-2"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q34",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 34 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 34,
+    "stem": "有關圖中未分化完全之白血球的名稱，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "promyelocyte"
+      },
+      {
+        "label": "B",
+        "text": "myelocyte"
+      },
+      {
+        "label": "C",
+        "text": "metamyelocyte"
+      },
+      {
+        "label": "D",
+        "text": "band neutrophil"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q34_p08.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q35",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 35 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 35,
+    "stem": "某白血病病患的骨髓抹片如圖所示，經流式細胞儀分析，其blast 之細胞表面標記的結果為CD33(+)、\nCD117(+)，則此病人最有可能罹患下列何種疾病？",
+    "options": [
+      {
+        "label": "A",
+        "text": "acute lymphoblastic leukemia（ALL）"
+      },
+      {
+        "label": "B",
+        "text": "chronic lymphocytic leukemia（CLL）"
+      },
+      {
+        "label": "C",
+        "text": "acute myeloid leukemia（AML）"
+      },
+      {
+        "label": "D",
+        "text": "chronic myeloid leukemia（CML）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q35_p08.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q36",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 36 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 36,
+    "stem": "下列那個細胞標記可作為慢性淋巴性白血病（chronic lymphocytic leukemia, CLL）的預後指標？",
+    "options": [
+      {
+        "label": "A",
+        "text": "CD10"
+      },
+      {
+        "label": "B",
+        "text": "CD19"
+      },
+      {
+        "label": "C",
+        "text": "CD20"
+      },
+      {
+        "label": "D",
+        "text": "CD38"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q37",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 37 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 37,
+    "stem": "根據2022 世界衛生組織（WHO）的標準，下列何者是符合chronic myeloid leukemia（CML）進入加速期\n（accelerated phase）的最重要的特徵之一？",
+    "options": [
+      {
+        "label": "A",
+        "text": "blasts 5～9％in blood or bone marrow"
+      },
+      {
+        "label": "B",
+        "text": "blood basophilia≧20％"
+      },
+      {
+        "label": "C",
+        "text": "stable platelet counts 150～200×109/L"
+      },
+      {
+        "label": "D",
+        "text": "normal spleen size"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "all_credit",
+    "answer": []
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q38",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 38 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 38,
+    "stem": "下列關於補體系統的敘述，何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "alternative pathway 是由活化C1-complex 為起始"
+      },
+      {
+        "label": "B",
+        "text": "補體反應的不同途徑中，皆會產生C3 convertase"
+      },
+      {
+        "label": "C",
+        "text": "補體活化系統有三種不同路徑：classical pathway、alternative pathway、lectin complement pathway"
+      },
+      {
+        "label": "D",
+        "text": "classical pathway 中補體系統的活化是因為抗體與抗原結合引發的"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q39",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 39 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 39,
+    "stem": "有關急性骨髓性白血病中的FMS-like tyrosine kinase 3-Internal tandem duplication（FLT3-ITD）基因\n突變之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是in-frame insertion mutation"
+      },
+      {
+        "label": "B",
+        "text": "造成constitutive tyrosine kinase activation"
+      },
+      {
+        "label": "C",
+        "text": "發生於約5％的成人急性骨髓性白血病患者"
+      },
+      {
+        "label": "D",
+        "text": "帶有此突變的患者，已有標靶藥物可選擇"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q40",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 40 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 40,
+    "stem": "顯微鏡觀察慢性骨髓性白血病（CML）在chronic phase 時的周邊血液抹片，最不可能看到下列何種變化？",
+    "options": [
+      {
+        "label": "A",
+        "text": "hyperleukocytosis"
+      },
+      {
+        "label": "B",
+        "text": "hypersegmented neutrophil"
+      },
+      {
+        "label": "C",
+        "text": "eosinophilia"
+      },
+      {
+        "label": "D",
+        "text": "basophilia"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q41",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 41 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 41,
+    "stem": "下列何種檢驗最適合鑑別診斷leukemoid reaction 與chronic myeloid leukemia（CML）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "leukocytosis 程度"
+      },
+      {
+        "label": "B",
+        "text": "shift to the left 程度"
+      },
+      {
+        "label": "C",
+        "text": "neutrophils with toxic granules"
+      },
+      {
+        "label": "D",
+        "text": "leukocyte alkaline phosphatase（LAP）score"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q42",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 42 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 42,
+    "stem": "骨髓增生腫瘤患者之血小板數值＞1,600×109/L，下列何者是此病人臨床上出現出血症狀的最可能機制？",
+    "options": [
+      {
+        "label": "A",
+        "text": "因造血幹細胞異常而產生功能異常之血小板"
+      },
+      {
+        "label": "B",
+        "text": "血小板過高造成群聚成團（clumping），導致無法發揮正常功能"
+      },
+      {
+        "label": "C",
+        "text": "大量血小板結合VWF，造成長鏈VWF 消耗，導致VWF 功能下降"
+      },
+      {
+        "label": "D",
+        "text": "大量血小板結合內皮細胞，造成血管之完整性受損而出血"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q43",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 43 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 43,
+    "stem": "下列何者不是臨床上影響warfarin 藥效監測結果之因素？",
+    "options": [
+      {
+        "label": "A",
+        "text": "進食含大量vitamin K 之食物，如深綠色蔬菜"
+      },
+      {
+        "label": "B",
+        "text": "監測（採血）時間點與常規服藥時間點之間隔時間差距太短"
+      },
+      {
+        "label": "C",
+        "text": "維生素K 還原酶（vitamin K epoxide reductase complex, VKORC）之基因多型性"
+      },
+      {
+        "label": "D",
+        "text": "合併使用會影響CYP2C9 代謝路徑的藥物"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q44",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 44 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 44,
+    "stem": "下列抗血小板藥物與其抑制標的之配對何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "clopidogrel：ADP receptor P2Y12"
+      },
+      {
+        "label": "B",
+        "text": "abciximab：GPIIb/IIIa"
+      },
+      {
+        "label": "C",
+        "text": "dipyridamole：ADP receptor P2Y1"
+      },
+      {
+        "label": "D",
+        "text": "aspirin：cyclooxygenase（COX）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q45",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 45 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 45,
+    "stem": "有關Wiskott-Aldrich syndrome 的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是一種性聯遺傳疾病"
+      },
+      {
+        "label": "B",
+        "text": "血小板數目異常增加"
+      },
+      {
+        "label": "C",
+        "text": "出現巨大血小板（giant platelet）"
+      },
+      {
+        "label": "D",
+        "text": "WAS 基因的產物是血小板之穿膜（transmembrane）醣蛋白"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q46",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 46 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 46,
+    "stem": "有關Factor VIII 與von Willebrand factor（VWF）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "二者都是肝細胞（hepatocyte）製造的血漿蛋白質，VWF 為factor VIII 之攜帶者"
+      },
+      {
+        "label": "B",
+        "text": "Factor VIII 與VWF 分離後，可做為factor IX cofactor"
+      },
+      {
+        "label": "C",
+        "text": "a disintegrin and metalloprotease with thrombospondin motif 13（ADAMTS 13）負責切割水解二者之\n共價鍵結"
+      },
+      {
+        "label": "D",
+        "text": "Type 2B VWD 之疾病機制是VWF 鍵結factor VIII 能力異常過強"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q47",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 47 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 47,
+    "stem": "Clauss fibrinogen assay 主要是使用下列何者來檢驗fibrinogen？",
+    "options": [
+      {
+        "label": "A",
+        "text": "prothrombinase"
+      },
+      {
+        "label": "B",
+        "text": "factor IXa"
+      },
+      {
+        "label": "C",
+        "text": "thrombin"
+      },
+      {
+        "label": "D",
+        "text": "factor Xa"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q48",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 48 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 48,
+    "stem": "有關phospholipid 參與凝血因子形成的複合物，下列何種組合最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "factor Xa/factor Va"
+      },
+      {
+        "label": "B",
+        "text": "factor XIIIa/factor IIa"
+      },
+      {
+        "label": "C",
+        "text": "protein C/protein S"
+      },
+      {
+        "label": "D",
+        "text": "factor IXa/factor VIIIa"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q49",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 49 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 49,
+    "stem": "下列何者是protein C 在凝血路徑（coagulation cascade）中最主要的功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活化factor X"
+      },
+      {
+        "label": "B",
+        "text": "抑制factor Va 和factor VIIIa"
+      },
+      {
+        "label": "C",
+        "text": "將fibrinogen 轉化為fibrin"
+      },
+      {
+        "label": "D",
+        "text": "抑制prothrombin 活化形成prethrombin"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q50",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 50 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 50,
+    "stem": "有關血小板活化後促進凝血與止血的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "活化血小板可提供凝血作用所需的phospholipids"
+      },
+      {
+        "label": "B",
+        "text": "產生thromboxane A2來促進血管收縮"
+      },
+      {
+        "label": "C",
+        "text": "釋出α-granule 內的ADP 來增強血小板的次級凝集反應"
+      },
+      {
+        "label": "D",
+        "text": "釋出Dense granules 內的serotonin 來促進血管收縮"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q51",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 51 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 51,
+    "stem": "下列何者未參與ADP 刺激血小板活化後，產生thromboxane A2進而引起的凝集反應？",
+    "options": [
+      {
+        "label": "A",
+        "text": "phospholipase"
+      },
+      {
+        "label": "B",
+        "text": "cyclooxygenase"
+      },
+      {
+        "label": "C",
+        "text": "thromboxane synthase"
+      },
+      {
+        "label": "D",
+        "text": "ADAMTS 13"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q52",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 52 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 52,
+    "stem": "下列何者最主要存在於血小板的α-granule，而幾乎不存在於血漿之中？",
+    "options": [
+      {
+        "label": "A",
+        "text": "PF4"
+      },
+      {
+        "label": "B",
+        "text": "von Willebrand factor"
+      },
+      {
+        "label": "C",
+        "text": "fibrinogen"
+      },
+      {
+        "label": "D",
+        "text": "factor V"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q53",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 53 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 53,
+    "stem": "有關一階段凝血檢驗方法（one-stage clotting method）檢驗嚴重型A 型血友病人凝血因子活性的標準作業\n程序，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "標準參考曲線使用3 點（含）以上濃度執行校正時，病人檢體無須以不同稀釋倍數檢測"
+      },
+      {
+        "label": "B",
+        "text": "標準參考曲線使用單點濃度執行校正時，病人檢體只須以2 個不同稀釋倍數檢測"
+      },
+      {
+        "label": "C",
+        "text": "標準參考曲線使用3 點（含）以上濃度執行校正時，病人檢體應至少以2 個不同稀釋倍數檢測"
+      },
+      {
+        "label": "D",
+        "text": "標準參考曲線使用單點濃度執行校正時，病人檢體無須以不同稀釋倍數檢測"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q54",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 54 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 54,
+    "stem": "下列何種抗體的檢測，需將病人與正常混合血漿（pooled normal plasma）進行1：1 混合後，置於37℃孵\n育2 小時再檢驗？",
+    "options": [
+      {
+        "label": "A",
+        "text": "第八凝血因子抗體（factor VIII inhibitor）"
+      },
+      {
+        "label": "B",
+        "text": "anti-β2 GP1 antibody"
+      },
+      {
+        "label": "C",
+        "text": "anticardiolipin antibody"
+      },
+      {
+        "label": "D",
+        "text": "狼瘡抗凝血素（lupus anticoagulant）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q55",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 55 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 55,
+    "stem": "下列何者不具有絲胺酸蛋白酶功能區域（serine protease domain）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "factor XIII"
+      },
+      {
+        "label": "B",
+        "text": "protein C"
+      },
+      {
+        "label": "C",
+        "text": "factor IX"
+      },
+      {
+        "label": "D",
+        "text": "factor X"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q56",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 56 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 56,
+    "stem": "有關血漿中的fibrinopeptide A 及B 的來源，下列敘述何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由thrombin 作用於fibrinogen 所產生的產物"
+      },
+      {
+        "label": "B",
+        "text": "由plasmin 作用於fibrin 聚合物所產生的產物"
+      },
+      {
+        "label": "C",
+        "text": "由factor XIIIa 作用於fibrinogen 所產生的產物"
+      },
+      {
+        "label": "D",
+        "text": "由trypsin 作用於fibrin 聚合物所產生的產物"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q57",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 57 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 57,
+    "stem": "70 歲男性病人有右下肢自發性血腫，但未接受抗血栓治療，其PT、APTT、血球計數結果皆正常，接續的檢驗\n項目，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "dilute Russell viper venom time（dRVVT）試驗"
+      },
+      {
+        "label": "B",
+        "text": "factor XIII 檢測"
+      },
+      {
+        "label": "C",
+        "text": "Clauss fibrinogen assay"
+      },
+      {
+        "label": "D",
+        "text": "血栓彈力圖（thromboelastography）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q58",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 58 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 58,
+    "stem": "正常的成熟VWF 聚合體（polymer）不具有下列何種功能區域（domain）？",
+    "options": [
+      {
+        "label": "A",
+        "text": "factor IX 結合區塊"
+      },
+      {
+        "label": "B",
+        "text": "collagen 結合區塊"
+      },
+      {
+        "label": "C",
+        "text": "GPIIb/IIIa 結合區塊"
+      },
+      {
+        "label": "D",
+        "text": "GPIb 結合區塊"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q59",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 59 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 59,
+    "stem": "下列何者不是常規APTT 凝血檢驗使用的試劑？",
+    "options": [
+      {
+        "label": "A",
+        "text": "氯化鈣（calcium chloride）"
+      },
+      {
+        "label": "B",
+        "text": "白陶土（kaolin）"
+      },
+      {
+        "label": "C",
+        "text": "磷脂質（phospholipid）"
+      },
+      {
+        "label": "D",
+        "text": "肝素（heparin）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q60",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 60 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 60,
+    "stem": "有關von Willebrand factor（VWF）的敘述，下列何者最適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "僅特異性表現於巨核球（megakaryocytes）"
+      },
+      {
+        "label": "B",
+        "text": "其主要功能包括：調控血小板非特異性附著於血管壁的能力，並與factor VIII 及factor V 結合，以穩定\n其結構"
+      },
+      {
+        "label": "C",
+        "text": "可結合至血小板表面醣蛋白GPIIb/IIIa 及GPIb/IX/V"
+      },
+      {
+        "label": "D",
+        "text": "多以單體（monomer）形式存在，以增加其與血小板的附著面積"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q61",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 61 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 61,
+    "stem": "凝血檢測如圖示，A 區塊是僅為APTT 檢測之凝血因子，B 區塊是僅為PT 檢測之凝血因子，而C 區塊是同時被\nPT 與APTT 檢測的凝血因子。第五凝血因子與第八凝血因子分別在何區塊？",
+    "options": [
+      {
+        "label": "A",
+        "text": "B，A"
+      },
+      {
+        "label": "B",
+        "text": "C，A"
+      },
+      {
+        "label": "C",
+        "text": "C，B"
+      },
+      {
+        "label": "D",
+        "text": "均在A 區塊"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q61_p13.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q62",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 62 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 62,
+    "stem": "下列何種治療可避免或降低Rh 陰性孕婦懷Rh 陽性胎兒而產生anti-D？",
+    "options": [
+      {
+        "label": "A",
+        "text": "RhIg prophylaxis 的使用（Rhogam 注射）"
+      },
+      {
+        "label": "B",
+        "text": "使用抗凝血劑"
+      },
+      {
+        "label": "C",
+        "text": "使用免疫抑制劑"
+      },
+      {
+        "label": "D",
+        "text": "血漿置換"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q63",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 63 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 63,
+    "stem": "有關ABH 抗原與抗體的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "ABO 血型系統具遺傳性"
+      },
+      {
+        "label": "B",
+        "text": "ABO 血型抗原屬於穿膜蛋白（transmembrane protein）"
+      },
+      {
+        "label": "C",
+        "text": "ABO 血型系統之亞血型成因源自基因變異"
+      },
+      {
+        "label": "D",
+        "text": "其相對應抗體為規則抗體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q64",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 64 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 64,
+    "stem": "抗體篩檢結果如下表，則下列何種檢驗可確認其抗體種類？",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anti-C3d 單株抗人類球蛋白試驗（monoclonal anti-human globulin test）"
+      },
+      {
+        "label": "B",
+        "text": "抗體鑑定試驗（antibody identification test）"
+      },
+      {
+        "label": "C",
+        "text": "交叉試驗（crossmatch）"
+      },
+      {
+        "label": "D",
+        "text": "紅血球凝集抑制試驗（hemagglutination-inhibition test）"
+      }
+    ],
+    "has_image": true,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q64_p14.png"
+    ],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q65",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 65 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 65,
+    "stem": "有關界達電位（zeta potential）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "紅血球表面帶有相當多的唾酸（sialic acid）"
+      },
+      {
+        "label": "B",
+        "text": "紅血球表面負電荷過多，會吸附溶液中的陽離子圍繞著紅血球"
+      },
+      {
+        "label": "C",
+        "text": "有部分陽離子會隨著紅血球移動"
+      },
+      {
+        "label": "D",
+        "text": "是紅血球內部所測得的靜電壓"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q66",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 66 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 66,
+    "stem": "有關米田堡血型（Miltenberger, Mi）系統的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "發生在白種人的頻率極高"
+      },
+      {
+        "label": "B",
+        "text": "經由不等交換（unequal crossing-over）或基因轉換（gene conversion）機轉所產生的雜合蛋白鏈"
+      },
+      {
+        "label": "C",
+        "text": "國人最常見的是GP.Mur（Mi. III）抗原所產生的抗體"
+      },
+      {
+        "label": "D",
+        "text": "與MNSs 血型相關"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q67",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 67 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 67,
+    "stem": "有關白血球之輸血反應作用機轉，下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "受血者之白血球抗體對抗輸入之白血球，可導致非溶血性發熱式輸血反應（febrile nonhemolytic\ntransfusion reaction）"
+      },
+      {
+        "label": "B",
+        "text": "HLA 抗體異體免疫是受血者抗原呈現細胞（antigen presenting cell）造成HLA 致敏化的關鍵（HLA\nalloimmunization）"
+      },
+      {
+        "label": "C",
+        "text": "輸入之淋巴球對抗受血者之反應，可導致輸血相關移植物抗宿主反應（transfusion associated graft vs.\nhost reaction）"
+      },
+      {
+        "label": "D",
+        "text": "輸入之顆粒球抗體與顆粒球結合，可導致輸血相關急性肺損傷（transfusion related acute lung\ninjury）"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q68",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 68 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 68,
+    "stem": "有關血品中所含白血球數目與發生HLA 異體免疫比例之敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "殘餘白血球數為105，發生HLA 異體免疫之比例甚少"
+      },
+      {
+        "label": "B",
+        "text": "殘餘白血球數為105～107，發生HLA 異體免疫之比例約為15％"
+      },
+      {
+        "label": "C",
+        "text": "殘餘白血球數為＞107，發生HLA 異體免疫之比例約為50％"
+      },
+      {
+        "label": "D",
+        "text": "殘餘白血球數與發生HLA 異體免疫之比例並無相關性"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q69",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 69 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 69,
+    "stem": "有關抗球蛋白試驗的敘述，下列何者最不適當？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血清與血球的比例維持40：1 較為理想"
+      },
+      {
+        "label": "B",
+        "text": "白蛋白介質可以透過增加介電常數，使血球距離縮短，容易發生凝集"
+      },
+      {
+        "label": "C",
+        "text": "LISS 介質主要可以促進抗體吸附至血球，減少孵育時間，提高偵測敏感度"
+      },
+      {
+        "label": "D",
+        "text": "polyethylene glycol（PEG）可以縮短紅血球間的距離，幫助凝集反應"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q70",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 70 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 70,
+    "stem": "有關直接抗球蛋白試驗，下列何者最不可能出現陽性結果？",
+    "options": [
+      {
+        "label": "A",
+        "text": "G6PD deficiency with oxidant stress"
+      },
+      {
+        "label": "B",
+        "text": "autoimmune hemolytic anemia"
+      },
+      {
+        "label": "C",
+        "text": "hemolytic disease of the newborn"
+      },
+      {
+        "label": "D",
+        "text": "Quinidine-induced hemolytic anemia"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q71",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 71 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 71,
+    "stem": "捐血疾病篩檢作業，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "梅毒及螺旋體感染風險，以問卷或口頭詢問方式進行篩檢，未做檢驗"
+      },
+      {
+        "label": "B",
+        "text": "B 型肝炎病毒感染風險，以血清學方式及核酸檢驗進行篩檢"
+      },
+      {
+        "label": "C",
+        "text": "瘧疾原蟲感染風險，以問卷或口頭詢問方式進行篩檢，未做檢驗"
+      },
+      {
+        "label": "D",
+        "text": "HTLV 病毒感染風險，以血清學方式篩檢，未做核酸檢驗"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q72",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 72 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 72,
+    "stem": "有關捐血規定與血品製備，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "捐全血500 c.c.者，需間隔3 個月始可再捐血"
+      },
+      {
+        "label": "B",
+        "text": "男性與女性，捐血篩檢用之硫酸銅溶液比重不同"
+      },
+      {
+        "label": "C",
+        "text": "新鮮冷凍血漿保存於-20℃以下，其保存期限為2 年"
+      },
+      {
+        "label": "D",
+        "text": "冷凍沉澱品保存於-20℃以下，輸用前需在30～37℃解凍"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q73",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 73 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 73,
+    "stem": "有關輸血反應之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "血漿含量較多的血品，發生輸血相關急性肺損傷之風險較高"
+      },
+      {
+        "label": "B",
+        "text": "輸血相關急性肺損傷病人，可能會短暫性白血球數目下降"
+      },
+      {
+        "label": "C",
+        "text": "紅血球血品之細菌污染的風險較血小板血品大"
+      },
+      {
+        "label": "D",
+        "text": "愛滋病病患可以輸注未經輻射照射之血品"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q74",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 74 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 74,
+    "stem": "一袋紅血球濃厚液最長必須要在多少時間內輸注完畢？",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 分鐘"
+      },
+      {
+        "label": "B",
+        "text": "1 小時"
+      },
+      {
+        "label": "C",
+        "text": "4 小時"
+      },
+      {
+        "label": "D",
+        "text": "8 小時"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q75",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 75 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 75,
+    "stem": "下列何者為國人ABO 血型系統最常見的亞型？",
+    "options": [
+      {
+        "label": "A",
+        "text": "A1"
+      },
+      {
+        "label": "B",
+        "text": "A2"
+      },
+      {
+        "label": "C",
+        "text": "B3"
+      },
+      {
+        "label": "D",
+        "text": "Bm"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q76",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 76 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 76,
+    "stem": "在臺灣使用的手工凝聚胺試驗（modified manual polybrene test），下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "紅血球試劑和病患血清置於低離子介質中混合，可加速抗體吸附紅血球"
+      },
+      {
+        "label": "B",
+        "text": "加入凝聚胺之目的是使紅血球產生凝聚"
+      },
+      {
+        "label": "C",
+        "text": "加入檸檬酸鈉之目的是驅散紅血球的非特異性凝聚"
+      },
+      {
+        "label": "D",
+        "text": "可檢測出anti-K 抗體"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q77",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 77 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 77,
+    "stem": "有關血袋抗凝保存液之敘述，下列何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "對各類型血球之功能的保存效果一致"
+      },
+      {
+        "label": "B",
+        "text": "都是以保存全血為目的所設計"
+      },
+      {
+        "label": "C",
+        "text": "分離後紅血球濃厚液分配到的抗凝保存液較少"
+      },
+      {
+        "label": "D",
+        "text": "成分含有dextrose"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q78",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 78 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 78,
+    "stem": "以電阻阻抗原理做血球計數之優缺點，下列敘述何者錯誤？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不適用於常規血液細胞的計數和大小測量"
+      },
+      {
+        "label": "B",
+        "text": "高再現性"
+      },
+      {
+        "label": "C",
+        "text": "低敏感性"
+      },
+      {
+        "label": "D",
+        "text": "氣泡或血脂可能干擾結果"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q79",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 79 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 79,
+    "stem": "下列那些細胞標記陽性時可以反映急性淋巴性白血病的淋巴前驅細胞（lymphoblast）之不成熟度\n（immaturity）？①CD24 ②CD34 ③terminal deoxynucleotidyl transferase（TdT） ④CD123 ⑤\nCD117",
+    "options": [
+      {
+        "label": "A",
+        "text": "②③"
+      },
+      {
+        "label": "B",
+        "text": "④⑤"
+      },
+      {
+        "label": "C",
+        "text": "①⑤"
+      },
+      {
+        "label": "D",
+        "text": "②④"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "115-session1-hematology-blood-bank-seq04-q80",
+    "year": "115",
+    "exam_code": "1",
+    "exam_session": "1",
+    "source_label": "115 年第 1 回 臨床血液學與血庫學 第 80 題",
+    "subject": "臨床血液學與血庫學",
+    "subject_slug": "hematology-blood-bank",
+    "question_number": 80,
+    "stem": "有關流式細胞儀分析周邊血液正常血球之敘述，下列何者正確？",
+    "options": [
+      {
+        "label": "A",
+        "text": "forward scatter 訊號平均強度：淋巴球大於嗜中性球"
+      },
+      {
+        "label": "B",
+        "text": "side scatter 訊號平均強度：單核球大於淋巴球"
+      },
+      {
+        "label": "C",
+        "text": "CD45 螢光訊號平均強度：嗜中性球大於淋巴球"
+      },
+      {
+        "label": "D",
+        "text": "CD45 螢光訊號平均強度：紅血球大於淋巴球"
+      }
+    ],
+    "has_image": false,
+    "image_paths": [],
+    "source_pdf": "115_04_臨床血液學與血庫學_試題.pdf",
+    "answer_type": "single",
+    "answer": [
+      "B"
+    ]
+  }
+]
