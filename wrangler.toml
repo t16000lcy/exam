@@ -1,0 +1,6 @@
+name = "mlt-exam-ai-explain"
+main = "worker/ai-explain-worker.js"
+compatibility_date = "2026-06-23"
+
+[vars]
+OPENAI_MODEL = "gpt-4.1-mini"
