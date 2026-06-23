@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+uploads/pdf/
+uploads/parsed/
+data/parse_report.json
+*.log
+*.tsbuildinfo
+.env.local
+.DS_Store
+.pnpm-store/
+.wrangler/
+.vercel/
+__pycache__/
+*.pyc
+
+# Commit the corrected static question bank and generated image assets for Pages.

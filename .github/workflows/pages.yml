@@ -8,7 +8,7 @@ on:
       build_question_bank_from_drive:
         description: Sync Drive PDFs and rebuild question bank before deploy
         type: boolean
-        default: true
+        default: false
       sync_drive:
         description: Run scripts/sync_drive.py
         type: boolean
@@ -52,11 +52,11 @@ jobs:
           python-version: "3.12"
 
       - name: Install parser dependencies
-        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && (inputs.build_question_bank_from_drive || inputs.sync_drive || inputs.extract_questions || inputs.extract_answers || inputs.merge_question_answer || inputs.validate_question_bank)) }}
+        if: ${{ github.event_name == 'workflow_dispatch' && (inputs.build_question_bank_from_drive || inputs.sync_drive || inputs.extract_questions || inputs.extract_answers || inputs.merge_question_answer || inputs.validate_question_bank) }}
         run: pip install -r requirements.txt
 
       - name: Build question bank from Google Drive
-        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.build_question_bank_from_drive) }}
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.build_question_bank_from_drive }}
         run: |
           python scripts/sync_drive.py
           python scripts/extract_questions.py

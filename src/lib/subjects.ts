@@ -41,7 +41,7 @@ export const subjects: SubjectInfo[] = [
   {
     slug: 'serology-immunology-virology',
     name: '臨床血清免疫學與臨床病毒學',
-    shortName: '免疫病毒',
+    shortName: '血清免疫',
     accent: 'border-sky-700 bg-sky-50',
   },
 ];
