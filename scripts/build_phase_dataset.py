@@ -20,15 +20,6 @@ SUBJECTS = {
     "serology-immunology-virology": "臨床血清免疫學與臨床病毒學",
 }
 
-SUBJECT_CODES = {
-    "clinical-physiology-pathology": "01",
-    "hematology-blood-bank": "02",
-    "molecular-microscopy-parasitology": "03",
-    "microbiology-clinical-microbiology": "04",
-    "biochemistry-clinical-biochemistry": "05",
-    "serology-immunology-virology": "06",
-}
-
 PHASES = {
     "phase1": {
         "label": "Phase 1",
@@ -149,37 +140,6 @@ def build_cache(selected: dict[str, list[dict]], rules: list[dict]) -> dict:
     return cache
 
 
-def to_master_question(question: dict, rules: list[dict]) -> dict:
-    slug = question.get("subject_slug", "")
-    answer_type = question.get("answer_type")
-    is_all_correct = answer_type == "all_credit" or question.get("is_all_correct") is True
-    answer = "ALL" if is_all_correct else " 或 ".join(question.get("answer") or [])
-    options = {item.get("label", ""): item.get("text", "") for item in question.get("options", [])}
-    exam_round = "第一次" if str(question.get("exam_code")) == "1" else "第二次" if str(question.get("exam_code")) == "2" else str(question.get("exam_code", ""))
-    return {
-        "question_id": question.get("question_id") or question.get("id", ""),
-        "year": str(question.get("year", "")),
-        "exam_round": exam_round,
-        "subject_code": SUBJECT_CODES.get(slug, "unknown"),
-        "subject": question.get("subject") or SUBJECTS.get(slug, "待確認"),
-        "question_no": int(question.get("question_number") or question.get("question_no") or 0),
-        "question_text": question.get("question_text") or question.get("stem", ""),
-        "options": {label: options.get(label, "") for label in ["A", "B", "C", "D"]},
-        "correct_answer": answer,
-        "corrected_answer": question.get("corrected_answer", ""),
-        "is_all_correct": is_all_correct,
-        "requires_image": bool(question.get("requires_image", question.get("has_image"))),
-        "image_paths": question.get("image_paths", []),
-        "topic": infer_topic(question, rules),
-        "subtopic": question.get("subtopic", ""),
-        "source": {
-            "question_pdf": question.get("source_pdf", ""),
-            "answer_pdf": question.get("answer_pdf", ""),
-            "page": question.get("page"),
-        },
-    }
-
-
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--phase", choices=PHASES, default="phase1")
@@ -231,21 +191,6 @@ def main() -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
     write_json(Path("data/question_manifest.json"), manifest)
-    master_questions = [to_master_question(question, rules) for questions in selected.values() for question in questions]
-    answer_key = [
-        {
-            "question_id": question["question_id"],
-            "correct_answer": question["correct_answer"],
-            "corrected_answer": question["corrected_answer"],
-            "is_all_correct": question["is_all_correct"],
-        }
-        for question in master_questions
-    ]
-    write_json(Path("data/questions_master.json"), master_questions)
-    write_json(Path("data/answer_key_master.json"), answer_key)
-    reviewed_path = Path("data/ai_tutor_reviewed.json")
-    if not reviewed_path.exists():
-        write_json(reviewed_path, {})
     write_json(Path("data/parse_report.json"), {**parse_report, "image_question_count": len(image_questions), "missing_answer_count": len(missing_answers), "manual_review_count": len(manual_review)})
     write_json(Path("data/validation_report.json"), validation_report)
     write_json(Path("data/question_stats.json"), question_stats)

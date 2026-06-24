@@ -10,10 +10,10 @@ interface AiTutorCardProps {
 }
 
 const modes: Array<{ mode: AiTutorMode; label: string; icon: typeof Lightbulb }> = [
-  { mode: 'explain', label: '查看完整訂正', icon: Wand2 },
+  { mode: 'hint', label: '給我提示', icon: Lightbulb },
+  { mode: 'explain', label: '幫我訂正這題', icon: Wand2 },
   { mode: 'why_wrong', label: '為什麼我選錯？', icon: MessageCircleQuestion },
-  { mode: 'practice', label: '同觀念再練習', icon: Sparkles },
-  { mode: 'hint', label: '加入錯題本', icon: Lightbulb },
+  { mode: 'practice', label: '出一題相同觀念題', icon: Sparkles },
 ];
 
 export function AiTutorCard({ question, studentAnswer, correct }: AiTutorCardProps) {

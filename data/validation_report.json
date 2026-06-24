@@ -1,10 +1,9 @@
 {
   "ok": true,
-  "total_questions": 80,
-  "ai_tutor_items": 80,
-  "complete_ai_full_text_count": 0,
-  "template_count": 80,
+  "generated_at": "2026-06-23T19:42:28.513355+00:00",
+  "total_questions": 5280,
   "issues": [],
-  "extra_cache_ids": [],
-  "extra_cache_count": 0
+  "missing_answer_count": 0,
+  "image_question_count": 160,
+  "manual_review_count": 4419
 }

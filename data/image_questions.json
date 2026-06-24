@@ -1,5 +1,1325 @@
 [
   {
+    "question_id": "110-session1-clinical-physiology-pathology-seq01-q07",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 7,
+    "image_paths": [
+      "question-assets/generated/110/session_1/clinical-physiology-pathology/110_s1_clinical-physiology-pathology_q07_p02.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-clinical-physiology-pathology-seq01-q21",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/110/session_1/clinical-physiology-pathology/110_s1_clinical-physiology-pathology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-clinical-physiology-pathology-seq01-q23",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/110/session_1/clinical-physiology-pathology/110_s1_clinical-physiology-pathology_q23_p05.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q01",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 1,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q01_p01.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q10",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 10,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q10_p02.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q21",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q22",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 22,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q22_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q23",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q23_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q24",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 24,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q24_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q33",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 33,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q33_p06.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-clinical-physiology-pathology-seq13-q39",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 39,
+    "image_paths": [
+      "question-assets/generated/110/session_2/clinical-physiology-pathology/110_s2_clinical-physiology-pathology_q39_p07.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-clinical-physiology-pathology-seq01-q02",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 2,
+    "image_paths": [
+      "question-assets/generated/111/session_1/clinical-physiology-pathology/111_s1_clinical-physiology-pathology_q02_p01.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-clinical-physiology-pathology-seq01-q10",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 10,
+    "image_paths": [
+      "question-assets/generated/111/session_1/clinical-physiology-pathology/111_s1_clinical-physiology-pathology_q10_p02.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-clinical-physiology-pathology-seq01-q12",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 12,
+    "image_paths": [
+      "question-assets/generated/111/session_1/clinical-physiology-pathology/111_s1_clinical-physiology-pathology_q12_p03.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-clinical-physiology-pathology-seq01-q20",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 20,
+    "image_paths": [
+      "question-assets/generated/111/session_1/clinical-physiology-pathology/111_s1_clinical-physiology-pathology_q20_p04.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-clinical-physiology-pathology-seq01-q21",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/111/session_1/clinical-physiology-pathology/111_s1_clinical-physiology-pathology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-clinical-physiology-pathology-seq13-q02",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 2,
+    "image_paths": [
+      "question-assets/generated/111/session_2/clinical-physiology-pathology/111_s2_clinical-physiology-pathology_q02_p01.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-clinical-physiology-pathology-seq13-q11",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 11,
+    "image_paths": [
+      "question-assets/generated/111/session_2/clinical-physiology-pathology/111_s2_clinical-physiology-pathology_q11_p03.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-clinical-physiology-pathology-seq13-q22",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 22,
+    "image_paths": [
+      "question-assets/generated/111/session_2/clinical-physiology-pathology/111_s2_clinical-physiology-pathology_q22_p05.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-clinical-physiology-pathology-seq13-q23",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/111/session_2/clinical-physiology-pathology/111_s2_clinical-physiology-pathology_q23_p05.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q03",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 3,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q03_p01.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q09",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 9,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q09_p02.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q22",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 22,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q22_p04.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q23",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q23_p04.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q33",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 33,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q33_p06.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-clinical-physiology-pathology-seq01-q34",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 34,
+    "image_paths": [
+      "question-assets/generated/112/session_1/clinical-physiology-pathology/112_s1_clinical-physiology-pathology_q34_p06.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q03",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 3,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q03_p01.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q08",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 8,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q08_p02.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q09",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 9,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q09_p02.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q10",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 10,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q10_p03.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q26",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 26,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q26_p05.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-clinical-physiology-pathology-seq13-q40",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 40,
+    "image_paths": [
+      "question-assets/generated/112/session_2/clinical-physiology-pathology/112_s2_clinical-physiology-pathology_q40_p08.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q01",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 1,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q01_p01.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q02",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 2,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q02_p01.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q05",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 5,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q05_p02.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q21",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q23",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q23_p05.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-clinical-physiology-pathology-seq01-q31",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 31,
+    "image_paths": [
+      "question-assets/generated/113/session_1/clinical-physiology-pathology/113_s1_clinical-physiology-pathology_q31_p06.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-clinical-physiology-pathology-seq13-q03",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 3,
+    "image_paths": [
+      "question-assets/generated/113/session_2/clinical-physiology-pathology/113_s2_clinical-physiology-pathology_q03_p01.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-clinical-physiology-pathology-seq13-q10",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 10,
+    "image_paths": [
+      "question-assets/generated/113/session_2/clinical-physiology-pathology/113_s2_clinical-physiology-pathology_q10_p03.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-clinical-physiology-pathology-seq01-q09",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 9,
+    "image_paths": [
+      "question-assets/generated/114/session_1/clinical-physiology-pathology/114_s1_clinical-physiology-pathology_q09_p03.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-clinical-physiology-pathology-seq13-q01",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 1,
+    "image_paths": [
+      "question-assets/generated/114/session_2/clinical-physiology-pathology/114_s2_clinical-physiology-pathology_q01_p01.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-clinical-physiology-pathology-seq13-q09",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 9,
+    "image_paths": [
+      "question-assets/generated/114/session_2/clinical-physiology-pathology/114_s2_clinical-physiology-pathology_q09_p03.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-clinical-physiology-pathology-seq13-q31",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 31,
+    "image_paths": [
+      "question-assets/generated/114/session_2/clinical-physiology-pathology/114_s2_clinical-physiology-pathology_q31_p08.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-clinical-physiology-pathology-seq13-q32",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床生理學與病理學",
+    "question_number": 32,
+    "image_paths": [
+      "question-assets/generated/114/session_2/clinical-physiology-pathology/114_s2_clinical-physiology-pathology_q32_p08.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-clinical-physiology-pathology-seq01-q03",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 3,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q03_p01.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-clinical-physiology-pathology-seq01-q04",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 4,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q04_p02.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-clinical-physiology-pathology-seq01-q06",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 6,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q06_p02.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-clinical-physiology-pathology-seq01-q11",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床生理學與病理學",
+    "question_number": 11,
+    "image_paths": [
+      "question-assets/generated/115/session_1/clinical-physiology-pathology/115_s1_clinical-physiology-pathology_q11_p03.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-hematology-blood-bank-seq03-q21",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/110/session_1/hematology-blood-bank/110_s1_hematology-blood-bank_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-hematology-blood-bank-seq03-q31",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 31,
+    "image_paths": [
+      "question-assets/generated/110/session_1/hematology-blood-bank/110_s1_hematology-blood-bank_q31_p05.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-hematology-blood-bank-seq03-q65",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 65,
+    "image_paths": [
+      "question-assets/generated/110/session_1/hematology-blood-bank/110_s1_hematology-blood-bank_q65_p10.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-hematology-blood-bank-seq15-q14",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 14,
+    "image_paths": [
+      "question-assets/generated/110/session_2/hematology-blood-bank/110_s2_hematology-blood-bank_q14_p03.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-hematology-blood-bank-seq15-q23",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/110/session_2/hematology-blood-bank/110_s2_hematology-blood-bank_q23_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-hematology-blood-bank-seq15-q27",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 27,
+    "image_paths": [
+      "question-assets/generated/110/session_2/hematology-blood-bank/110_s2_hematology-blood-bank_q27_p05.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-hematology-blood-bank-seq15-q28",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 28,
+    "image_paths": [
+      "question-assets/generated/110/session_2/hematology-blood-bank/110_s2_hematology-blood-bank_q28_p05.png",
+      "question-assets/generated/manual/110-session2-hematology-blood-bank-seq15-q28_2.png",
+      "question-assets/generated/manual/110-session2-hematology-blood-bank-seq15-q28_3.png",
+      "question-assets/generated/manual/110-session2-hematology-blood-bank-seq15-q28_4.png",
+      "question-assets/generated/manual/110-session2-hematology-blood-bank-seq15-q28_5.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-hematology-blood-bank-seq15-q29",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 29,
+    "image_paths": [
+      "question-assets/generated/110/session_2/hematology-blood-bank/110_s2_hematology-blood-bank_q29_p06.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-hematology-blood-bank-seq03-q29",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 29,
+    "image_paths": [
+      "question-assets/generated/111/session_1/hematology-blood-bank/111_s1_hematology-blood-bank_q29_p05.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-hematology-blood-bank-seq03-q31",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 31,
+    "image_paths": [
+      "question-assets/generated/111/session_1/hematology-blood-bank/111_s1_hematology-blood-bank_q31_p05.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-hematology-blood-bank-seq03-q33",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 33,
+    "image_paths": [
+      "question-assets/generated/111/session_1/hematology-blood-bank/111_s1_hematology-blood-bank_q33_p06.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-hematology-blood-bank-seq03-q41",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 41,
+    "image_paths": [
+      "question-assets/generated/111/session_1/hematology-blood-bank/111_s1_hematology-blood-bank_q41_p07.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-hematology-blood-bank-seq15-q29",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 29,
+    "image_paths": [
+      "question-assets/generated/111/session_2/hematology-blood-bank/111_s2_hematology-blood-bank_q29_p06.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-hematology-blood-bank-seq15-q40",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 40,
+    "image_paths": [
+      "question-assets/generated/111/session_2/hematology-blood-bank/111_s2_hematology-blood-bank_q40_p10.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-hematology-blood-bank-seq15-q53",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 53,
+    "image_paths": [
+      "question-assets/generated/111/session_2/hematology-blood-bank/111_s2_hematology-blood-bank_q53_p13.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-hematology-blood-bank-seq15-q80",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 80,
+    "image_paths": [
+      "question-assets/generated/111/session_2/hematology-blood-bank/111_s2_hematology-blood-bank_q80_p18.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q21",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q21_p05.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q29",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 29,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q29_p06.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q37",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 37,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q37_p08.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q58",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 58,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q58_p11.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q62",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 62,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q62_p12.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-hematology-blood-bank-seq03-q80",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 80,
+    "image_paths": [
+      "question-assets/generated/112/session_1/hematology-blood-bank/112_s1_hematology-blood-bank_q80_p15.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-hematology-blood-bank-seq15-q21",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/112/session_2/hematology-blood-bank/112_s2_hematology-blood-bank_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-hematology-blood-bank-seq15-q28",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 28,
+    "image_paths": [
+      "question-assets/generated/112/session_2/hematology-blood-bank/112_s2_hematology-blood-bank_q28_p06.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-hematology-blood-bank-seq15-q41",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 41,
+    "image_paths": [
+      "question-assets/generated/112/session_2/hematology-blood-bank/112_s2_hematology-blood-bank_q41_p09.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q01",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 1,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q01_p01.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q34",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 34,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q34_p06.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q35",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 35,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q35_p07.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q40",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 40,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q40_p08.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q48",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 48,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q48_p09.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q49",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 49,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q49_p10.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q50",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 50,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q50_p10.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-hematology-blood-bank-seq03-q76",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 76,
+    "image_paths": [
+      "question-assets/generated/113/session_1/hematology-blood-bank/113_s1_hematology-blood-bank_q76_p14.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q06",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 6,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q06_p02.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q17",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 17,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q17_p04.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q21",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q21_p05.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q53",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 53,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q53_p11.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q62",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 62,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q62_p13.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-hematology-blood-bank-seq15-q71",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 71,
+    "image_paths": [
+      "question-assets/generated/113/session_2/hematology-blood-bank/113_s2_hematology-blood-bank_q71_p15.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q24",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 24,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q24_p05.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q25",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 25,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q25_p05.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q40",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 40,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q40_p09.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q51",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 51,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q51_p11.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q52",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 52,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q52_p12.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q59",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 59,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q59_p13.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-hematology-blood-bank-seq03-q70",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 70,
+    "image_paths": [
+      "question-assets/generated/114/session_1/hematology-blood-bank/114_s1_hematology-blood-bank_q70_p16.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-hematology-blood-bank-seq15-q23",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/114/session_2/hematology-blood-bank/114_s2_hematology-blood-bank_q23_p05.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-hematology-blood-bank-seq15-q36",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 36,
+    "image_paths": [
+      "question-assets/generated/114/session_2/hematology-blood-bank/114_s2_hematology-blood-bank_q36_p08.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q15",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 15,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q15_p03.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q17",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 17,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q17_p04.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q20",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 20,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q20_p05.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q34",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 34,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q34_p08.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q35",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 35,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q35_p08.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q61",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 61,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q61_p13.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-hematology-blood-bank-seq04-q64",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "臨床血液學與血庫學",
+    "question_number": 64,
+    "image_paths": [
+      "question-assets/generated/115/session_1/hematology-blood-bank/115_s1_hematology-blood-bank_q64_p14.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q51",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 51,
+    "image_paths": [
+      "question-assets/generated/110/session_1/molecular-microscopy-parasitology/110_s1_molecular-microscopy-parasitology_q51_p08.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q51_2.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q51_3.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q51_4.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q51_5.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q52",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 52,
+    "image_paths": [
+      "question-assets/generated/110/session_1/molecular-microscopy-parasitology/110_s1_molecular-microscopy-parasitology_q52_p08.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q72",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 72,
+    "image_paths": [
+      "question-assets/generated/110/session_1/molecular-microscopy-parasitology/110_s1_molecular-microscopy-parasitology_q72_p11.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q74",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 74,
+    "image_paths": [
+      "question-assets/generated/110/session_1/molecular-microscopy-parasitology/110_s1_molecular-microscopy-parasitology_q74_p12.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q74_2.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q74_3.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q74_4.png",
+      "question-assets/generated/manual/110-session1-molecular-microscopy-parasitology-seq05-q74_5.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q75",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 75,
+    "image_paths": [
+      "question-assets/generated/110/session_1/molecular-microscopy-parasitology/110_s1_molecular-microscopy-parasitology_q75_p12.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q08",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 8,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q08_p02.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q23",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 23,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q23_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q36",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 36,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q36_p06.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q39",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 39,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q39_p07.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q77",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 77,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q77_p13.png",
+      "question-assets/generated/manual/110-session2-molecular-microscopy-parasitology-seq17-q77_2.png",
+      "question-assets/generated/manual/110-session2-molecular-microscopy-parasitology-seq17-q77_3.png",
+      "question-assets/generated/manual/110-session2-molecular-microscopy-parasitology-seq17-q77_4.png",
+      "question-assets/generated/manual/110-session2-molecular-microscopy-parasitology-seq17-q77_5.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q78",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 78,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q78_p14.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-molecular-microscopy-parasitology-seq17-q79",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 79,
+    "image_paths": [
+      "question-assets/generated/110/session_2/molecular-microscopy-parasitology/110_s2_molecular-microscopy-parasitology_q79_p14.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-molecular-microscopy-parasitology-seq05-q17",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 17,
+    "image_paths": [
+      "question-assets/generated/111/session_1/molecular-microscopy-parasitology/111_s1_molecular-microscopy-parasitology_q17_p03.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-molecular-microscopy-parasitology-seq05-q62",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 62,
+    "image_paths": [
+      "question-assets/generated/111/session_1/molecular-microscopy-parasitology/111_s1_molecular-microscopy-parasitology_q62_p10.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q50",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 50,
+    "image_paths": [
+      "question-assets/generated/112/session_1/molecular-microscopy-parasitology/112_s1_molecular-microscopy-parasitology_q50_p09.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q52",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 52,
+    "image_paths": [
+      "question-assets/generated/112/session_1/molecular-microscopy-parasitology/112_s1_molecular-microscopy-parasitology_q52_p10.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-molecular-microscopy-parasitology-seq17-q07",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 7,
+    "image_paths": [
+      "question-assets/generated/112/session_2/molecular-microscopy-parasitology/112_s2_molecular-microscopy-parasitology_q07_p02.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-molecular-microscopy-parasitology-seq17-q79",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 79,
+    "image_paths": [
+      "question-assets/generated/112/session_2/molecular-microscopy-parasitology/112_s2_molecular-microscopy-parasitology_q79_p14.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-molecular-microscopy-parasitology-seq05-q59",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 59,
+    "image_paths": [
+      "question-assets/generated/113/session_1/molecular-microscopy-parasitology/113_s1_molecular-microscopy-parasitology_q59_p11.png",
+      "question-assets/generated/manual/113-session1-molecular-microscopy-parasitology-seq05-q59_2.png",
+      "question-assets/generated/manual/113-session1-molecular-microscopy-parasitology-seq05-q59_3.png",
+      "question-assets/generated/manual/113-session1-molecular-microscopy-parasitology-seq05-q59_4.png",
+      "question-assets/generated/manual/113-session1-molecular-microscopy-parasitology-seq05-q59_5.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-molecular-microscopy-parasitology-seq05-q60",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 60,
+    "image_paths": [
+      "question-assets/generated/113/session_1/molecular-microscopy-parasitology/113_s1_molecular-microscopy-parasitology_q60_p11.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q21",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/113/session_2/molecular-microscopy-parasitology/113_s2_molecular-microscopy-parasitology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q38",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 38,
+    "image_paths": [
+      "question-assets/generated/113/session_2/molecular-microscopy-parasitology/113_s2_molecular-microscopy-parasitology_q38_p07.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q69",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 69,
+    "image_paths": [
+      "question-assets/generated/113/session_2/molecular-microscopy-parasitology/113_s2_molecular-microscopy-parasitology_q69_p13.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q71",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 71,
+    "image_paths": [
+      "question-assets/generated/113/session_2/molecular-microscopy-parasitology/113_s2_molecular-microscopy-parasitology_q71_p14.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-molecular-microscopy-parasitology-seq05-q71",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 71,
+    "image_paths": [
+      "question-assets/generated/114/session_1/molecular-microscopy-parasitology/114_s1_molecular-microscopy-parasitology_q71_p13.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-molecular-microscopy-parasitology-seq17-q65",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）",
+    "question_number": 65,
+    "image_paths": [
+      "question-assets/generated/114/session_2/molecular-microscopy-parasitology/114_s2_molecular-microscopy-parasitology_q65_p13.png"
+    ]
+  },
+  {
     "question_id": "115-session1-molecular-microscopy-parasitology-seq07-q07",
     "year": "115",
     "exam_code": "1",
@@ -27,6 +1347,292 @@
     "question_number": 73,
     "image_paths": [
       "question-assets/generated/115/session_1/molecular-microscopy-parasitology/115_s1_molecular-microscopy-parasitology_q73_p14.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-microbiology-clinical-microbiology-seq07-q69",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 69,
+    "image_paths": [
+      "question-assets/generated/111/session_1/microbiology-clinical-microbiology/111_s1_microbiology-clinical-microbiology_q69_p10.png",
+      "question-assets/generated/manual/111-session1-microbiology-clinical-microbiology-seq07-q69_2.png",
+      "question-assets/generated/manual/111-session1-microbiology-clinical-microbiology-seq07-q69_3.png",
+      "question-assets/generated/manual/111-session1-microbiology-clinical-microbiology-seq07-q69_4.png",
+      "question-assets/generated/manual/111-session1-microbiology-clinical-microbiology-seq07-q69_5.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-microbiology-clinical-microbiology-seq07-q70",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 70,
+    "image_paths": [
+      "question-assets/generated/111/session_1/microbiology-clinical-microbiology/111_s1_microbiology-clinical-microbiology_q70_p10.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-microbiology-clinical-microbiology-seq19-q72",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 72,
+    "image_paths": [
+      "question-assets/generated/111/session_2/microbiology-clinical-microbiology/111_s2_microbiology-clinical-microbiology_q72_p13.png"
+    ]
+  },
+  {
+    "question_id": "112-session2-microbiology-clinical-microbiology-seq19-q67",
+    "year": "112",
+    "exam_code": "2",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 67,
+    "image_paths": [
+      "question-assets/generated/112/session_2/microbiology-clinical-microbiology/112_s2_microbiology-clinical-microbiology_q67_p12.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-microbiology-clinical-microbiology-seq07-q72",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 72,
+    "image_paths": [
+      "question-assets/generated/113/session_1/microbiology-clinical-microbiology/113_s1_microbiology-clinical-microbiology_q72_p13.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q49",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 49,
+    "image_paths": [
+      "question-assets/generated/113/session_2/microbiology-clinical-microbiology/113_s2_microbiology-clinical-microbiology_q49_p09.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q65",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 65,
+    "image_paths": [
+      "question-assets/generated/113/session_2/microbiology-clinical-microbiology/113_s2_microbiology-clinical-microbiology_q65_p12.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-microbiology-clinical-microbiology-seq07-q65",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 65,
+    "image_paths": [
+      "question-assets/generated/114/session_1/microbiology-clinical-microbiology/114_s1_microbiology-clinical-microbiology_q65_p12.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-microbiology-clinical-microbiology-seq19-q65",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 65,
+    "image_paths": [
+      "question-assets/generated/114/session_2/microbiology-clinical-microbiology/114_s2_microbiology-clinical-microbiology_q65_p12.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-microbiology-clinical-microbiology-seq10-q53",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 53,
+    "image_paths": [
+      "question-assets/generated/115/session_1/microbiology-clinical-microbiology/115_s1_microbiology-clinical-microbiology_q53_p10.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-microbiology-clinical-microbiology-seq10-q67",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "微生物學與臨床微生物學（包括細菌與黴菌）",
+    "question_number": 67,
+    "image_paths": [
+      "question-assets/generated/115/session_1/microbiology-clinical-microbiology/115_s1_microbiology-clinical-microbiology_q67_p13.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-biochemistry-clinical-biochemistry-seq21-q07",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 7,
+    "image_paths": [
+      "question-assets/generated/111/session_2/biochemistry-clinical-biochemistry/111_s2_biochemistry-clinical-biochemistry_q07_p02.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-biochemistry-clinical-biochemistry-seq21-q76",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 76,
+    "image_paths": [
+      "question-assets/generated/111/session_2/biochemistry-clinical-biochemistry/111_s2_biochemistry-clinical-biochemistry_q76_p14.png"
+    ]
+  },
+  {
+    "question_id": "113-session1-biochemistry-clinical-biochemistry-seq09-q07",
+    "year": "113",
+    "exam_code": "1",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 7,
+    "image_paths": [
+      "question-assets/generated/113/session_1/biochemistry-clinical-biochemistry/113_s1_biochemistry-clinical-biochemistry_q07_p02.png"
+    ]
+  },
+  {
+    "question_id": "113-session2-biochemistry-clinical-biochemistry-seq21-q51",
+    "year": "113",
+    "exam_code": "2",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 51,
+    "image_paths": [
+      "question-assets/generated/113/session_2/biochemistry-clinical-biochemistry/113_s2_biochemistry-clinical-biochemistry_q51_p09.png"
+    ]
+  },
+  {
+    "question_id": "114-session1-biochemistry-clinical-biochemistry-seq09-q06",
+    "year": "114",
+    "exam_code": "1",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 6,
+    "image_paths": [
+      "question-assets/generated/114/session_1/biochemistry-clinical-biochemistry/114_s1_biochemistry-clinical-biochemistry_q06_p02.png",
+      "question-assets/generated/manual/114-session1-biochemistry-clinical-biochemistry-seq09-q06_2.png",
+      "question-assets/generated/manual/114-session1-biochemistry-clinical-biochemistry-seq09-q06_3.png",
+      "question-assets/generated/manual/114-session1-biochemistry-clinical-biochemistry-seq09-q06_4.png",
+      "question-assets/generated/manual/114-session1-biochemistry-clinical-biochemistry-seq09-q06_5.png"
+    ]
+  },
+  {
+    "question_id": "115-session1-biochemistry-clinical-biochemistry-seq13-q78",
+    "year": "115",
+    "exam_code": "1",
+    "subject": "生物化學與臨床生化學",
+    "question_number": 78,
+    "image_paths": [
+      "question-assets/generated/115/session_1/biochemistry-clinical-biochemistry/115_s1_biochemistry-clinical-biochemistry_q78_p14.png"
+    ]
+  },
+  {
+    "question_id": "110-session1-serology-immunology-virology-seq11-q38",
+    "year": "110",
+    "exam_code": "1",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 38,
+    "image_paths": [
+      "question-assets/generated/110/session_1/serology-immunology-virology/110_s1_serology-immunology-virology_q38_p06.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-serology-immunology-virology-seq23-q04",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 4,
+    "image_paths": [
+      "question-assets/generated/110/session_2/serology-immunology-virology/110_s2_serology-immunology-virology_q04_p01.png",
+      "question-assets/generated/manual/110-session2-serology-immunology-virology-seq23-q04_2.png",
+      "question-assets/generated/manual/110-session2-serology-immunology-virology-seq23-q04_3.png",
+      "question-assets/generated/manual/110-session2-serology-immunology-virology-seq23-q04_4.png",
+      "question-assets/generated/manual/110-session2-serology-immunology-virology-seq23-q04_5.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-serology-immunology-virology-seq23-q05",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 5,
+    "image_paths": [
+      "question-assets/generated/110/session_2/serology-immunology-virology/110_s2_serology-immunology-virology_q05_p01.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-serology-immunology-virology-seq23-q21",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 21,
+    "image_paths": [
+      "question-assets/generated/110/session_2/serology-immunology-virology/110_s2_serology-immunology-virology_q21_p04.png"
+    ]
+  },
+  {
+    "question_id": "110-session2-serology-immunology-virology-seq23-q40",
+    "year": "110",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 40,
+    "image_paths": [
+      "question-assets/generated/110/session_2/serology-immunology-virology/110_s2_serology-immunology-virology_q40_p07.png"
+    ]
+  },
+  {
+    "question_id": "111-session1-serology-immunology-virology-seq11-q49",
+    "year": "111",
+    "exam_code": "1",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 49,
+    "image_paths": [
+      "question-assets/generated/111/session_1/serology-immunology-virology/111_s1_serology-immunology-virology_q49_p08.png"
+    ]
+  },
+  {
+    "question_id": "111-session2-serology-immunology-virology-seq23-q56",
+    "year": "111",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 56,
+    "image_paths": [
+      "question-assets/generated/111/session_2/serology-immunology-virology/111_s2_serology-immunology-virology_q56_p10.png"
+    ]
+  },
+  {
+    "question_id": "112-session1-serology-immunology-virology-seq11-q72",
+    "year": "112",
+    "exam_code": "1",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 72,
+    "image_paths": [
+      "question-assets/generated/112/session_1/serology-immunology-virology/112_s1_serology-immunology-virology_q72_p14.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-serology-immunology-virology-seq23-q42",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 42,
+    "image_paths": [
+      "question-assets/generated/114/session_2/serology-immunology-virology/114_s2_serology-immunology-virology_q42_p08.png",
+      "question-assets/generated/manual/114-session2-serology-immunology-virology-seq23-q42_2.png",
+      "question-assets/generated/manual/114-session2-serology-immunology-virology-seq23-q42_3.png",
+      "question-assets/generated/manual/114-session2-serology-immunology-virology-seq23-q42_4.png",
+      "question-assets/generated/manual/114-session2-serology-immunology-virology-seq23-q42_5.png"
+    ]
+  },
+  {
+    "question_id": "114-session2-serology-immunology-virology-seq23-q49",
+    "year": "114",
+    "exam_code": "2",
+    "subject": "臨床血清免疫學與臨床病毒學",
+    "question_number": 49,
+    "image_paths": [
+      "question-assets/generated/114/session_2/serology-immunology-virology/114_s2_serology-immunology-virology_q49_p10.png"
     ]
   }
 ]
