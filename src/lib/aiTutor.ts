@@ -127,6 +127,8 @@ function formatTutorContent(question: Question, studentAnswer: string, content: 
   }
 
   return [
+    '尚未產生完整 AI 詳解；以下為依官方答案、題幹與選項建立的模板草稿。',
+    '',
     '【本題考點】',
     content.core_concept || inferTopic(question),
     '',
