@@ -1,0 +1,33 @@
+{
+  "fixed_count": 7,
+  "fixed": [
+    {
+      "question_id": "110-session2-biochemistry-clinical-biochemistry-seq21-q32",
+      "answer": "C（是黑色素（Melatonin）的前驅物） 或 D（含有咪唑（Imidazole）環狀結構）"
+    },
+    {
+      "question_id": "110-session2-hematology-blood-bank-seq15-q09",
+      "answer": "A（Basophilic stippling） 或 B（Howell-Jolly body） 或 C（Pappenheimer bodies） 或 D（Heinz bodies）"
+    },
+    {
+      "question_id": "110-session1-molecular-microscopy-parasitology-seq05-q09",
+      "answer": "B（會使白血球數目減少） 或 C（會影響激素分析）"
+    },
+    {
+      "question_id": "111-session1-biochemistry-clinical-biochemistry-seq09-q16",
+      "answer": "一律給分"
+    },
+    {
+      "question_id": "111-session1-biochemistry-clinical-biochemistry-seq09-q43",
+      "answer": "一律給分"
+    },
+    {
+      "question_id": "111-session1-biochemistry-clinical-biochemistry-seq09-q79",
+      "answer": "A（代謝性酸中毒陰離子差距（metabolic acidosis with anion gap）） 或 B（血清滲透壓差距（serum osmol gap）） 或 C（血清丙酮（serum acetone））"
+    },
+    {
+      "question_id": "111-session1-clinical-physiology-pathology-seq01-q57",
+      "answer": "C（第一類主要組織相容性複合體（class I MHC）） 或 D（第二類主要組織相容性複合體（class II MHC））"
+    }
+  ]
+}

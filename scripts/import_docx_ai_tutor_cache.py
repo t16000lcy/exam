@@ -8,6 +8,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zipfile import ZipFile
 
+from sanitize_ai_tutor_cache import sanitize_value
+
 
 SUBJECT_SLUGS = {
     "臨床生理學與病理學": "clinical-physiology-pathology",
@@ -167,7 +169,7 @@ def build_tutor_item(raw: dict, question: dict | None) -> dict:
     if question and question.get("answer_type") == "all_credit":
         warnings.append("官方答案為一律給分，不列入錯題統計")
 
-    return {
+    item = {
         "question_id": question.get("id") if question else "",
         "ai_version": "docx-v1",
         "review_status": "unreviewed",
@@ -187,6 +189,8 @@ def build_tutor_item(raw: dict, question: dict | None) -> dict:
         "source_docx": raw["source_docx"],
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
+    sanitized, _ = sanitize_value(item)
+    return sanitized
 
 
 def main() -> int:

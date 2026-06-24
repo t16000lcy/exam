@@ -1,7 +1,7 @@
 import type { AiTutorContent, Question } from '../types';
 import { getCorrectAnswerText, getQuestionId, inferTopic, requiresImage } from './questionMeta';
 
-export type AiTutorMode = 'hint' | 'explain' | 'why_wrong' | 'practice';
+export type AiTutorMode = 'explain';
 
 type AiTutorCache = Record<string, AiTutorContent>;
 
@@ -91,41 +91,7 @@ function buildTemplateTutor(question: Question): AiTutorContent {
 function formatTutorContent(question: Question, studentAnswer: string, content: AiTutorContent, mode: AiTutorMode) {
   const correctAnswer = getCorrectAnswerText(question);
   if (mode === 'explain' && content.ai_full_text) {
-    return content.ai_full_text;
-  }
-
-  if (mode === 'hint') {
-    return [
-      '【提示】',
-      requiresImage(question) ? '本題需搭配原圖判讀，先找圖中最有鑑別力的特徵。' : content.core_concept || '先找題幹關鍵字，再排除不符合的選項。',
-      '先不要看答案，試著說出每個選項與題幹的關係。',
-    ].join('\n');
-  }
-
-  if (mode === 'why_wrong') {
-    return [
-      '【為什麼我選錯？】',
-      `你選的是：${studentAnswer || '未作答'}`,
-      `正確答案是：${correctAnswer}`,
-      content.why_correct || '請比較你的選項與正確答案在題幹條件上的差異。',
-      requiresImage(question) ? '本題需搭配原圖判讀，未提供圖像細節時不應硬猜。' : '',
-    ]
-      .filter(Boolean)
-      .join('\n');
-  }
-
-  if (mode === 'practice') {
-    return [
-      '【再練習】',
-      content.practice_question || '請用同一觀念再練一題。',
-      content.practice_options.A ? `A：${content.practice_options.A}` : '',
-      content.practice_options.B ? `B：${content.practice_options.B}` : '',
-      content.practice_options.C ? `C：${content.practice_options.C}` : '',
-      content.practice_options.D ? `D：${content.practice_options.D}` : '',
-      content.practice_answer ? `答案：${content.practice_answer}` : '答案：請先自行作答，再回頭比對本題考點。',
-    ]
-      .filter(Boolean)
-      .join('\n');
+    return [formatQuestionBlock(question), content.ai_full_text].join('\n');
   }
 
   return [
@@ -151,5 +117,13 @@ function formatTutorContent(question: Question, studentAnswer: string, content: 
     '',
     '【再練習】',
     content.practice_question || '請學生回答一題相同觀念的變化題。',
+  ].join('\n');
+}
+
+function formatQuestionBlock(question: Question) {
+  return [
+    `題目：${question.question_text || question.stem}`,
+    ...question.options.map((option) => `${option.label}. ${option.text}`),
+    '',
   ].join('\n');
 }
