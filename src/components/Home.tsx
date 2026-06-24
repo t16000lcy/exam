@@ -16,8 +16,8 @@ interface HomeProps {
 export function Home({ lastResult, manifest, wrongBookCount, overallAccuracy, onStart, onOpenLast, onOpenWrongBook, onOpenWeakAnalysis }: HomeProps) {
   const availableSubjects = subjects.filter((subject) => !manifest || (manifest.subject_counts[subject.slug] || 0) > 0);
   const rangeText = manifest
-    ? `目前階段：${manifest.phase_label}，${manifest.range_text}，共${manifest.total_questions}題`
-    : '題目範圍：110年第一次國考~115年第一次國考，共5280題';
+    ? `國考題範圍：${manifest.range_text}，共${manifest.total_questions}題`
+    : '國考題範圍：110–115 年全部題目，共5280題';
 
   return (
     <main className="min-h-screen bg-paper">

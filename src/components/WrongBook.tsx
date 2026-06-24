@@ -27,7 +27,7 @@ export function WrongBook({ onBackHome }: WrongBookProps) {
         </button>
 
         <header className="rounded border border-stone-300 bg-white p-4 shadow-sm sm:p-5">
-          <p className="text-sm leading-6 text-stone-600">localStorage：medtech_exam_wrongbook_v1</p>
+          <p className="text-sm leading-6 text-stone-600">本次開啟網頁期間累積；關閉網頁後重新計算。</p>
           <h1 className="mt-1 text-2xl font-semibold text-ink sm:text-3xl">錯題本</h1>
           <div className="mt-5 grid gap-3 sm:grid-cols-3">
             <Metric label="錯題總數" value={items.length} />

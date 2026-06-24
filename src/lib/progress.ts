@@ -10,7 +10,7 @@ export function loadWrongBook(): WrongBookItem[] {
 }
 
 export function saveWrongBook(items: WrongBookItem[]) {
-  localStorage.setItem(wrongBookStorageKey, JSON.stringify(items));
+  sessionStorage.setItem(wrongBookStorageKey, JSON.stringify(items));
 }
 
 export function loadAttempts(): AttemptRecord[] {
@@ -63,7 +63,7 @@ export function recordQuizProgress(result: QuizResult) {
     }
   });
 
-  localStorage.setItem(attemptsStorageKey, JSON.stringify(attempts.slice(-2000)));
+  sessionStorage.setItem(attemptsStorageKey, JSON.stringify(attempts.slice(-2000)));
   saveWrongBook(Array.from(wrongBookById.values()));
 }
 
@@ -82,13 +82,13 @@ export function removeWrongBookItem(questionId: string) {
 }
 
 function readList<T>(key: string): T[] {
-  const raw = localStorage.getItem(key);
+  const raw = sessionStorage.getItem(key);
   if (!raw) return [];
   try {
     const parsed = JSON.parse(raw);
     return Array.isArray(parsed) ? parsed : [];
   } catch {
-    localStorage.removeItem(key);
+    sessionStorage.removeItem(key);
     return [];
   }
 }
