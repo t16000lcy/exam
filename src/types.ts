@@ -66,6 +66,7 @@ export interface QuizResult {
 
 export interface AiTutorContent {
   ai_full_text?: string;
+  review_status?: 'reviewed' | 'unreviewed' | string;
   core_concept: string;
   correct_answer_text: string;
   why_correct: string;

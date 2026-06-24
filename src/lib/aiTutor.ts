@@ -6,6 +6,7 @@ export type AiTutorMode = 'hint' | 'explain' | 'why_wrong' | 'practice';
 type AiTutorCache = Record<string, AiTutorContent>;
 
 let cachePromise: Promise<AiTutorCache> | null = null;
+let reviewedPromise: Promise<AiTutorCache> | null = null;
 
 export async function requestTutorContent(question: Question, studentAnswer: string, mode: AiTutorMode) {
   const apiUrl = (import.meta.env.VITE_AI_TUTOR_API_URL as string | undefined)?.trim();
@@ -25,8 +26,10 @@ export async function requestTutorContent(question: Question, studentAnswer: str
     }
   }
 
+  const questionId = getQuestionId(question);
+  const reviewed = await loadReviewedTutorCache();
   const cached = await loadTutorCache();
-  const content = cached[getQuestionId(question)] || question.ai_tutor || buildTemplateTutor(question);
+  const content = reviewed[questionId] || cached[questionId] || question.ai_tutor || buildTemplateTutor(question);
   return formatTutorContent(question, studentAnswer, content, mode);
 }
 
@@ -62,6 +65,15 @@ function loadTutorCache() {
   return cachePromise;
 }
 
+function loadReviewedTutorCache() {
+  if (!reviewedPromise) {
+    reviewedPromise = fetch(`${import.meta.env.BASE_URL}data/ai_tutor_reviewed.json`, { cache: 'no-store' })
+      .then((response) => (response.ok ? response.json() : {}))
+      .catch(() => ({}));
+  }
+  return reviewedPromise;
+}
+
 function buildTemplateTutor(question: Question): AiTutorContent {
   const correctAnswer = getCorrectAnswerText(question);
   const optionAnalysis = Object.fromEntries(
@@ -88,15 +100,17 @@ function buildTemplateTutor(question: Question): AiTutorContent {
 
 function formatTutorContent(question: Question, studentAnswer: string, content: AiTutorContent, mode: AiTutorMode) {
   const correctAnswer = getCorrectAnswerText(question);
-  if (mode === 'explain' && content.ai_full_text) {
-    return content.ai_full_text;
+  const hasFullExplanation =
+    Boolean(content.ai_full_text) && (content.generated_source === 'ai' || content.review_status === 'reviewed' || content.teacher_review_status === 'reviewed');
+  if (mode === 'explain' && hasFullExplanation) {
+    return content.ai_full_text || '';
   }
 
   if (mode === 'hint') {
     return [
-      '【提示】',
-      requiresImage(question) ? '本題需搭配原圖判讀，先找圖中最有鑑別力的特徵。' : content.core_concept || '先找題幹關鍵字，再排除不符合的選項。',
-      '先不要看答案，試著說出每個選項與題幹的關係。',
+      '【加入錯題本】',
+      '若本題答錯，系統已在送出測驗時自動加入錯題本。',
+      '你可以回首頁進入「錯題本」查看、標記已掌握或移除。',
     ].join('\n');
   }
 
@@ -127,7 +141,8 @@ function formatTutorContent(question: Question, studentAnswer: string, content: 
   }
 
   return [
-    '尚未產生完整 AI 詳解；以下為依官方答案、題幹與選項建立的模板草稿。',
+    '此題尚未建立完整 AI 訂正解析。',
+    '以下僅顯示依官方答案、題幹與選項建立的待補草稿。',
     '',
     '【本題考點】',
     content.core_concept || inferTopic(question),

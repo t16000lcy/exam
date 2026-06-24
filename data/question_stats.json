@@ -1,25 +1,19 @@
 {
-  "phase": "phase3",
-  "description": "110–115 年全部題目",
-  "total_questions": 5280,
+  "phase": "phase1",
+  "description": "115 年第一次「醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）」",
+  "total_questions": 80,
   "subject_counts": {
-    "clinical-physiology-pathology": 880,
-    "hematology-blood-bank": 880,
-    "molecular-microscopy-parasitology": 880,
-    "microbiology-clinical-microbiology": 880,
-    "biochemistry-clinical-biochemistry": 880,
-    "serology-immunology-virology": 880
+    "clinical-physiology-pathology": 0,
+    "hematology-blood-bank": 0,
+    "molecular-microscopy-parasitology": 80,
+    "microbiology-clinical-microbiology": 0,
+    "biochemistry-clinical-biochemistry": 0,
+    "serology-immunology-virology": 0
   },
   "year_counts": {
-    "110": 960,
-    "111": 960,
-    "112": 960,
-    "113": 960,
-    "114": 960,
-    "115": 480
+    "115": 80
   },
   "exam_code_counts": {
-    "1": 2880,
-    "2": 2400
+    "1": 80
   }
 }

@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-06-24T00:26:03.931268+00:00",
+  "has_openai_api_key": false,
+  "mode": "template",
+  "generated": 0,
+  "template": 80,
+  "failed": [],
+  "note": "未偵測到 OPENAI_API_KEY，依規則僅產生待補模板。"
+}

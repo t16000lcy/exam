@@ -1,1 +1,100 @@
-question_id,subject,topic,question_text,correct_answer,ai_core_concept,ai_why_correct,ai_option_A,ai_option_B,ai_option_C,ai_option_D,ai_memory_sentence,ai_practice_question,teacher_core_concept,teacher_why_correct,teacher_option_A,teacher_option_B,teacher_option_C,teacher_option_D,teacher_memory_sentence,teacher_practice_question,review_status,reviewer,reviewed_at,note
+﻿question_id,subject,topic,question_text,correct_answer,ai_full_text,teacher_full_text,review_status,reviewer,reviewed_at,note
+115-session1-molecular-microscopy-parasitology-seq07-q01,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關光學顯微鏡的物鏡標示為Apo 40X/0.95，160/-，下列何者正確？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q02,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關使用浸油技術目的之敘述，下列何者錯誤？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q03,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,集尿小管再吸收水分受何種激素所調控？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q04,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,尿液檢查,尿液試紙法檢測阻塞性黃疸尿液，最可能呈現下列何種結果？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q05,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,尿液檢查,下列何者是決定尿液培養必要性最有效的評估項目？①Ketones ②Leukocyte esterase ③pH ④Nitrite,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q06,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,使用Clinitest 檢測尿糖，其反應原理對下列何種糖類具有專一性？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q07,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,請依據下圖所示，回答下列3 題。圖中鏡檢尿沉渣結果，箭頭所指是何種細胞？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q08,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,此尿液檢體在臨床上最可能出現於下列何種病人？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q09,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,尿液檢查,此尿液檢體在尿試紙檢驗結果中，下列何者最有可能陽性？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q10,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,當病人有劇烈背痛及腹部痛，且醫生懷疑其有腎臟結石，通常會檢測尿液何種試驗？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q11,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,尿素主要在下列何種器官形成？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q12,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,尿液出現輕鏈免疫球蛋白時，與下列何種形式蛋白尿最有關？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q13,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者與紅色的糞便較沒有相關性？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q14,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,糞便呈現細長如帶狀（ribbon-like）的外觀時與下列何種疾病比較有相關性？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q15,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,糞便潛血試驗中的HemoQuant 試驗，是使用螢光比色計測定下列何種物質？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q16,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關痰液之敘述，下列何者錯誤？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q17,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於痰液檢驗的敘述，下列何者錯誤？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q18,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,體液檢查,有關腦脊髓液（CSF）的顯微鏡檢查，下列敘述何者錯誤？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q19,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,腦脊髓液的白血球計數，下列何者為最適合之稀釋液？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q20,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何種腦膜炎可用印度墨水染色（India ink stain）檢驗？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q21,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者為漿膜液抹片中，常用於細胞學觀察的染色法？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q22,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於體液乳酸測定之敘述，下列何者正確？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q23,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於胸膜液血清免疫學檢查之敘述，下列何者錯誤？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q24,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於區分濾出液（transudates）與滲出液（exudates）之敘述，下列何者錯誤？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q25,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"滑膜液進行結晶體分析時，為避免外源性結晶體的干擾，下列何者是正確的檢體處置方式？①使用液態EDTA
+抗凝劑 ②使用鈉－肝素（sodium heparin）抗凝劑 ③使用粉狀的抗凝劑 ④冷藏保存",A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q26,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於偏光顯微鏡結構的敘述，下列何者錯誤？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q27,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關精液檢查之敘述，下列何者錯誤？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q28,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,精液 neutral α-glucosidase 主要由下列何者分泌？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q29,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"人類絨毛膜性腺激素（hCG）的胺基酸序列與FSH、LH、TSH 等激素相似度很高，下列何者決定hCG 的抗原獨
+特性？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q30,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,懷孕試驗之呈色膠體複合物固相免疫分析法，乃使用下列何者？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q31,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關非洲錐蟲（African trypanosoma）蟲體在宿主的配對，下列何者正確？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q32,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者是檢驗埃及血吸蟲（Schistosoma haematobium）感染的最佳檢體？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q33,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,寄生蟲學,"改良式的Kinyoun’s 快速酸染色法（acid-fast stain）可提升下列何種寄生蟲卵囊（oocyst）的辨識度？
+①隱孢子蟲（Cryptosporidium parvum） ②貝氏等孢子蟲（Isospora belli） ③環孢子蟲（Cyclospora
+cayetanensis）",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q34,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,寄生蟲學,"檢查病人尿液檢體時，發現具有四條前鞭毛及一往後延伸的短波動膜（undulating membrane）的鞭毛蟲滋養
+體，此病人最可能感染下列何種寄生蟲？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q35,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"若有一微絲蟲（microfilaria），其長度約300 μm，不具鞘膜（sheath）且蟲體末端不具體核
+（nuclei），則最可能是下列何者的微絲蟲？",C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q36,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,寄生蟲學,成熟配子體（gametocyte）外形如新月（crescentic），是下列何種瘧原蟲（Plasmodium spp.）的特徵？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q37,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者可以檢測尿液檢體中的酮體？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q38,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,痰抹片的Charcot-Leyden 結晶，與下列何者最相關？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q39,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於特殊試驗法的應用，下列敘述何者錯誤？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q40,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者的蛋白質正常參考值最低？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q41,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關疾病與其基因突變的配對，下列何者最不適當？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q42,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,下列染色體基因內密碼子點突變（point mutation）中，何者為無義突變（nonsense mutation）？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q43,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"哺乳類 long interspersed nuclear element（LINE）與 short interspersed nuclear element（SINE）的
+重複DNA 片段屬於下列何種transposons？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q44,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,在真核細胞中，下列何者是透過post-transcription 的機制來調控目標基因的表現？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q45,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"下列何種發生在限制酶辨識序列上的基因變異，最不適合運用restriction fragment length polymorphism
+（RFLP）進行檢測？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q46,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於分子檢驗的檢體選擇、採集與萃取上須考量很多因素，下列何者不是必要因素？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q47,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,尿液檢查,關於hybridization 相關技術的比較，下列何者最正確？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q48,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,關於PCR、RT-PCR 及nested PCR 的敘述，下列何者最不適當？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q49,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,一名男性的Y 染色體STR 半倍型（haplotype）會和家族中的那位成員不同？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q50,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"進行基因表現微陣列晶片（gene expression microarray）之數據分析，各樣本所有基因點的原始訊號分布
+如圖所示。則比較各樣本間之基因相對表現量前，應先進行下列何種處理最適當？",A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q51,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"以次世代定序（next-generation sequencing, NGS）技術進行腫瘤基因突變檢測時，擴增過程常造成定序錯
+誤；下列何種方式可以最有效降低定序錯誤率？",C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q52,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,下列何種方法最不適合用於檢測遺傳疾病基因之點突變？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q53,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於光引導原位合成法（light-directed synthesis）之DNA 晶片，下列敘述何者最正確？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q54,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"關於增幅阻礙突變系統（amplification refractory mutation system, ARMS）的敘述，下列何者最不適
+當？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q55,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"關於變性梯度膠體電泳法（denaturing gradient gel electrophoresis, DGGE），下列敘述何者正確？",C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q56,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於次世代定序及傳統桑格定序的方法之敘述，下列何者最正確？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q57,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"序列特異性引子檢驗法（sequence specific primer-PCR）與特異性寡核苷酸試紙法（sequence specific
+oligonucleotide strip）常用於檢測HLA 等位基因，關於此兩種檢測法的比較，下列敘述何者最不適當？",B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q58,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何種抗凝血劑的血液檢體，最適用於DNA 分子檢驗？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q59,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於純化的RNA 核酸，下列敘述何者最不適當？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q60,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,關於分生實驗室的敘述，下列何者最不適當？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q61,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,基因註解（annotation）是次世代定序結果判讀中重要的一環，下列何者為進行基因註解的主要目的？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q62,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者是與遺傳疾病基因最相關的資料庫？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q63,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"某醫院因應傳染病檢驗需求，想要提供SARS-CoV-2 核酸定性檢測服務，擬參考世界衛生組織（WHO）所公告
+的方法，自行訂購引子、探針等real-time PCR 試劑進行檢測。在正式提供檢驗服務之前，該醫院需優先完
+成的檢驗品質評估報告為何？",C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q64,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,"某分子檢驗實驗室以自行開發檢測方法，執行下列四項檢驗並通過ISO15189 醫學實驗室認證。該實驗室對於
+紀錄保存年限的規定，下列何者最不適當？",B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q65,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,有關分子檢驗實驗室的品質管制，下列作法何者最不適當？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q66,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"針對現行臺灣食品藥物管理署（Taiwan Food and Drug Administration, TFDA）所核准的病毒量檢測試劑，
+分析的目標基因及其對應的分析方式，下列敘述何者錯誤？",ALL,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q67,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,下列菌種專一性基因與其細菌之配對，何者最不適當？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q68,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於MRSA 抗藥基因的敘述，下列何者最正確？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q69,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,病毒基因型與疾病病程或治療策略有關，下列何者最不適合用來做病毒基因型鑑定？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q70,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,在細菌分子鑑定的確認試驗或追加試驗中，下列何種方式最能提高陽性或陰性預測值？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q71,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,下列何者最不需要利用PCR 技術進行真菌之分析鑑定？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q72,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"以break-apart probes（分別帶有紅色與綠色螢光）進行染色體的原位螢光雜交法（FISH），發現99%之細
+胞的螢光訊號如圖所示，下列何種判讀最適當？",A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q73,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,"qPCR 技術可應用於染色體易位造成的fusion transcript 的絕對定量，如圖實線是連續10 倍稀釋100～109
+copies 的BCR-ABL1 fusion transcript 標準品的擴增曲線，虛線則為CML 病人檢體進行qPCR 後的擴增曲
+線。此檢體中BCR-ABL1 fusion transcript 的含量為何？",D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q74,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何種等位基因與抗癲癇藥物卡馬西平（carbamazepine）引發之史蒂文生強森症候群最有關？,B,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q75,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何者不屬於液態活檢（liquid biopsy）？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q76,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,關於人類乳突瘤病毒（HPV）的敘述，下列何者最不適當？,D,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q77,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,某實驗室近日擬提供抗癌藥物伴隨式基因檢測，下列何種檢測方法最不適用？,A,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q78,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,下列何種基因檢測最常被用來評估乳癌病人家族是否為高危險群？,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q79,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,待分類,藥物基因體學上所謂的poor metabolizer（PM），其定義是：,C,,,unreviewed,,,
+115-session1-molecular-microscopy-parasitology-seq07-q80,醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）,分子檢驗,關於臺灣常見的葡萄糖六磷酸去氫酶（G6PD）缺乏症基因型，下列敘述何者最不適當？,A,,,unreviewed,,,
