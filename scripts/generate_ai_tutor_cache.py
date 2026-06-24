@@ -82,10 +82,7 @@ def template_for(question: dict, topic: str) -> dict:
     is_all_correct = correct == "ALL"
     requires_image = bool(question.get("requires_image") or question.get("has_image") or question.get("image_paths"))
     needs_teacher_check = is_all_correct or requires_image or topic == "待分類"
-    exam_round = question.get("exam_round") or (
-        "第一次" if str(question.get("exam_code", "")) == "1" else "第二次" if str(question.get("exam_code", "")) == "2" else str(question.get("exam_code", ""))
-    )
-    source = f"{question.get('year', '')} 年{exam_round} {question.get('subject', '')} 第 {get_question_no(question)} 題"
+    source = f"{question.get('year', '')} 年第 {question.get('exam_round') or question.get('exam_code', '')} 回 {question.get('subject', '')} 第 {get_question_no(question)} 題"
 
     if is_all_correct:
         correct_answer_text = "本題官方答案為一律給分。"
