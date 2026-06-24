@@ -8,7 +8,30 @@ export function shuffle<T>(items: T[]) {
 }
 
 export function pickRandomQuestions(questions: Question[], count = 20) {
-  return shuffle(questions).slice(0, Math.min(count, questions.length));
+  const units = questions.flatMap((question, index) => {
+    if (isFollowUpQuestion(question) && index > 0) {
+      return [{ key: question.id, questions: [questions[index - 1], question] }];
+    }
+    return [{ key: question.id, questions: [question] }];
+  });
+  const picked: Question[] = [];
+  const used = new Set<string>();
+  for (const unit of shuffle(units)) {
+    const uniqueQuestions = unit.questions.filter((question) => !used.has(question.id));
+    if (uniqueQuestions.length === 0) continue;
+    if (unit.questions.length > 1 && uniqueQuestions.length !== unit.questions.length) continue;
+    if (picked.length + uniqueQuestions.length > count) continue;
+    uniqueQuestions.forEach((question) => {
+      picked.push(question);
+      used.add(question.id);
+    });
+    if (picked.length >= count) break;
+  }
+  return picked.slice(0, Math.min(count, questions.length));
+}
+
+function isFollowUpQuestion(question: Question) {
+  return /^承上題/.test((question.stem || question.question_text || '').trim());
 }
 
 export function isCorrect(question: Question, answer: string) {
@@ -22,6 +45,7 @@ export function buildResult(
   subject: string,
   questions: Question[],
   answers: UserAnswer[],
+  mode?: QuizResult['mode'],
 ): QuizResult {
   const answerByQuestionId = new Map<string, string>();
   answers.forEach((item) => {
@@ -38,6 +62,7 @@ export function buildResult(
   return {
     subjectSlug,
     subject,
+    mode,
     submittedAt: new Date().toISOString(),
     questions,
     answers,

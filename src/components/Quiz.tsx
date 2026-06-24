@@ -1,10 +1,13 @@
-import { ArrowLeft, CheckCircle2, ImageIcon } from 'lucide-react';
-import type { Question, UserAnswer } from '../types';
+import { ArrowLeft, CheckCircle2, Clock, ImageIcon } from 'lucide-react';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import type { Question, QuizMode, UserAnswer } from '../types';
 import { getQuestionAssetUrl } from '../lib/assets';
 import { getSourceLabel } from '../lib/source';
 
 interface QuizProps {
   subjectName: string;
+  mode: QuizMode;
+  durationSeconds: number;
   questions: Question[];
   answers: UserAnswer[];
   onAnswer: (questionId: string, answer: string) => void;
@@ -12,13 +15,49 @@ interface QuizProps {
   onBack: () => void;
 }
 
-export function Quiz({ subjectName, questions, answers, onAnswer, onSubmit, onBack }: QuizProps) {
+export function Quiz({ subjectName, mode, durationSeconds, questions, answers, onAnswer, onSubmit, onBack }: QuizProps) {
   const answeredCount = answers.filter((answer) => answer.answer).length;
+  const [remainingSeconds, setRemainingSeconds] = useState(durationSeconds);
+  const submittedRef = useRef(false);
+  const modeLabel = mode === 'mock' ? '模擬考模式' : '練習模式';
+  const timeText = useMemo(() => {
+    const minutes = Math.floor(remainingSeconds / 60);
+    const seconds = remainingSeconds % 60;
+    return `${minutes}:${seconds.toString().padStart(2, '0')}`;
+  }, [remainingSeconds]);
+
+  useEffect(() => {
+    setRemainingSeconds(durationSeconds);
+    submittedRef.current = false;
+  }, [durationSeconds, questions]);
+
+  useEffect(() => {
+    const timer = window.setInterval(() => {
+      setRemainingSeconds((current) => {
+        if (current <= 1) {
+          window.clearInterval(timer);
+          if (!submittedRef.current) {
+            submittedRef.current = true;
+            window.setTimeout(onSubmit, 0);
+          }
+          return 0;
+        }
+        return current - 1;
+      });
+    }, 1000);
+    return () => window.clearInterval(timer);
+  }, [onSubmit]);
+
+  function handleSubmit() {
+    if (submittedRef.current) return;
+    submittedRef.current = true;
+    onSubmit();
+  }
 
   return (
     <main className="min-h-screen bg-paper">
       <div className="sticky top-0 z-10 border-b border-stone-300 bg-paper/95 backdrop-blur">
-        <div className="mx-auto flex max-w-5xl items-center gap-3 px-4 py-3 sm:gap-4 sm:px-6 sm:py-4">
+        <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-3 px-4 py-3 sm:gap-4 sm:px-6 sm:py-4">
           <button
             type="button"
             onClick={onBack}
@@ -29,13 +68,24 @@ export function Quiz({ subjectName, questions, answers, onAnswer, onSubmit, onBa
           </button>
           <div className="min-w-0 flex-1">
             <p className="truncate text-xs text-stone-600 sm:text-sm">{subjectName}</p>
-            <h1 className="truncate text-lg font-semibold text-ink sm:text-xl">20 題隨機練習</h1>
+            <h1 className="truncate text-lg font-semibold text-ink sm:text-xl">
+              {modeLabel}，{questions.length} 題
+            </h1>
           </div>
-          <div className="shrink-0 rounded bg-white px-3 py-2 text-right text-xs text-stone-600 shadow-sm sm:text-sm">
-            <span className="block font-semibold text-ink">
-              {answeredCount} / {questions.length}
-            </span>
-            已作答
+          <div className="grid min-w-full grid-cols-2 gap-2 text-right text-xs text-stone-600 sm:min-w-0 sm:shrink-0 sm:text-sm">
+            <div className="rounded bg-white px-3 py-2 shadow-sm">
+              <span className="block font-semibold text-ink">
+                {answeredCount} / {questions.length}
+              </span>
+              已作答
+            </div>
+            <div className={`rounded px-3 py-2 shadow-sm ${remainingSeconds <= 60 ? 'bg-red-50 text-red-900' : 'bg-white'}`}>
+              <span className="inline-flex items-center gap-1 font-semibold text-ink">
+                <Clock size={15} aria-hidden="true" />
+                {timeText}
+              </span>
+              <span className="block">倒數</span>
+            </div>
           </div>
         </div>
       </div>
@@ -44,7 +94,7 @@ export function Quiz({ subjectName, questions, answers, onAnswer, onSubmit, onBa
         className="mx-auto flex max-w-5xl flex-col gap-4 px-4 py-5 pb-24 sm:gap-5 sm:px-6 sm:py-6 sm:pb-28"
         onSubmit={(event) => {
           event.preventDefault();
-          onSubmit();
+          handleSubmit();
         }}
       >
         {questions.map((question, index) => {

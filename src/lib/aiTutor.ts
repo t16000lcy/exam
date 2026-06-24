@@ -91,7 +91,7 @@ function buildTemplateTutor(question: Question): AiTutorContent {
 function formatTutorContent(question: Question, studentAnswer: string, content: AiTutorContent, mode: AiTutorMode) {
   const correctAnswer = getCorrectAnswerText(question);
   if (mode === 'explain' && content.ai_full_text) {
-    return [formatQuestionBlock(question), content.ai_full_text].join('\n');
+    return [formatQuestionBlock(question), stripPracticeSection(content.ai_full_text), formatPracticeBlock(question)].join('\n');
   }
 
   return [
@@ -115,9 +115,13 @@ function formatTutorContent(question: Question, studentAnswer: string, content: 
     '【考前記憶句】',
     content.memory_sentence || '題幹關鍵字決定考點，選項需逐一排除。',
     '',
-    '【再練習】',
-    content.practice_question || '請學生回答一題相同觀念的變化題。',
+    formatPracticeBlock(question),
   ].join('\n');
+}
+
+function stripPracticeSection(text: string) {
+  const practiceStart = text.search(/【再練習[^】]*】/);
+  return (practiceStart >= 0 ? text.slice(0, practiceStart) : text).trim();
 }
 
 function formatQuestionBlock(question: Question) {
@@ -125,5 +129,17 @@ function formatQuestionBlock(question: Question) {
     `題目：${question.question_text || question.stem}`,
     ...question.options.map((option) => `${option.label}. ${option.text}`),
     '',
+  ].join('\n');
+}
+
+function formatPracticeBlock(question: Question) {
+  const optionLabels = ['A', 'B', 'C', 'D'] as const;
+  const shuffledOptions = [...question.options].sort(() => Math.random() - 0.5);
+  return [
+    '【再練習】',
+    '請遮住上方解析，將同一題的選項順序打亂後再作答一次。',
+    `題目：${question.question_text || question.stem}`,
+    ...shuffledOptions.map((option, index) => `${optionLabels[index]}. ${option.text}`),
+    '本區不提供答案；作答後請回到上方解析比對自己的判斷理由。',
   ].join('\n');
 }

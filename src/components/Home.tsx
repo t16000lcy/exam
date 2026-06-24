@@ -1,5 +1,5 @@
-import { BarChart3, BookOpenCheck, ClipboardList, RotateCcw } from 'lucide-react';
-import type { QuestionManifest, QuizResult, SubjectSlug } from '../types';
+import { BarChart3, BookOpenCheck, ClipboardList, ExternalLink, RotateCcw } from 'lucide-react';
+import type { QuestionManifest, QuizMode, QuizResult, SubjectSlug } from '../types';
 import { subjects } from '../lib/subjects';
 
 interface HomeProps {
@@ -7,7 +7,7 @@ interface HomeProps {
   manifest: QuestionManifest | null;
   wrongBookCount: number;
   overallAccuracy: number | null;
-  onStart: (slug: SubjectSlug) => void;
+  onStart: (slug: SubjectSlug, mode: QuizMode) => void;
   onOpenLast: () => void;
   onOpenWrongBook: () => void;
   onOpenWeakAnalysis: () => void;
@@ -33,11 +33,20 @@ export function Home({ lastResult, manifest, wrongBookCount, overallAccuracy, on
               </p>
               <h1 className="mt-1 text-2xl font-semibold leading-tight text-ink sm:text-4xl">醫檢師國考題練習網站</h1>
               <p className="mt-3 max-w-3xl text-sm leading-7 text-stone-700 sm:text-base">
-                選擇科目後會隨機抽出 20 題練習，送出後可查看分數、正確答案、答錯答案與最近一次測驗紀錄。
+                選擇科目後可進行練習模式或模擬考模式，送出後一次查看分數、正確答案、答錯答案與訂正解析。
               </p>
               <p className="mt-2 text-sm font-medium leading-7 text-sea sm:text-base">
                 {rangeText}
               </p>
+              <a
+                href="https://wwwc.moex.gov.tw/main/home/wfrmHome.aspx"
+                target="_blank"
+                rel="noreferrer"
+                className="mt-3 inline-flex items-center gap-2 rounded border border-stone-300 bg-white px-3 py-2 text-sm font-medium text-ink shadow-sm transition hover:border-sea hover:text-sea"
+              >
+                考選部考試專區
+                <ExternalLink size={16} aria-hidden="true" />
+              </a>
             </div>
           </div>
         </div>
@@ -97,19 +106,34 @@ export function Home({ lastResult, manifest, wrongBookCount, overallAccuracy, on
 
         <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
           {availableSubjects.map((subject) => (
-            <button
+            <div
               key={subject.slug}
-              type="button"
-              onClick={() => onStart(subject.slug)}
-              className={`focus-ring flex min-h-36 flex-col justify-between rounded border border-stone-200 border-l-4 ${subject.accent} p-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:shadow-md sm:min-h-44 sm:p-5`}
+              className={`flex min-h-44 flex-col justify-between rounded border border-stone-200 border-l-4 ${subject.accent} bg-white p-4 text-left shadow-sm sm:p-5`}
             >
               <span className="text-sm font-medium text-stone-600">{subject.shortName}</span>
               <span className="mt-3 block text-xl font-semibold leading-8 text-ink sm:text-2xl">{subject.name}</span>
-              <span className="mt-5 inline-flex w-fit rounded bg-white px-3 py-2 text-sm font-medium text-stone-700 shadow-sm">
-                開始 20 題練習
-                {manifest ? `（本階段 ${manifest.subject_counts[subject.slug] || 0} 題）` : ''}
+              <span className="mt-2 text-sm text-stone-600">
+                {manifest ? `本階段 ${manifest.subject_counts[subject.slug] || 0} 題` : '題庫載入中'}
               </span>
-            </button>
+              <div className="mt-5 grid gap-2 sm:grid-cols-2">
+                <button
+                  type="button"
+                  onClick={() => onStart(subject.slug, 'practice')}
+                  className="focus-ring rounded bg-white px-3 py-2 text-sm font-medium text-stone-700 shadow-sm ring-1 ring-stone-200 transition hover:ring-sea"
+                >
+                  練習 20 題
+                  <span className="mt-1 block text-xs font-normal text-stone-500">15 分鐘</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => onStart(subject.slug, 'mock')}
+                  className="focus-ring rounded bg-sea px-3 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-800"
+                >
+                  模擬考 80 題
+                  <span className="mt-1 block text-xs font-normal text-teal-50">60 分鐘</span>
+                </button>
+              </div>
+            </div>
           ))}
         </div>
       </section>

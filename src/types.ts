@@ -53,9 +53,12 @@ export interface UserAnswer {
   answer: string;
 }
 
+export type QuizMode = 'practice' | 'mock';
+
 export interface QuizResult {
   subjectSlug: SubjectSlug;
   subject: string;
+  mode?: QuizMode;
   submittedAt: string;
   questions: Question[];
   answers: UserAnswer[];

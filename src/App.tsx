@@ -8,7 +8,7 @@ import { getQuestionManifestUrl } from './lib/assets';
 import { loadAttempts, loadWrongBook, recordQuizProgress } from './lib/progress';
 import { getSubject } from './lib/subjects';
 import { buildResult, clearSavedResult, loadLastResult, loadQuestions, pickRandomQuestions, saveResult } from './lib/quiz';
-import type { Question, QuestionManifest, QuizResult, SubjectSlug, UserAnswer } from './types';
+import type { Question, QuestionManifest, QuizMode, QuizResult, SubjectSlug, UserAnswer } from './types';
 
 type View = 'home' | 'quiz' | 'result' | 'wrongBook' | 'weakAnalysis';
 
@@ -18,6 +18,7 @@ export default function App() {
   const [activeSubject, setActiveSubject] = useState<SubjectSlug | null>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [answers, setAnswers] = useState<UserAnswer[]>([]);
+  const [quizMode, setQuizMode] = useState<QuizMode>('practice');
   const [result, setResult] = useState<QuizResult | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [wrongBookCount, setWrongBookCount] = useState(0);
@@ -34,7 +35,7 @@ export default function App() {
       .catch(() => setManifest(null));
   }, []);
 
-  async function startQuiz(slug: SubjectSlug) {
+  async function startQuiz(slug: SubjectSlug, mode: QuizMode) {
     setError(null);
     clearCurrentQuiz();
     clearSavedResult();
@@ -42,12 +43,13 @@ export default function App() {
     if (!subject) return;
     try {
       const bank = await loadQuestions(slug);
-      const picked = pickRandomQuestions(bank, 20);
+      const picked = pickRandomQuestions(bank, mode === 'mock' ? 80 : 20);
       if (picked.length === 0) {
         setError('此科目目前沒有可用題目，請先執行 parser 產生題庫 JSON。');
         return;
       }
       setActiveSubject(slug);
+      setQuizMode(mode);
       setQuestions(picked);
       setAnswers(picked.map((question) => ({ questionId: question.id, answer: '' })));
       setView('quiz');
@@ -64,7 +66,7 @@ export default function App() {
     if (!activeSubject) return;
     const subject = getSubject(activeSubject);
     if (!subject) return;
-    const nextResult = buildResult(activeSubject, subject.name, questions, answers);
+    const nextResult = buildResult(activeSubject, subject.name, questions, answers, quizMode);
     recordQuizProgress(nextResult);
     setResult(nextResult);
     setLastResult(nextResult);
@@ -76,6 +78,7 @@ export default function App() {
   function retryWrong(wrongQuestions: Question[]) {
     if (wrongQuestions.length === 0 || !result) return;
     setActiveSubject(result.subjectSlug);
+    setQuizMode('practice');
     setQuestions(wrongQuestions);
     setAnswers(wrongQuestions.map((question) => ({ questionId: question.id, answer: '' })));
     setView('quiz');
@@ -85,6 +88,7 @@ export default function App() {
     setActiveSubject(null);
     setQuestions([]);
     setAnswers([]);
+    setQuizMode('practice');
     setResult(null);
     setLastResult(null);
   }
@@ -108,6 +112,8 @@ export default function App() {
     return (
       <Quiz
         subjectName={getSubject(activeSubject)?.name || ''}
+        mode={quizMode}
+        durationSeconds={quizMode === 'mock' ? 60 * 60 : 15 * 60}
         questions={questions}
         answers={answers}
         onAnswer={setAnswer}
