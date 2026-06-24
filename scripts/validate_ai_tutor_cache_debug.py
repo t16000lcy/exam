@@ -78,9 +78,13 @@ def has_forbidden_phrase(text: str) -> bool:
 
 def extract_answer_letter(text: str) -> str:
     marker = "正確答案是："
-    if marker not in text:
+    if marker in text:
+        return text.split(marker, 1)[1][:12]
+    heading = "【正確答案】"
+    if heading not in text:
         return ""
-    return text.split(marker, 1)[1][:12]
+    after = text.split(heading, 1)[1].strip().splitlines()
+    return after[0].strip()[:12] if after else ""
 
 
 if __name__ == "__main__":

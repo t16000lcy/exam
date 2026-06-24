@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-06-24T04:22:52.806826+00:00",
+  "generated_at": "2026-06-24T08:21:08.194753+00:00",
   "source_folder": "C:\\Users\\t1600\\Desktop\\醫檢師國考題\\國考題解題",
-  "docx_file_count": 36,
+  "docx_file_count": 37,
   "parsed_explanation_count": 5280,
   "matched_cache_count": 5280,
   "unmatched_count": 0,
-  "unmatched": []
+  "unmatched": [],
+  "failed_docx_count": 1,
+  "failed_docx": [
+    {
+      "path": "C:\\Users\\t1600\\Desktop\\醫檢師國考題\\國考題解題\\115年_醫檢師國考題解題_名師講義版_DOCX\\~$5年_醫學分子檢驗學與臨床鏡檢學（包括寄生蟲學）_國考題解題_名師講義版.docx",
+      "error": "File is not a zip file"
+    }
+  ]
 }

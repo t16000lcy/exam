@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from pathlib import Path
 
 
@@ -30,18 +31,29 @@ def main() -> int:
     fixed: list[dict] = []
     for question_id, item in cache.items():
         full_text = item.get("ai_full_text", "")
-        if "正確答案是：#" not in full_text and item.get("correct_answer_text") != "正確答案是：#":
-            continue
         question = qmap.get(question_id)
         if not question:
             continue
-        answer_display = build_answer_display(question)
         answer_letters = build_answer_letters(question)
+        answer_display = build_answer_display(question)
+        current_answer = extract_answer_line(full_text)
+        if current_answer == answer_letters or current_answer == answer_display:
+            continue
+
         full_text = full_text.replace("正確答案是：#", f"正確答案是：{answer_display}")
+        full_text = re.sub(r"【正確答案】\s*\n[^\n]+", f"【正確答案】\n{answer_letters}", full_text, count=1)
+        full_text = re.sub(r"【正確答案】\s*[^\n]+", f"【正確答案】\n{answer_letters}", full_text, count=1)
         full_text = full_text.replace("官方答案為 #，其選項內容為「」", f"官方答案為 {answer_letters}，其選項內容為「{answer_option_text(question)}」")
+        if answer_letters != "一律給分":
+            full_text = full_text.replace("官方答案為 一律給分", f"官方答案為 {answer_letters}")
         full_text = full_text.replace("答案判讀方向：#。", f"答案判讀方向：{answer_display}。")
+        full_text = full_text.replace("鎖定 #，也就是「#」", f"鎖定 {answer_letters}，也就是「{answer_option_text(question)}」")
+        full_text = full_text.replace("看到「#」", f"看到「{answer_option_text(question)}」")
+        full_text = full_text.replace("先想到「#」", f"先想到「{answer_option_text(question)}」")
+        if answer_letters != "一律給分":
+            full_text = full_text.replace("答案判讀方向：一律給分。", f"答案判讀方向：{answer_display}。")
         item["ai_full_text"] = full_text
-        item["correct_answer_text"] = f"正確答案是：{answer_display}"
+        item["correct_answer_text"] = answer_letters
         item["why_correct"] = item.get("why_correct", "").replace(
             "官方答案為 #，其選項內容為「」",
             f"官方答案為 {answer_letters}，其選項內容為「{answer_option_text(question)}」",
@@ -54,6 +66,17 @@ def main() -> int:
     write_json(Path(args.report), report)
     print(json.dumps(report, ensure_ascii=False, indent=2))
     return 0
+
+
+def extract_answer_line(text: str) -> str:
+    marker = "【正確答案】"
+    if marker in text:
+        lines = text.split(marker, 1)[1].strip().splitlines()
+        return lines[0].strip() if lines else ""
+    marker = "正確答案是："
+    if marker in text:
+        return text.split(marker, 1)[1].splitlines()[0].strip()
+    return ""
 
 
 def build_answer_letters(question: dict) -> str:

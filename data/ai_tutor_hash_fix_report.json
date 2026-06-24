@@ -1,5 +1,5 @@
 {
-  "fixed_count": 7,
+  "fixed_count": 112,
   "fixed": [
     {
       "question_id": "110-session2-biochemistry-clinical-biochemistry-seq21-q32",
@@ -14,6 +14,10 @@
       "answer": "B（會使白血球數目減少） 或 C（會影響激素分析）"
     },
     {
+      "question_id": "111-session2-microbiology-clinical-microbiology-seq19-q79",
+      "answer": "A（Streptobacillus moniliformis） 或 C（Spirillum minus）"
+    },
+    {
       "question_id": "111-session1-biochemistry-clinical-biochemistry-seq09-q16",
       "answer": "一律給分"
     },
@@ -26,8 +30,424 @@
       "answer": "A（代謝性酸中毒陰離子差距（metabolic acidosis with anion gap）） 或 B（血清滲透壓差距（serum osmol gap）） 或 C（血清丙酮（serum acetone））"
     },
     {
+      "question_id": "111-session2-biochemistry-clinical-biochemistry-seq21-q36",
+      "answer": "B（mg/kg） 或 D（μg/kg）"
+    },
+    {
+      "question_id": "111-session1-clinical-physiology-pathology-seq01-q20",
+      "answer": "C（動脈血之比靜脈血略為上升3～5 mmHg）"
+    },
+    {
       "question_id": "111-session1-clinical-physiology-pathology-seq01-q57",
       "answer": "C（第一類主要組織相容性複合體（class I MHC）） 或 D（第二類主要組織相容性複合體（class II MHC））"
+    },
+    {
+      "question_id": "111-session1-clinical-physiology-pathology-seq01-q67",
+      "answer": "A（如因庫欣氏病（Cushing disease）所引起的，血液中促腎上腺皮質素（adrenocorticotrophic hormone, ACTH）\n值會下降）"
+    },
+    {
+      "question_id": "111-session2-clinical-physiology-pathology-seq13-q09",
+      "answer": "A（偏右） 或 C（正常）"
+    },
+    {
+      "question_id": "111-session2-clinical-physiology-pathology-seq13-q21",
+      "answer": "C（呼吸性鹼中毒：腎臟代償滯留重碳酸鹽（HCO3\n-））"
+    },
+    {
+      "question_id": "111-session2-clinical-physiology-pathology-seq13-q22",
+      "answer": "C（pH↓、↑）"
+    },
+    {
+      "question_id": "111-session2-clinical-physiology-pathology-seq13-q30",
+      "answer": "A（肺活量（vital capacity, VC）大於預測值的80%，且尖峰吸氣流速（peak inspiratory flow rate, PIFR）小於預測\n值的80%）"
+    },
+    {
+      "question_id": "111-session2-hematology-blood-bank-seq15-q51",
+      "answer": "A（是指凝血纖維蛋白收縮、血塊縮小使血清析出，並在特定的條件下，依照規定的時間觀察並計算血塊收縮率\n的試驗）"
+    },
+    {
+      "question_id": "111-session2-hematology-blood-bank-seq15-q73",
+      "answer": "A（OO\nH-secretor的病人分泌物含有A、B及H抗原）"
+    },
+    {
+      "question_id": "111-session2-serology-immunology-virology-seq23-q52",
+      "answer": "A（若懷疑是腸病毒A71型（Enterovirus A71）感染，可同步收集腦脊髓液、咽喉拭子、糞便檢體進行病毒培養\n與分離）"
+    },
+    {
+      "question_id": "111-session2-molecular-microscopy-parasitology-seq17-q63",
+      "answer": "A（試劑加至檢體的順序為陰性品管檢體、病人檢體、陽性品管檢體，以避免陰性品管檢體以及病人檢體被污\n染）"
+    },
+    {
+      "question_id": "111-session2-molecular-microscopy-parasitology-seq17-q64",
+      "answer": "B（委託給外部的學校實驗室，該實驗室與該項目取得衛生福利部食品藥物管理署精準醫療分子檢測實驗室的列\n冊登錄資格者）"
+    },
+    {
+      "question_id": "112-session1-microbiology-clinical-microbiology-seq07-q37",
+      "answer": "A（101～102）"
+    },
+    {
+      "question_id": "112-session2-microbiology-clinical-microbiology-seq19-q09",
+      "answer": "B（B. cereus）"
+    },
+    {
+      "question_id": "112-session2-microbiology-clinical-microbiology-seq19-q49",
+      "answer": "B（Imipenem） 或 D（Vancomycin）"
+    },
+    {
+      "question_id": "112-session2-microbiology-clinical-microbiology-seq19-q56",
+      "answer": "B（1×104） 或 C（1×105）"
+    },
+    {
+      "question_id": "112-session2-microbiology-clinical-microbiology-seq19-q68",
+      "answer": "C（Piedraia hortae） 或 D（Hortaea werneckii）"
+    },
+    {
+      "question_id": "112-session1-biochemistry-clinical-biochemistry-seq09-q05",
+      "answer": "C（10-15）"
+    },
+    {
+      "question_id": "112-session1-biochemistry-clinical-biochemistry-seq09-q20",
+      "answer": "D（試劑中含 Cu2+ 可與胜肽鍵作用）"
+    },
+    {
+      "question_id": "112-session1-biochemistry-clinical-biochemistry-seq09-q25",
+      "answer": "A（己糖激酶（hexokinase）） 或 B（葡萄糖氧化酶（glucose oxidase））"
+    },
+    {
+      "question_id": "112-session1-biochemistry-clinical-biochemistry-seq09-q44",
+      "answer": "A（H+）"
+    },
+    {
+      "question_id": "112-session1-biochemistry-clinical-biochemistry-seq09-q45",
+      "answer": "B（成年人 25～29 mm Hg；新生兒 18～24 mm Hg）"
+    },
+    {
+      "question_id": "112-session2-biochemistry-clinical-biochemistry-seq21-q29",
+      "answer": "A（丙酮（acetone）） 或 D（醋酸（acetate））"
+    },
+    {
+      "question_id": "112-session1-clinical-physiology-pathology-seq01-q19",
+      "answer": "B（使用同心細針電極時，須另有參考電電極）"
+    },
+    {
+      "question_id": "112-session1-clinical-physiology-pathology-seq01-q22",
+      "answer": "C（送檢的採血管應加入抗凝劑如肝素（heparin）密封、冰浴並快速送檢）"
+    },
+    {
+      "question_id": "112-session1-clinical-physiology-pathology-seq01-q35",
+      "answer": "B（頻率 5 MHz 時，掃描深度可達 20 公公分）"
+    },
+    {
+      "question_id": "112-session2-clinical-physiology-pathology-seq13-q21",
+      "answer": "D（pH在正常範圍，可能是呼吸性酸中毒加上代謝性代償）"
+    },
+    {
+      "question_id": "112-session2-clinical-physiology-pathology-seq13-q40",
+      "answer": "B（血液氣體分析中的\n下降）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q22",
+      "answer": "B（CD4+/CD25+/FOXP3+/TCRαβ）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q23",
+      "answer": "D（Neutrophil 無法產生ROS（reactive oxygen species））"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q25",
+      "answer": "D（Myeloperoxidase 僅存在於次級顆粒中中）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q27",
+      "answer": "D（成熟的嗜酸性球，細胞核常為雙葉（bilobed）型）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q29",
+      "answer": "A（Pelger-Huët anomaly）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q30",
+      "answer": "A（CD13+/CD33+/CD117+）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q36",
+      "answer": "B（顆粒性大淋巴球白血病（large granuular lymphocytic leukemia））"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q57",
+      "answer": "A（RVV 活化factor X 產生FXa 後進行的的下游活化作用被lupus anticoagulant 抑制，導導致dRVVT 時間延長）"
+    },
+    {
+      "question_id": "112-session1-hematology-blood-bank-seq03-q80",
+      "answer": "C（表現CD45-/CD13+（部分）/CD33+（部分）標記，符合髓系（myeloid）白血病診斷）"
+    },
+    {
+      "question_id": "112-session1-serology-immunology-virology-seq11-q23",
+      "answer": "D（若使用的過敏原為吸入性過敏原（inhalant allergen）時，兩種試驗使用之過敏原濃度均為1：500（wt/vol）\n即可）"
+    },
+    {
+      "question_id": "112-session1-serology-immunology-virology-seq11-q31",
+      "answer": "C（第一型組織相容相關鏈蛋白A（MHC class I chain-related protein A, MICA）：gamma delta T細胞（γδ T\ncells））"
+    },
+    {
+      "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q40",
+      "answer": "C（報告主管） 或 D（接受HIV 預防處理）"
+    },
+    {
+      "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q53",
+      "answer": "D（採取同病人血球DNA，進行該位點點的變異分析）"
+    },
+    {
+      "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q54",
+      "answer": "A（nested PCR 可提高PCR 反應的speciificity 和sensitivity）"
+    },
+    {
+      "question_id": "112-session1-molecular-microscopy-parasitology-seq05-q65",
+      "answer": "D（結果：K-RAS gene NM_0333123:c.35A＞C 不適用 cetuximab（EGFR 單株抗體）治療）"
+    },
+    {
+      "question_id": "112-session2-molecular-microscopy-parasitology-seq17-q70",
+      "answer": "C（Tag polymerase的stoffel fragment具有3'端至5'端exonuclease活性） 或 D（Tag polymerase的stoffel fragment適合擴增高GC比的片段）"
+    },
+    {
+      "question_id": "113-session1-microbiology-clinical-microbiology-seq07-q06",
+      "answer": "D（Mycobacterium tuberculosis / BSL-IV）"
+    },
+    {
+      "question_id": "113-session1-microbiology-clinical-microbiology-seq07-q52",
+      "answer": "D（Checkerboard assay）"
+    },
+    {
+      "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q28",
+      "answer": "A（Pseudomonas aeruginosa 最適生長溫度為42℃，37℃不利生長）"
+    },
+    {
+      "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q31",
+      "answer": "D（Y. enterocolitica 以及Y. pseudotuberculosis 在攝氏37℃培養環境常具有運動性）"
+    },
+    {
+      "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q35",
+      "answer": "C（Klebsiella pneumoniae (－)，Klebsiella oxytoca (＋)）"
+    },
+    {
+      "question_id": "113-session2-microbiology-clinical-microbiology-seq19-q38",
+      "answer": "D（Pantoea agglomerans）"
+    },
+    {
+      "question_id": "113-session1-biochemistry-clinical-biochemistry-seq09-q15",
+      "answer": "D（中鏈醯基輔酶A去氫酶缺乏症（medium-chain acyl-CoA dehydrogenase deficiency, MCAD））"
+    },
+    {
+      "question_id": "113-session1-biochemistry-clinical-biochemistry-seq09-q22",
+      "answer": "C（-NH3\n+ 及 -COOH）"
+    },
+    {
+      "question_id": "113-session1-biochemistry-clinical-biochemistry-seq09-q38",
+      "answer": "A（30 μg/mg urine creatinine）"
+    },
+    {
+      "question_id": "113-session2-biochemistry-clinical-biochemistry-seq21-q46",
+      "answer": "A（變性血紅素（methemoglobin）） 或 B（一氧化碳血紅素（carboxyhemoglobin）） 或 D（氧合血紅素（oxyhemoglobin））"
+    },
+    {
+      "question_id": "113-session1-clinical-physiology-pathology-seq01-q03",
+      "answer": "A（QRS 複合波 Lead I 為正，aVF 為正）"
+    },
+    {
+      "question_id": "113-session1-clinical-physiology-pathology-seq01-q21",
+      "answer": "A（是在37°C及40 mmHg條件下，可以強酸或強鹼滴定血漿至pH 7.4時所需的鹼量）"
+    },
+    {
+      "question_id": "113-session1-clinical-physiology-pathology-seq01-q47",
+      "answer": "B（如果TP53基因維持野生型（wild type），即使已有APC或KRAS基因之突變，大腸黏膜上皮細胞可能因致癌\n基因誘發之細胞老化（oncogene-induced senescence）而停留在腺瘤（adenoma）階段）"
+    },
+    {
+      "question_id": "113-session1-clinical-physiology-pathology-seq01-q74",
+      "answer": "D（重症肌無力（myasthenia gravis）為腫瘤引起之自體免疫疾病，其產生的抗體主要攻擊骨骼肌細胞內之鈣\n離子通道）"
+    },
+    {
+      "question_id": "113-session2-clinical-physiology-pathology-seq13-q12",
+      "answer": "A（8～13 Hz的腦波在頭後方，且會隨著眼睛張開時消失） 或 B（每30秒的腦波出現大於50％以上的δ慢波分布，且可以看到頭頂中央有K複合波出現） 或 D（每30秒的腦波出現20～50％的δ慢波，K複合波和部分的睡眠紡錘波）"
+    },
+    {
+      "question_id": "113-session2-clinical-physiology-pathology-seq13-q18",
+      "answer": "A（Fp1 －右前額部）"
+    },
+    {
+      "question_id": "113-session2-clinical-physiology-pathology-seq13-q21",
+      "answer": "A（急性呼吸性酸中毒：HCO3\n-會上升來代償）"
+    },
+    {
+      "question_id": "113-session2-clinical-physiology-pathology-seq13-q22",
+      "answer": "B（身體代償會讓血中重碳酸鹽（HCO3\n-）下降）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q01",
+      "answer": "C（陣發性夜間血色素尿（paroxysmalnocturnal hemoglobinuria, PNH））"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q28",
+      "answer": "D（CD7+/CD1a-/CD8-）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q35",
+      "answer": "D（是由於細胞骨架蛋白質vimentin 含含量異常增加所致）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q36",
+      "answer": "D（大多數具有IGHV 基因高度突變（hypermutation）的病人，預後較差）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q38",
+      "answer": "B（周邊血中，T 細胞約占淋巴球的20%，B 細胞約占淋巴球的80%）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q42",
+      "answer": "B（ATRA（all-trans retinoic acid）））"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q46",
+      "answer": "C（其glutamic acid 轉變為γ-carboxyglutamic acid 可增加與鈣離子的親和力）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q47",
+      "answer": "D（可以使用1% monochloroacetic accid 或2% acetic acid 進行clot 溶解試驗）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q48",
+      "answer": "B（Megakaryocyte，核內染色體為多套套體（通常為4N～64N））"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q52",
+      "answer": "B（PT 正常、APTT 延長、TT 正常、PFAA-100 closure time 正常）"
+    },
+    {
+      "question_id": "113-session1-hematology-blood-bank-seq03-q78",
+      "answer": "C（3.0×1011）"
+    },
+    {
+      "question_id": "113-session2-hematology-blood-bank-seq15-q08",
+      "answer": "A（Embden-Meyerhof pathway 產生的 ATP）"
+    },
+    {
+      "question_id": "113-session2-hematology-blood-bank-seq15-q55",
+      "answer": "B（②） 或 C（③） 或 D（④）"
+    },
+    {
+      "question_id": "113-session2-hematology-blood-bank-seq15-q68",
+      "answer": "A（可以完全避免輸血相關之移植物對宿主排斥疾病（graft-versus-host disease））"
+    },
+    {
+      "question_id": "113-session1-serology-immunology-virology-seq11-q07",
+      "answer": "D（fMLF（formyl Met-Leu-Phe）receptor與C5a receptor屬於G-protein-coupled receptors之成員，能夠辨\n識病原體表面抗原成分，促進殺菌能力）"
+    },
+    {
+      "question_id": "113-session1-molecular-microscopy-parasitology-seq05-q44",
+      "answer": "C（UGC＞UGA） 或 D（AGA＞AGG）"
+    },
+    {
+      "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q32",
+      "answer": "D（岡比亞錐蟲血液抹片中的錐鞭毛體（trypomastigote）呈現C型，羅德西亞錐蟲血液抹片中的錐鞭毛體呈現\nS型）"
+    },
+    {
+      "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q33",
+      "answer": "A（肝醣液泡（glycogen  vacuoles））"
+    },
+    {
+      "question_id": "113-session2-molecular-microscopy-parasitology-seq17-q64",
+      "answer": "B（18S rRNA、28S rRNA）"
+    },
+    {
+      "question_id": "114-session1-microbiology-clinical-microbiology-seq07-q34",
+      "answer": "D（B. gladioli）"
+    },
+    {
+      "question_id": "114-session1-microbiology-clinical-microbiology-seq07-q37",
+      "answer": "C（僅②③） 或 D（僅③）"
+    },
+    {
+      "question_id": "114-session1-microbiology-clinical-microbiology-seq07-q58",
+      "answer": "C（broth microdilution 最終接種菌量為105 CFU/mL）"
+    },
+    {
+      "question_id": "114-session2-microbiology-clinical-microbiology-seq19-q33",
+      "answer": "A（血清型O1 霍亂弧菌（Vibrio cholerae）最常造成流行性霍亂（epidemic cholera），也是唯一會產生霍亂\n毒素的血清型） 或 C（抑制腸細胞（enterocyte）G protein 的活化，進而造成cyclic adenosine monophosphate（cAMP）的產量\n上升）"
+    },
+    {
+      "question_id": "114-session1-biochemistry-clinical-biochemistry-seq09-q46",
+      "answer": "B（酵素與受質的反應速率達到1/2 Km所需要的受質濃度稱為Vmax） 或 D（溫度每增加攝氏1 度，反應速率增加10%）"
+    },
+    {
+      "question_id": "114-session2-biochemistry-clinical-biochemistry-seq21-q38",
+      "answer": "A（氯離子（Cl-））"
+    },
+    {
+      "question_id": "114-session1-clinical-physiology-pathology-seq01-q63",
+      "answer": "D（病理變化四期依序為：紅色肝變期（red hepatization）、灰色肝變期（gray hepatization）、水腫充血\n期（congestion）、消解期（resolution））"
+    },
+    {
+      "question_id": "114-session2-clinical-physiology-pathology-seq13-q20",
+      "answer": "C（轉換成重碳酸離子（HCO3-, bicarbonate））"
+    },
+    {
+      "question_id": "114-session2-clinical-physiology-pathology-seq13-q22",
+      "answer": "D（可能是合併腎衰竭造成的HCO3-無法排出而累積起來的）"
+    },
+    {
+      "question_id": "114-session2-clinical-physiology-pathology-seq13-q78",
+      "answer": "A（一般來說，小孩子的腦腫瘤較常發生在天幕上（supratentorial），而大人的較常發生在顱後窩\n（posterior fossa））"
+    },
+    {
+      "question_id": "114-session1-hematology-blood-bank-seq03-q06",
+      "answer": "C（飲食中的無機鐵質以ferrous (Fe2+)態進入腸道細胞）"
+    },
+    {
+      "question_id": "114-session1-hematology-blood-bank-seq03-q21",
+      "answer": "A（Lin-/CD34+/CD90+/CD38-）"
+    },
+    {
+      "question_id": "114-session1-hematology-blood-bank-seq03-q26",
+      "answer": "B（CD13+/ CD33+/CD19-/CD117+）"
+    },
+    {
+      "question_id": "114-session1-hematology-blood-bank-seq03-q68",
+      "answer": "A（5×106）"
+    },
+    {
+      "question_id": "114-session1-hematology-blood-bank-seq03-q73",
+      "answer": "B（Anti-Fya）"
+    },
+    {
+      "question_id": "114-session2-hematology-blood-bank-seq15-q42",
+      "answer": "A（Th2 cells（helper T cells, type 2）製造IL-2、IFN-γ及TNF-α，以促進cell-mediated immune\nresponse）"
+    },
+    {
+      "question_id": "114-session2-hematology-blood-bank-seq15-q55",
+      "answer": "D（每毫升檢出1 單位之抗體時，表示品管血漿之殘餘第八凝血因子活性（residual activity）為中和前的50\n％）"
+    },
+    {
+      "question_id": "114-session1-serology-immunology-virology-seq11-q12",
+      "answer": "A（使用51Cr 標定細胞）"
+    },
+    {
+      "question_id": "114-session1-serology-immunology-virology-seq11-q45",
+      "answer": "A（1.2×106）"
+    },
+    {
+      "question_id": "114-session2-serology-immunology-virology-seq23-q10",
+      "answer": "A（只有生發中心（germinal center）的B 細胞會表現AID） 或 C（AID 能夠對單股及雙股DNA 的胞嘧啶核苷（cytidine）進行脫氨基的作用）"
+    },
+    {
+      "question_id": "114-session2-molecular-microscopy-parasitology-seq17-q18",
+      "answer": "D（核酸聚合酶連鎖反應檢驗 Enterovirus 71）"
+    },
+    {
+      "question_id": "114-session2-molecular-microscopy-parasitology-seq17-q31",
+      "answer": "一律給分"
+    },
+    {
+      "question_id": "114-session2-molecular-microscopy-parasitology-seq17-q56",
+      "answer": "C（螢光染劑標示二維凝膠電泳（fluorescent two dimensional difference in-gel electrophoresis,\nfluorescent 2D-DIGE））"
     }
   ]
 }

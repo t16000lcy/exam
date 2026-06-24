@@ -6,7 +6,7 @@ import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
-from zipfile import ZipFile
+from zipfile import BadZipFile, ZipFile
 
 from sanitize_ai_tutor_cache import sanitize_value
 
@@ -105,7 +105,7 @@ def parse_docx(path: Path) -> list[dict]:
             flush()
             current_year = heading.group("year")
             current_exam_code = ROUND_TO_CODE[heading.group("round")]
-            in_questions = False
+            in_questions = " - " in line or "－" in line
             continue
 
         if line == "逐題解題":
@@ -159,7 +159,14 @@ def extract_option_analysis(lines: list[str]) -> dict[str, str]:
 
 def build_tutor_item(raw: dict, question: dict | None) -> dict:
     lines = raw["lines"]
-    explanation_start = next((idx for idx, line in enumerate(lines) if line.startswith("【本題考點】")), 0)
+    explanation_start = next(
+        (
+            idx
+            for idx, line in enumerate(lines)
+            if line.startswith("【本題考點】") or line.startswith("【正確答案】")
+        ),
+        0,
+    )
     ai_full_text = "\n".join(lines[explanation_start:]).strip()
     option_analysis = extract_option_analysis(lines)
     correct_answer = extract_after_heading(lines, "正確答案")
@@ -206,11 +213,17 @@ def main() -> int:
     question_index = load_question_index(data_dir)
     cache: dict[str, dict] = {}
     unmatched: list[dict] = []
+    failed_docx: list[dict] = []
     parsed_count = 0
     docx_files = sorted(input_dir.rglob("*.docx"))
 
     for docx in docx_files:
-        for raw in parse_docx(docx):
+        try:
+            parsed_items = parse_docx(docx)
+        except (BadZipFile, KeyError, ET.ParseError) as exc:
+            failed_docx.append({"path": str(docx), "error": str(exc)})
+            continue
+        for raw in parsed_items:
             parsed_count += 1
             key = (raw["year"], raw["exam_code"], raw["subject_slug"], raw["question_number"])
             question = question_index.get(key)
@@ -235,6 +248,8 @@ def main() -> int:
         "matched_cache_count": len(cache),
         "unmatched_count": len(unmatched),
         "unmatched": unmatched[:200],
+        "failed_docx_count": len(failed_docx),
+        "failed_docx": failed_docx,
     }
     write_json(Path(args.output), cache)
     write_json(Path(args.report), report)
