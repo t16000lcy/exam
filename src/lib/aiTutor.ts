@@ -31,7 +31,9 @@ export async function requestTutorContent(question: Question, studentAnswer: str
 }
 
 export function getTutorStatusLabel(content?: AiTutorContent) {
+  if (!content) return '解題資料庫，建議教師校對';
   if (content?.teacher_review_status === 'reviewed') return '教師審核版';
+  if (content?.generated_source === 'docx') return '解題資料庫，建議教師校對';
   if (content?.generated_source === 'ai' || content?.ai_full_text) return 'AI 逐題生成，建議教師確認';
   return 'AI 草稿，建議教師確認';
 }
