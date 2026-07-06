@@ -193,3 +193,116 @@ VITE_QUESTION_ASSET_BASE_URL
 ## Drive 權限
 
 若使用 `scripts/sync_drive.py` 從 Google Drive 下載 PDF，請將 Drive folder 權限設為「知道連結的人可檢視」。若無法下載，請確認資料夾與 PDF 都有公開檢視權限。
+## Multi-AI 解題交叉驗證
+
+本功能在每題解析區提供：
+
+- 醫檢國考課輔AI老師：讀取本地 `data/ai_tutor_cache.json` 的逐題解析。
+- 多 AI 解題：同一題同時送到 ChatGPT、Gemini、Grok、Perplexity。
+- 一鍵總結：彙整官方答案、原始解析與多 AI 回答，輸出固定格式總結。
+- 加入錯題本：把目前題目加入 session-only 錯題本。
+
+### 本機啟動
+
+```bash
+pnpm install
+pnpm run dev
+```
+
+若要測試 API，請使用 Vercel 或 Netlify 本機開發環境：
+
+```bash
+pnpm run vercel:dev
+```
+
+或部署到 Netlify 後由 `netlify.toml` 將 `/api/*` 轉到 Netlify Functions。
+
+### API endpoints
+
+```text
+POST /api/multi-ai-solve
+POST /api/multi-ai-summary
+POST /api/provider-test
+```
+
+前端可用環境變數指定後端 API base URL：
+
+```text
+VITE_MULTI_AI_API_BASE=https://your-vercel-or-netlify-site.example/api
+```
+
+若部署在 Vercel 同網域，通常可不設定，前端會使用 `/api`。
+若仍使用 GitHub Pages，GitHub Pages 不能執行後端 API，必須另外部署 Vercel/Netlify API，並設定 `VITE_MULTI_AI_API_BASE`。
+
+### Provider 設定
+
+支援四個 provider：
+
+```text
+OpenAI / ChatGPT   default model: gpt-4.1-mini
+Google Gemini      default model: gemini-1.5-flash
+xAI / Grok         default model: grok-2-latest
+Perplexity         default model: sonar
+```
+
+Provider adapter 位置：
+
+```text
+api/providers/openai.ts
+api/providers/gemini.ts
+api/providers/xai.ts
+api/providers/perplexity.ts
+```
+
+Prompt templates：
+
+```text
+api/prompts/mt-exam-solve.ts
+api/prompts/mt-exam-summary.ts
+```
+
+### API Key 安全限制
+
+第一版採 session-only 使用者 API key：
+
+- 使用者在前端設定視窗輸入自己的 API key。
+- API key 只暫存在瀏覽器記憶體中的 React/module state。
+- 不寫入資料庫。
+- 不寫入 localStorage。
+- 不寫入 sessionStorage。
+- 不寫入 GitHub、JSON、HTML 或任何題庫檔。
+- 每次呼叫 API 時，API key 透過 HTTPS body 傳給後端。
+- 後端只用於該次 provider 呼叫，完成後不保存。
+- usage log 只記錄 `questionId`、`provider`、`model`、`latencyMs`、`status`、`errorCode`、`createdAt`，不得記錄 API key。
+
+### 部署到 Vercel
+
+1. 將 repo 匯入 Vercel。
+2. Build command：`pnpm run build`
+3. Output directory：`dist`
+4. API routes 會使用 `api/*.ts`。
+5. 若前端與 API 同站，`VITE_MULTI_AI_API_BASE` 可留空；若分站部署，設定為 API 網址。
+
+### 部署到 Netlify
+
+1. 將 repo 匯入 Netlify。
+2. Build command：`pnpm run build`
+3. Publish directory：`dist`
+4. `netlify.toml` 已設定 `/api/*` redirect 到 `netlify/functions/*`。
+5. 若前端與 API 同站，`VITE_MULTI_AI_API_BASE` 可留空；若分站部署，設定為 API 網址。
+
+### 錯誤處理
+
+後端會回傳或記錄下列錯誤代碼：
+
+```text
+API_KEY_MISSING
+INVALID_API_KEY
+RATE_LIMIT
+TIMEOUT
+PROVIDER_UNAVAILABLE
+PROVIDER_ERROR
+REQUEST_ERROR
+```
+
+多 AI 解題支援 partial success：例如四個 provider 只有三個成功，前端仍會顯示成功的三張卡片，且一鍵總結可使用已成功的內容與錯誤訊息一併整理。

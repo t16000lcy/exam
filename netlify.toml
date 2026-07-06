@@ -1,0 +1,27 @@
+[build]
+  command = "pnpm run build"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/multi-ai-solve"
+  to = "/.netlify/functions/multi-ai-solve"
+  status = 200
+
+[[redirects]]
+  from = "/api/multi-ai-summary"
+  to = "/.netlify/functions/multi-ai-summary"
+  status = 200
+
+[[redirects]]
+  from = "/api/provider-test"
+  to = "/.netlify/functions/provider-test"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+

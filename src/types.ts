@@ -55,6 +55,18 @@ export interface UserAnswer {
 
 export type QuizMode = 'practice' | 'mock';
 
+export type MultiAiProvider = 'openai' | 'gemini' | 'xai' | 'perplexity';
+
+export interface MultiAiProviderResult {
+  provider: MultiAiProvider;
+  model: string;
+  status: 'idle' | 'loading' | 'success' | 'error';
+  content: string;
+  errorMessage?: string;
+  errorCode?: string;
+  latencyMs?: number;
+}
+
 export interface QuizResult {
   subjectSlug: SubjectSlug;
   subject: string;
