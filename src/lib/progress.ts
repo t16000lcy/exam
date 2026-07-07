@@ -67,35 +67,6 @@ export function recordQuizProgress(result: QuizResult) {
   saveWrongBook(Array.from(wrongBookById.values()));
 }
 
-export function addQuestionToWrongBook(question: Question, studentAnswer: string) {
-  const questionId = getQuestionId(question);
-  const correctAnswer = getCorrectAnswerText(question);
-  const topic = inferTopic(question);
-  const subtopic = getSubtopic(question);
-  const now = new Date().toISOString();
-  const wrongBookById = new Map(loadWrongBook().map((item) => [item.question_id, item]));
-  const existing = wrongBookById.get(questionId);
-
-  wrongBookById.set(questionId, {
-    question_id: questionId,
-    year: question.year,
-    exam_round: getExamRound(question),
-    subject: question.subject,
-    topic,
-    subtopic,
-    question_no: question.question_no || question.question_number,
-    question_text: question.question_text || question.stem,
-    student_answer: studentAnswer || '未作答',
-    correct_answer: correctAnswer,
-    timestamp: existing?.timestamp || now,
-    review_count: existing?.review_count || 0,
-    last_reviewed_at: existing?.last_reviewed_at || '',
-    mastered: existing?.mastered || false,
-  });
-
-  saveWrongBook(Array.from(wrongBookById.values()));
-}
-
 export function markWrongBookItemMastered(questionId: string, mastered: boolean) {
   saveWrongBook(
     loadWrongBook().map((item) =>
