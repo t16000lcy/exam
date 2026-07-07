@@ -1,5 +1,5 @@
-import { Bot, Wand2 } from 'lucide-react';
-import { useState } from 'react';
+import { Bot, ExternalLink, Wand2 } from 'lucide-react';
+import { type ReactNode, useState } from 'react';
 import type { AiTutorContent, Question } from '../types';
 import { type AiTutorMode, getTutorStatusLabel, requestTutorContent } from '../lib/aiTutor';
 
@@ -39,7 +39,7 @@ export function AiTutorCard({ question, studentAnswer, correct }: AiTutorCardPro
         <span className="w-fit rounded bg-white px-2 py-1 text-xs font-medium text-sea shadow-sm">{getTutorStatusLabel(tutor)}</span>
       </div>
 
-      <div className="mt-4">
+      <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
         <button
           type="button"
           onClick={() => run('explain')}
@@ -48,6 +48,12 @@ export function AiTutorCard({ question, studentAnswer, correct }: AiTutorCardPro
           <Wand2 size={16} aria-hidden="true" />
           醫檢國考課輔AI老師
         </button>
+        <ExternalAiLink
+          href="https://chatgpt.com/"
+          label="ChatGPT"
+          icon={<img src="https://chatgpt.com/favicon.ico" alt="" className="size-5 rounded-sm object-contain" />}
+        />
+        <ExternalAiLink href="https://gemini.google.com/" label="Gemini" icon={<GeminiLogo />} />
       </div>
 
       {loading ? <p className="mt-4 text-sm text-stone-600">產生訂正內容中...</p> : null}
@@ -61,5 +67,42 @@ export function AiTutorCard({ question, studentAnswer, correct }: AiTutorCardPro
         </p>
       )}
     </section>
+  );
+}
+
+function ExternalAiLink({ href, label, icon }: { href: string; label: string; icon: ReactNode }) {
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noreferrer"
+      className="focus-ring inline-flex w-full items-center justify-center gap-2 rounded border border-stone-300 bg-white px-3 py-2 text-sm font-medium text-ink shadow-sm transition hover:border-sea hover:text-sea sm:w-auto"
+      aria-label={`開啟 ${label}`}
+    >
+      <span className="inline-flex size-5 shrink-0 items-center justify-center" aria-hidden="true">
+        {icon}
+      </span>
+      {label}
+      <ExternalLink size={14} aria-hidden="true" />
+    </a>
+  );
+}
+
+function GeminiLogo() {
+  return (
+    <svg viewBox="0 0 32 32" className="size-5" aria-hidden="true">
+      <defs>
+        <linearGradient id="geminiLogoGradient" x1="5" x2="27" y1="27" y2="5" gradientUnits="userSpaceOnUse">
+          <stop offset="0" stopColor="#34a853" />
+          <stop offset="0.35" stopColor="#4285f4" />
+          <stop offset="0.68" stopColor="#a142f4" />
+          <stop offset="1" stopColor="#fbbc04" />
+        </linearGradient>
+      </defs>
+      <path
+        fill="url(#geminiLogoGradient)"
+        d="M16 3.5c1.5 6.7 5.8 11 12.5 12.5C21.8 17.5 17.5 21.8 16 28.5 14.5 21.8 10.2 17.5 3.5 16 10.2 14.5 14.5 10.2 16 3.5Z"
+      />
+    </svg>
   );
 }
