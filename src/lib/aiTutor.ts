@@ -91,7 +91,8 @@ function buildTemplateTutor(question: Question): AiTutorContent {
 function formatTutorContent(question: Question, studentAnswer: string, content: AiTutorContent, mode: AiTutorMode) {
   const correctAnswer = getCorrectAnswerText(question);
   if (mode === 'explain' && content.ai_full_text) {
-    return [formatQuestionBlock(question), stripPracticeSection(content.ai_full_text), formatPracticeBlock(question)].join('\n');
+    const cleanedFullText = stripPracticeSection(stripQuestionSection(content.ai_full_text, question));
+    return [formatQuestionBlock(question), cleanedFullText, formatPracticeBlock(question)].join('\n');
   }
 
   return [
@@ -122,6 +123,18 @@ function formatTutorContent(question: Question, studentAnswer: string, content: 
 function stripPracticeSection(text: string) {
   const practiceStart = text.search(/【再練習[^】]*】/);
   return (practiceStart >= 0 ? text.slice(0, practiceStart) : text).trim();
+}
+
+function stripQuestionSection(text: string, question: Question) {
+  const trimmed = text.trim();
+  if (!trimmed.startsWith('題目：')) return trimmed;
+
+  const firstHeading = trimmed.search(/\n【正確答案】/);
+  if (firstHeading >= 0) return trimmed.slice(firstHeading + 1).trim();
+
+  const optionCount = question.options.length;
+  const lines = trimmed.split(/\r?\n/);
+  return lines.slice(1 + optionCount).join('\n').trim();
 }
 
 function formatQuestionBlock(question: Question) {

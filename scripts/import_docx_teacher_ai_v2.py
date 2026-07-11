@@ -314,8 +314,6 @@ def build_ai_text(question: dict, parsed: dict) -> str:
         option_lines.append(f"{label}. {text}".strip())
     return "\n".join(
         [
-            question_block(question),
-            "",
             "【正確答案】",
             correct_line,
             "【核心機轉與臨床解析】",
@@ -324,8 +322,6 @@ def build_ai_text(question: dict, parsed: dict) -> str:
             "\n".join(option_lines),
             "【考前記憶句】",
             build_memory_sentence(question, parsed),
-            "【再練習】",
-            practice_block(question, question.get("id", "")),
         ]
     ).strip()
 
